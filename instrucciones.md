@@ -18,8 +18,7 @@ Vamos a aprovechar la configuración del entorno de trabajo con este repositorio
 ```
 Miren Berasategi :octocat: [@mberasategi](http://github.com/mberasategi)
 ```
-    - Añade si quieres más líneas con más información acerca de ti
-    - Guarda el archivo. Asegúrate de hacerlo en el directorio `estudiantes` del repositorio `Elementos-de-la-UX`.
+5. Añade si quieres más líneas con más información acerca de ti y guarda el archivo. Asegúrate de hacerlo en el directorio `estudiantes` del repositorio `Elementos-de-la-UX`.
 6. Vuelve a la terminal, comprueba que git ha reconocido los cambios con `git status`, y añade todos los cambios para el siguiente commit con `git add .`. Después, haz commit utilizando un mensaje descriptivo, por ejemplo, `git commit -m "Añadir TUNOMBREDEUSUARIO al directorio de estudiantes"`
 7. Actualiza tu fork en GitHub con los cambios que acabas de hacer en tu ordenador: `git push origin NOMBREDETUBRANCH`
 8. Accede al [repositorio central de Elementos de la UX](https://github.com/DeustoPWEB2018/Elementos-de-la-UX) y crea [un nuevo pull request](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/compare) para incorporar tus cambios. 
