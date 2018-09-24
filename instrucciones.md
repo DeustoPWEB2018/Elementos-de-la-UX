@@ -13,12 +13,11 @@ Vamos a aprovechar la configuración del entorno de trabajo con este repositorio
     1. En tu navegador, asegúrate de que estás viendo tu fork y haz clic sobre el botón verde **Clone or download**. Copia la URL. 
     2. En la terminal, accede a la carpeta en la que almacenes tus repositorios git, y utiliza el comando `git clone URL-COPIADA-ANTES`. Esto creará la carpeta `Elementos-de-la-UX` en tu ordenador.
 3. Crea un branch llamado `añadir-TUNOMBREDEUSUARIO` (por ejemplo, `añadir-mberasategi`) para hacer los cambios correspondientes a la incorporación de tu nombre, y cámbiate a esa rama: `git checkout -b NOMBERDETUBRANCH`
-4. Accede al directorio `estudiantes` de la carpeta recién creada (`cd Elementos-de-la-UX/estudiantes`) y crea el archivo que contendrá tu nombre:
-    - Si estás en Windows, `copy mberasategi.md TUNOMBREDEUSUARIO.md`
-    - Si estás en Mac, `cp mberasategi.md TUNOMBREDEUSUARIO.md`
-5. Abre el archivo `TUNOMBREDEUSUARIO.md` con Sublime Text y personaliza los datos que aparecen ahí: 
-    - Escribe tu nombre y apellido como título de primer nivel (`#`) en la línea 1
-    - Modifica el enlace de la línea 3 para que sea tu nombre de usuario de GitHub el que lleve a tu perfil (`:octocat: [@TUNOMBREDEUSUARIO](http://github.com/TUNOMBREDEUSUARIO)`)
+4. Utiliza Sublime Text para crear un archivo llamado `TUNOMBREDEUSUARIO.md`  y guárdalo en una carpeta nueva llamada `estudiantes` dentro del repositorio `Elementos-de-la-UX`.
+5. Copia este texto en el archivo recién creado y sustituye con tus datos (nombre y apellido y nombre de usuario y URL del perfil de GitHub):
+```
+Miren Berasategi :octocat: [@mberasategi](http://github.com/mberasategi)
+```
     - Añade si quieres más líneas con más información acerca de ti
     - Guarda el archivo. Asegúrate de hacerlo en el directorio `estudiantes` del repositorio `Elementos-de-la-UX`.
 6. Vuelve a la terminal, comprueba que git ha reconocido los cambios con `git status`, y añade todos los cambios para el siguiente commit con `git add .`. Después, haz commit utilizando un mensaje descriptivo, por ejemplo, `git commit -m "Añadir TUNOMBREDEUSUARIO al directorio de estudiantes"`
