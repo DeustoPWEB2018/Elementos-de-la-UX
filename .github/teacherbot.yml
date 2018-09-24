@@ -1,0 +1,32 @@
+addCollaborators:
+  newCollaboratorMessage: "¡Hola! Soy el :robot: asistente de este repositorio (puedes llamarme El Robot).\n\n Me alegro de verte por aquí :wave:. Supongo que sabes lo que estás haciendo, así que voy a añadirte como usuario colaborador. Esto te dará permisos para hacer algunas cosas en este repositorio."
+  existingCollaboratorMessage: ""
+remindMerge:
+  merged: ":tada: ¡Enhorabuena! Tus cambios han sido integrados en el repositorio principal **Elementos de la Experiencia de Usuario**.\n\nAhora tienes algunas tareas que hacer:\n\n- Una vez que ya se han integrado tus cambios, puedes eliminar el branch donde los has ido generando. Simplemente haz clic en el botón `Delete branch` aquí abajo y se borrará el branch de tu fork personal de este repositorio.\n- El repositorio original ahora ha cambiado (con los cambios que se acaban de integrar). Acuérdate de actualizar tu copia personal o fork (tienes [instrucciones](https://deustopweb2018.github.io/actualizar-fork) si te hacen falta)."
+  unmerged: ":poop: Oops, parece que este PR se ha cerrado sin hacer merge. ¿Ha pasado algo?\n\nAunque el contenido no esté en condiciones de combinar todavía, puedes continuar haciendo modificaciones (commits) en el mismo branch en el que estabas trabajando (aparecerán en la lista de actividad en esta misma página), y se combinarán cuando estén listos.\n\nNo dudes en pedir ayuda a mi versión humana (menciónala con @) si necesitas ayuda con algo."
+# For the "add your name" exercise with this repo, leave path and extension checks enabled:
+checkPath: 
+  name: "Ruta del archivo (directorio)"
+  path: "estudiantes"
+  detailsURL: "https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/master/instrucciones.md"
+  success: "Tu archivo está en el directorio correcto."
+  failure: "Tu archivo no está en el directorio 'estudiantes'. Haz clic en 'Details' para ver las instrucciones otra vez."
+checkExtension:
+  name: "Extensión del archivo"
+  extension: "md"
+  detailsURL: "https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/master/instrucciones.md"
+  success: "Tu archivo tiene la extensión correcta."
+  failure: "La extensión de tu archivo no es .md. Haz clic en 'Details' para ver las instrucciones otra vez."
+# Once the "add your name" part of the repo is finished, empty these fields:
+# checkExtension:
+#   name: ""
+#   extension: ""
+#   detailsURL: ""
+#   success: ""
+#   failure: ""
+# checkPath:
+#   name: ""
+#   path: ""
+#   detailsURL: ""
+#   success: ""
+#   failure: ""
