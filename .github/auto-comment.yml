@@ -1,14 +1,17 @@
 pullRequestOpened: >
    Acabas de iniciar tu primer pull request en este repositorio, ¡bien! :thumbsup:
 
+
    Al ser un repositorio en el que vamos a trabajar toda la clase, es necesario que alguien revise los cambios que propones antes de integrarlos. Para este primer ejercicio, haz clic en **Reviewers** a la derecha y selecciona a Miren de la lista.
+
 
    Si recibes comentarios o alguna sugerencia de cambio, realiza esos cambios en tu ordenador y vuelve a hacer push. Los commits aparecerán aquí debajo.
 
+
    Cuando Miren apruebe tus modificaciones, podrás incorporar tus cambios a este repositorio haciendo clic en el botón **Merge pull request** (que estará verde).
 
-   ¡No dudes en dejar un comentario aquí mismo si tienes alguna pregunta!
 
+   ¡No dudes en dejar un comentario aquí mismo si tienes alguna pregunta!
 
 
 #  For the first assignment, adding name to directory:
