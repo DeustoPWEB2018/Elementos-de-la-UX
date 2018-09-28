@@ -35,4 +35,23 @@ Con esto ya tendrás una copia personal del repositorio de contenidos adicionale
 
 :construction: Detalles en breve :construction:
 
+### Autoevaluaciones
 
+Solamente la primera vez:
+
+1.  (traer branch evaluaciones a copia local, publicar en copia personal)
+
+Después, cada vez que tengamos una sesión de trabajo en grupos expertos:
+
+1. En la terminal, accede a tu copia del repositorio del proyecto y cámbiate al branch `evaluaciones`: `git checkout evaluaciones`
+2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Verás que ahora, en lugar de mostrar los contenidos trabajados acerca de los elementos de la UX, solamente tienes un directorio `evaluaciones`. Abre el archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`)
+3. Rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el grupo de expertos), siguiendo las indicaciones que encontrarás en el mismo documento. Guárdalo modificando el nombre como corresponde, por ejemplo, `BerasategiMiren-20181002.xlsx`
+4. En la terminal, guarda, confirma y envía a tu copia personal en la nube los cambios realizados
+    ```
+    git add .
+    git commit -m "Evaluar reunión del día 20181002"
+    git push origin evaluaciones
+    ```
+5. Vuelve a tu branch de trabajo para seguir generando el contenido que te corresponde en este borrador: `git checkout TUNOMBRE-TEMA`
+
+Estas autoevaluaciones no necesitan incorporarse al repositorio central, por lo que no es necesario que crees un pull request para esto. Las recogeré del repositorio personal de cada estudiante.
