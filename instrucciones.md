@@ -37,16 +37,20 @@ Con esto ya tendrás una copia personal del repositorio de contenidos adicionale
 
 ### Autoevaluaciones
 
-Solamente la primera vez:
+Solamente la primera vez, es necesario que actualices tu fork con los cambios del repositorio central, que incluyen la plantilla para la autoevaluación. Para esto, accede a la carpeta del repositorio con tu terminal y ejecuta los siguientes comandos:
+```
+git remote add upstream https://github.com/DeustoPWEB2018/Elementos-de-la-UX.git
+git fetch upstream
+git checkout evaluaciones
+git push origin evaluaciones
+```
 
-1.  (traer branch evaluaciones a copia local, publicar en copia personal)
+Después, cada vez que participes en una sesión de trabajo en grupos expertos:
 
-Después, cada vez que tengamos una sesión de trabajo en grupos expertos:
-
-1. En la terminal, accede a tu copia del repositorio del proyecto y cámbiate al branch `evaluaciones`: `git checkout evaluaciones`
+1. En la terminal, accede a tu carpeta del repositorio y cámbiate al branch `evaluaciones`: `git checkout evaluaciones`
 2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Verás que ahora, en lugar de mostrar los contenidos trabajados acerca de los elementos de la UX, solamente tienes un directorio `evaluaciones`. Abre el archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`)
-3. Rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el grupo de expertos), siguiendo las indicaciones que encontrarás en el mismo documento. Guárdalo modificando el nombre como corresponde, por ejemplo, `BerasategiMiren-20181002.xlsx`
-4. En la terminal, guarda, confirma y envía a tu copia personal en la nube los cambios realizados
+3. Rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el grupo de expertos), siguiendo las indicaciones que encontrarás en el mismo documento. Guárdalo modificando el nombre como corresponde, por ejemplo, `BerasategiMiren-20181002.xlsx` (con `Archivo > Guardar como`)
+4. En la terminal, guarda, confirma y envía a tu copia personal en la nube los cambios realizados:
     ```
     git add .
     git commit -m "Evaluar reunión del día 20181002"
