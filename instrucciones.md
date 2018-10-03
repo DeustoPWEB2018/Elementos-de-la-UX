@@ -8,6 +8,10 @@ Para incorporar estas aportaciones, utilizaremos el flujo de trabajo que ya has 
 
 Vamos a aprovechar la configuración del entorno de trabajo con este repositorio para recordar la manera concreta de aplicar este flujo de trabajo y al mismo tiempo dejar ya preparado el repositorio para cuando empecemos con el trabajo _de verdad_. 
 
+1. Clona este repositorio a tu ordenador. En la terminal, accede a la carpeta en la que almacenes tus repositorios git, y utiliza el comando `git clone https://github.com/DeustoPWEB2018/Elementos-de-la-UX.git`. Esto creará la carpeta `Elementos-de-la-UX` en tu ordenador.
+
+<!-- Previous steps, before we actually started working. Fork+branch approach
+
 1. Crea un fork de este repositorio en tu cuenta personal. Haz clic en el botón **Fork** que tienes en la parte superior derecha de la pantalla.
 2. Clona tu copia personal a tu ordenador. 
     1. En tu navegador, asegúrate de que estás viendo tu fork y haz clic sobre el botón verde **Clone or download**. Copia la URL. 
@@ -28,8 +32,9 @@ Miren Berasategi :octocat: [@mberasategi](http://github.com/mberasategi)
         - **Head fork** debe ser tu fork personal, branch `añadir-TUNOMBREDEUSUARIO`
         - Haz clic en **Create pull request**
 9. ¡Sigue las instrucciones en el propio pull request para terminar!
+-->
 
-Con esto ya tendrás una copia personal del repositorio de contenidos adicionales en tu cuenta de GitHub, que utilizarás a lo largo de todo el semestre. La manera de trabajar será prácticamente idéntica para las modificaciones futuras en este repositorio, tal y como se detalla en el siguiente apartado.
+Con esto ya tendrás una copia personal del repositorio de contenidos adicionales en tu ordenador, que utilizarás a lo largo de todo el semestre. La manera de trabajar será prácticamente idéntica para las modificaciones futuras en este repositorio, tal y como se detalla en el siguiente apartado.
 
 ## Aportaciones del trabajo con expertos
 
@@ -37,12 +42,27 @@ Con esto ya tendrás una copia personal del repositorio de contenidos adicionale
 
 ### Autoevaluaciones
 
-Solamente la primera vez, es necesario que actualices tu fork con los cambios del repositorio central, que incluyen la plantilla para la autoevaluación. Para esto, accede a la carpeta del repositorio con tu terminal y ejecuta los siguientes comandos:
+Las autoevaluaciones se recogen en una carpeta llamada `evaluaciones` dentro del directorio correspondiente a cada unidad. 
+
+Cada vez que participes en una sesión de trabajo en grupos expertos:
+
+1. En la terminal, accede a tu carpeta del repositorio y cámbiate a tu branch de trabajo: `git checkout TUNOMBRE-TEMA`
+2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Accede al directorio `evaluaciones` de la unidad en la que estemos trabajando y abre el archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`)
+3. Rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el grupo de expertos), siguiendo las indicaciones que encontrarás en el mismo documento. Guárdalo modificando el nombre como corresponde, por ejemplo, `BerasategiMiren-20181002.xlsx` (con `Archivo > Guardar como`)
+4. En la terminal, guarda, confirma y envía a la nube los cambios realizados:
+    ```
+    git add .
+    git commit -m "Evaluar reunión del día 20181002"
+    git push origin TUNOMBRE-TEMA
+    ```
+5. Continúa realizando modificaciones (y guardando, confirmando y enviándolas al repositorio central) en el contenido en sí. 
+
+<!-- Previous branch approach 
+
+En primer lugar es necesario que actualices tu copia local con los cambios del repositorio central, que incluyen la plantilla para la autoevaluación. Para esto, accede a la carpeta del repositorio con tu terminal y ejecuta los siguientes comandos:
 ```
-git remote add upstream https://github.com/DeustoPWEB2018/Elementos-de-la-UX.git
-git fetch upstream
+git pull origin master
 git checkout evaluaciones
-git push origin evaluaciones
 ```
 
 Después, cada vez que participes en una sesión de trabajo en grupos expertos:
@@ -59,3 +79,5 @@ Después, cada vez que participes en una sesión de trabajo en grupos expertos:
 5. Vuelve a tu branch de trabajo para seguir generando el contenido que te corresponde en este borrador: `git checkout TUNOMBRE-TEMA`
 
 Estas autoevaluaciones no necesitan incorporarse al repositorio central, por lo que no es necesario que crees un pull request para esto. Las recogeré del repositorio personal de cada estudiante.
+
+-->
