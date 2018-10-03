@@ -95,6 +95,8 @@ Recuerda revisar también las [instrucciones para contribuir al contenido](#todo
 
 ### Todos los miembros del grupo de expertos
 
+#### Autoevaluaciones 
+
 En cuanto finalicemos la clase dedicada al trabajo en grupos de expertos, todos tendréis que realizar las **autoevaluaciones** para todos los participantes. Las autoevaluaciones se recogen en una carpeta llamada `evaluaciones` dentro del directorio correspondiente a cada unidad. 
 
 Cada vez que participes en una sesión de trabajo en grupos de expertos:
@@ -135,6 +137,8 @@ Estas autoevaluaciones no necesitan incorporarse al repositorio central, por lo 
 
 -->
 
+#### Contribución de contenido
+
 Como probablemente no tendremos tiempo durante la clase dedicada al trabajo en grupos de expertos de finalizar la redacción, será necesario que cada uno de los miembros del grupo continúe aportando al documento conjunto durante el resto de la semana. Para esto, cada vez que vayas a iniciar el trabajo en tu ordenador:
 
 1. Asegúrate de que tu copia local está actualizada con los últimos cambios del repositorio central: `git pull origin TEMA`
@@ -148,6 +152,8 @@ Como probablemente no tendremos tiempo durante la clase dedicada al trabajo en g
     ```
 
 Recuerda guardar y confirmar los cambios cada vez que finalices un bloque de modificaciones (con `git add .` y `git commit -m "Mensaje descriptivo"`). Puedes subir a la nube  (`git push origin TEMA`) solo de vez en cuando, por lo menos cuando vayas a dejar de trabajar temporalmente. Cuando vuelvas al trabajo, sigue los pasos empezando otra vez desde el 1.
+
+#### Revisar y aprobar el contenido
 
 Además de contribuir al contenido, todos los miembros del grupo de expertos tenéis también que revisar y comentar el contenido de los demás. Podréis ver las contribuciones de las otras personas en el documento de trabajo, y utilizad la página del pull request para comentar y discutir sobre el contenido.
 
