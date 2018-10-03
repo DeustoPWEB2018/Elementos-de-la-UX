@@ -39,9 +39,10 @@ Con esto ya tendrás una copia personal del repositorio de contenidos adicionale
 ## Aportaciones del trabajo con expertos
 
 Cuando os reunáis con el grupo de expertos, primero decidid quién se encargará de cada tarea:
-    - Secretaría: tomar nota y recoger el acta en papel de la reunión durante la clase, decisiones, primera redacción del contenido, :octocat: contribuir al contenido después de clase, revisar y comentar el contenido antes de entregar
-    - Control: controlar el tiempo y asegurar el cumplimiento de los requisitos, :octocat: añadir el texto al repositorio (instrucciones a continuación), contribuir al contenido después de clase, revisar y comentar el contenido antes de entregar
-    - Comunicación: comunicarse con el profesor y/o otros grupos, realizar la entrega en ALUD (indicaciones a continuación), presentar el contenido a la clase, :octocat: contribuir al contenido después de clase, revisar y comentar el contenido antes de entregar
+
+- Secretaría: tomar nota y recoger el acta en papel de la reunión durante la clase, decisiones, primera redacción del contenido, :octocat: contribuir al contenido después de clase, revisar y comentar el contenido antes de entregar
+- Control: controlar el tiempo y asegurar el cumplimiento de los requisitos, :octocat: añadir el texto al repositorio ([instrucciones a continuación](#control)), contribuir al contenido después de clase, revisar y comentar el contenido antes de entregar
+- Comunicación: comunicarse con el profesor y/o otros grupos, presentar el contenido a la clase, :octocat: marcar el contenido como finalizado ([instrucciones a continuaión](#comunicacion)), contribuir al contenido después de clase, revisar y comentar el contenido antes de entregar
 
 A continuación se detallan las tareas paso a paso para cada rol.
 
