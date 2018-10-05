@@ -24,7 +24,11 @@ Fast-forward
  delete mode 100644 1-estrategia/evaluaciones/OdriozolaInaki-20181003.xlsx
  delete mode 100644 "1-estrategia/evaluaciones/OdriozolaI\303\261aki-20181003.xlsx"
 
+<<<<<<< HEAD
 C:\Users\ihern\Repositorios\Elementos-de-la-UX **git status
+=======
+C:\Users\ihern\Repositorios\Elementos-de-la-UX> **git status
+>>>>>>> 6780dc628ebfae39babfcbb269a3fcd8e0d617c6
 
 On branch documentar
 Changes not staged for commit:
@@ -37,8 +41,11 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 C:\Users\ihern\Repositorios\Elementos-de-la-UX> **git add .
 
+<<<<<<< HEAD
+=======
+C:\Users\ihern\Repositorios\Elementos-de-la-UX> **git status
+>>>>>>> 6780dc628ebfae39babfcbb269a3fcd8e0d617c6
 
-C:\Users\ihern\Repositorios\Elementos-de-la-UX> git status
 On branch documentar
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
