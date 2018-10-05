@@ -21,22 +21,15 @@ Fast-forward
  delete mode 100644 1-estrategia/evaluaciones/OdriozolaInaki-20181003.xlsx
  delete mode 100644 "1-estrategia/evaluaciones/OdriozolaI\303\261aki-20181003.xlsx"
 
-<<<<<<< HEAD
-C:\Users\ihern\Repositorios\Elementos-de-la-UX **git status
-=======
 C:\Users\ihern\Repositorios\Elementos-de-la-UX> **git status
->>>>>>> 6780dc628ebfae39babfcbb269a3fcd8e0d617c6
 On branch documentar
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
         modified:   1-estrategia/documentar.md
 no changes added to commit (use "git add" and/or "git commit -a")
-C:\Users\ihern\Repositorios\Elementos-de-la-UX> **git add .
-<<<<<<< HEAD
-=======
-C:\Users\ihern\Repositorios\Elementos-de-la-UX> **git status
->>>>>>> 6780dc628ebfae39babfcbb269a3fcd8e0d617c6
+C:\Users\ihern\Repositorios\Elementos-de-la-UX> git add .
+C:\Users\ihern\Repositorios\Elementos-de-la-UX> git status
 On branch documentar
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
@@ -55,4 +48,3 @@ Total 4 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/DeustoPWEB2018/Elementos-de-la-UX.git
    5acb4cf..44e5c4b  documentar -> documentar
-C:\Users\ihern\Repositorios\Elementos-de-la-UX>
