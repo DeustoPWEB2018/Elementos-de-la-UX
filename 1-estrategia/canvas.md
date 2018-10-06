@@ -10,7 +10,7 @@ A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de
 Cuando usarlo?
 Lean UX ayuda a organizar todo proyecto o iniciativa desde la primera etapa de la UX. Es cierto que tambien se puede aplicar sobre la marcha o en lugares donde se viene trabajando de otra manera, pero lo recomendable es utilizar la herramienta desde el incio como una manera de gestiónar la UX.
 ~~~
-~~~
+
 Como se usa?
  Para armar tu Lean UX canvas tienes que seguir 8 pasos:
 1.
@@ -24,8 +24,8 @@ Cada hipótesis debería centrarse en una función.
 8. ¿Cual es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante? Hacer lluvia de ideas con los tipos de experiencias que se podrían llevar a cabo para descubrir si la suposición más arriesgada es verdadera o falsa.
 
 ![Ejemplo de aplicación](https://cdn-images-1.medium.com/max/2000/1*eQY7Un9z8pZ7xjZFoSSqyA.jpeg)
-Un ejemplo de aplicación se puede encontrar [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
-~~~
+El UX en 9 pasos [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
+
 
 Leire:
 - Canvas (los 4 primeros puntos)
