@@ -24,7 +24,8 @@ Cada hipótesis debería centrarse en una función.
 8. ¿Cual es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante? Hacer lluvia de ideas con los tipos de experiencias que se podrían llevar a cabo para descubrir si la suposición más arriesgada es verdadera o falsa.
 
 ![Ejemplo de aplicación](https://cdn-images-1.medium.com/max/2000/1*eQY7Un9z8pZ7xjZFoSSqyA.jpeg)
-El UX en 9 pasos [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
+
+También pueden ver un desarrollo del UX en 9 pasos [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
 
 
 Leire:
