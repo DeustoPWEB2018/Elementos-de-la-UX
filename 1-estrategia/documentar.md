@@ -46,19 +46,18 @@ Por su parte, el blog UX for masses nos ofrece algunas claves de cuáles pueden 
 
 4. Es posible que el usuario encuentre dificultades en las tareas a realizar, de ahí que sería una buena opción recopilar información acerca de posibles dificultades al respecto. Aquí tenemos una lista de indicadores al respecto: 
 
-Ratio de usuarios que han completado todas las tareas
-Ratio de usuarios que han cometido algún error en alguna de las tareas
-Cantidad media de errores cometidos por los usuarios durante las tareas realizadas
-Tiempo estimado para la realización de cada tarea
-Grado de dificultad encontrado para completar cada tarea 
+	* Ratio de usuarios que han completado todas las tareas
+	* Ratio de usuarios que han cometido algún error en alguna de las tareas
+	* Cantidad media de errores cometidos por los usuarios durante las tareas realizadas
+	* Tiempo estimado para la realización de cada tarea
+	* Grado de dificultad encontrado para completar cada tarea 
 
 5. Cuestionar a los usuarios acerca de la descripción general de nuestro sitio nos podría ofrecer una visión más abstracta acerca de cómo considera el usuario nuestro sitio web. Nos puede ser de utilidad sobre todo si observamos que el usuario tiene una idea muy diferente de lo que es el sitio web. 
 
 6. Mientras que el último aspecto sería el de la valoración. Teniendo en cuenta todos los parámetros, podemos cuestionar al usuario acerca de una valoración global acerca de nuestro sitio web. 
 
-#Bibliografía utilizada
+# Bibliografía utilizada
 
-Bibliografía:
 - Robert Hoekman Jr. (2015), The Field Guide to UX Strategy. UXPin (pp. 42-55) 
 	Disponible online: https://www.uxpin.com/studio/ebooks/ux-strategy-field-guide/
 - UX For Masses. Disponible online: http://www.uxforthemasses.com/ux-metrics/ 
