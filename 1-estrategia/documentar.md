@@ -22,3 +22,46 @@ Sin tomamos como ejemplo la homepage de Twitter, podemos concluir que la red soc
 * Sin distracciones: no existe ningún factor que distraiga al usuario. Está claro que hay que hacer en esa página.
 
 # Metricas de exito: (Iñigo) 
+Las métricas de éxito se utilizan como indicadores que permiten comprobar si las decisiones que hemos tomado en el proceso estratégico son las adecuadas para conseguir los objetivos que nos hemos planteado. Para ello, existen indicadores estándar, sobre los cuales deben partir los indicadores que vayamos a establecer posteriormente. Es recomendable a su vez, comenzar por preguntas o aspectos más generales para posteriormente, terminar en detalles más concretos. 
+ 
+Entre los criterios más comunes encontramos el denominado “HEART” Metric, cuyo nombre deriva de los acrónimos de cada uno de los aspectos que, según este criterio, se consideran más importantes. 
+
+1. Satisfacción de los usuarios en relación al producto  
+
+2. Grado de respuesta del usuario sobre el producto
+
+3. El número de usuarios que se registra en un determinado espacio temporal
+
+4. El número de usuarios que utiliza un producto durante un determinado tiempo    
+
+5. Grado de satisfacción respecto a la consecución de las tareas que permite la web
+
+Por su parte, el blog UX for masses nos ofrece algunas claves de cuáles pueden ser los aspectos más relevantes a la hora de medir los criterios según los cuáles los usuarios tendrán una mayor actividad en nuestro sitio web. En este sentido, nos ofrece la posibilidad de plantear preguntas a modo de cuestionario a los posibles usuarios, de tal forma que la opinión que recojamos de los propios usuarios podrá servirnos para realizar las mejoras que creamos pertinentes. 
+
+1. Según los propios creadores de la propuesta, uno de los aspectos fundamentales del éxito de nuestro producto reside en la satisfacción. Podemos plantear una cuestión referida a la satisfacción pidiendo a los usuarios que realicen una valoración acerca de su experiencia de uso en el sitio, partiendo de una escala del uno al cinco, en la que la máxima satisfacción correspondería a una puntuación de cinco. 
+
+2. Para medir el grado de recomendación que realizarían los usuarios de nuestro sitio web podemos utilizar el criterio de clasificación denominado NPS (Net Promoter Score), podremos clasificarlos en tres grupos: Los detractores serían aquellos con una puntuación de entre 0 y 6, los pasivos aquellos que nos otorguen entre un 7 y un 8 y los promotores serían aquellos que puntuaran entre un 9 y un 10 dicha sección de nuestra web. 
+
+3. La usabilidad nos permitirá conocer si el usuario considera útil nuestro sitio web y para qué actividades o acciones la considera como tal. Una buena opción para ello sería establecer un listado con las tareas que pueden realizarse en nuestro sitio web, de tal forma que conseguiremos una opinión más exacta acerca de la usabilidad de nuestro sitio web. 
+
+4. Es posible que el usuario encuentre dificultades en las tareas a realizar, de ahí que sería una buena opción recopilar información acerca de posibles dificultades al respecto. Aquí tenemos una lista de indicadores al respecto: 
+
+Ratio de usuarios que han completado todas las tareas
+Ratio de usuarios que han cometido algún error en alguna de las tareas
+Cantidad media de errores cometidos por los usuarios durante las tareas realizadas
+Tiempo estimado para la realización de cada tarea
+Grado de dificultad encontrado para completar cada tarea 
+
+5. Cuestionar a los usuarios acerca de la descripción general de nuestro sitio nos podría ofrecer una visión más abstracta acerca de cómo considera el usuario nuestro sitio web. Nos puede ser de utilidad sobre todo si observamos que el usuario tiene una idea muy diferente de lo que es el sitio web. 
+
+6. Mientras que el último aspecto sería el de la valoración. Teniendo en cuenta todos los parámetros, podemos cuestionar al usuario acerca de una valoración global acerca de nuestro sitio web. 
+
+#Bibliografía utilizada
+
+Bibliografía:
+- Robert Hoekman Jr. (2015), The Field Guide to UX Strategy. UXPin (pp. 42-55) 
+	Disponible online: https://www.uxpin.com/studio/ebooks/ux-strategy-field-guide/
+- UX For Masses. Disponible online: http://www.uxforthemasses.com/ux-metrics/ 
+- Uxpin. Disponible online:  https://www.uxpin.com/studio/blog/ux-metrics-tracking/  	
+- Yusef Hassan Montero (2006), Factores del diseño web orientado a la satisfacción y no frustración de uso (pp. 239-257). 
+	Disponible online: http://redc.revistas.csic.es/index.php/redc/article/view/291/353 
