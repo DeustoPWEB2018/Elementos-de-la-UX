@@ -35,12 +35,12 @@ Tras investigar acerca del público objetivo del proyecto, se tienen que fijar u
 
 * Accesibilidad: hace referencia a la posibilidad de acceder que tiene el usuario. En el panorama actual multicanal, un proyecto puede diseñarse para que sea accesible para móvil, ordenador, tablet...
 * Funcionalidad: se refiere a que todo lo disponible en la web funcione correctamente.
-* Findability:
-* Utilidad:
-* Estética:
-* Credibilidad:
-Sin tomamos como ejemplo la homepage de Twitter, podemos concluir que la red social se puede basar, entre otros muchos, en los siguientes criterios de diseño:
-! [Twitter](/Desktop/Twitter.png)
+* Findability: se refiere a la facilidad o dificultad que el usuario pueda tener para encontrar lo que busca.
+* Utilidad: hace referencia al uso que el usuario pueda dar a la web.
+* Estética: esta cualidad busca una apariencia atractiva para ofrecer al usuarui. La elección de la tipografía es un ejemplo de criterio influenciado por este factor.
+* Credibilidad: no es un factor puramente de diseño, pero las facilidades de uso que ofrezca la web al usuario, hará que ésta aparetemente sea más fiable y profesional.
+Si tomamos como ejemplo la homepage de Twitter, podemos concluir que la red social se puede basar, entre otros muchos, en los siguientes criterios de diseño:
+! [Twitter](http://allthingsd.com/files/2013/10/Twitter-Homepage-New-640x341.png)
 * Un uso adecuado de colores: el predominio del color azul hace referencia a los tonos de la identidad visual corporativa de la empresa.
 * Poca congestión de información: Twitter opta por una página principal con espacio suficiente. Así es más legible.
 * Una arquitectura predecible: tanto para los usuarios nuevos como para los que tienen cierta experiencia, la red social no tiene complicación alguna para su uso. El inicio de sesión o el registro son fácilmente identificables.
