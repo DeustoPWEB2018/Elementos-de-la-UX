@@ -39,6 +39,7 @@ Tras investigar acerca del público objetivo del proyecto, se tienen que fijar u
 * Utilidad: hace referencia al uso que el usuario pueda dar a la web.
 * Estética: esta cualidad busca una apariencia atractiva para ofrecer al usuarui. La elección de la tipografía es un ejemplo de criterio influenciado por este factor.
 * Credibilidad: no es un factor puramente de diseño, pero las facilidades de uso que ofrezca la web al usuario, hará que ésta aparetemente sea más fiable y profesional.
+
 Si tomamos como ejemplo la homepage de Twitter, podemos concluir que la red social se puede basar, entre otros muchos, en los siguientes criterios de diseño:
 ! [Twitter](http://allthingsd.com/files/2013/10/Twitter-Homepage-New-640x341.png)
 * Un uso adecuado de colores: el predominio del color azul hace referencia a los tonos de la identidad visual corporativa de la empresa.
