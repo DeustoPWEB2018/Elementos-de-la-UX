@@ -30,6 +30,7 @@ Debemos tener claro que nuestro proyecto no tiene el objetivo de diseñar para t
 	- Post-its 
 	- ...
 - Bibliografía
+
 Alan Cooper (2001), "Un diseño para dar placer" en Presos de la tecnología. Pearson Educación: México (pp. 123-148). 
 
 Echave, María. Personas, un método para definir usuarios en proyectos UX:
