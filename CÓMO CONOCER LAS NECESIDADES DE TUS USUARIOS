@@ -1,12 +1,13 @@
 CÓMO CONOCER LAS NECESIDADES DE TUS USUARIOS
 
-ESQUEMA
-Introducción
+INTRODUCCIÓN
+
 Actualmente la interacción se ha vuelto fundamental para que la relación usuario-empresa no muera. Debido a ello, es necesario centrarse en la observación del desarrollo de las necesidades actuales del ser humano. Esto es importante para lograr que el usuario tenga una experiencia satisfactoria con el producto. Para lograr esa satisfacción del usuario, hay que definir a quien va dirigido el producto, es decir, cual será el público objetivo. 
 
 Una vez definido el público, debemos identificar cuál es la técnica más apropiada para que puedas desarrollarla según los objetivos del producto.  A continuación, se van a explicar algunas de las técnicas que se pueden utilizar:
 
-Tipos de técnicas
+TIPOS DE TÉCNICAS
+
 Skype (ANGIE)
 Investigación de guerrilla (ANE)
 
@@ -20,6 +21,19 @@ A parte de ser una forma barata y rápida para recopilar información de los usu
 - No existen limitaciones a nivel de herramientas
 - Es una técnica que vale para cualquier fase del desarrollo de un producto en la que se tenga al menos un prototipo que probar
 
+Una vez definida la técnica y las ventajas que tiene, el siguiente paso será indicar los pasos que hay que seguir para hacer un test de guerrilla.
+
+- Antes de empezar a hacer nada, hay que tener claro a donde se quiere llegar, es decir, qué se quiere lograr con las respuestas que se obtengan por los usuarios. También es necesario saber a quién irá dirigido el test, dónde se hará y cómo. 
+- El siguiente paso será preparar un guion de prueba. Este paso es lo más importante al preparar un test de usabilidad.
+- Es importante tener el equipo listo; comprobar el grabador de pantalla, el wifi, el ratón, la fuente de amilentación etc.
+- A parte del equipo, también hay que preparar a las personas que van a participar. Es importante darles confianza e intentar que tengan una experiencia agradable porque la opinión que darán será muy importante para el que hace el test.
+- Una vez esté todo listo y preparado, es la hora de grabar la sesión. Durante la sesión se pueden tomar algunas notas o apuntar las palabras clave para luego recordar mejor las respuestas. 
+- El último paso será analizar los resultados cuanto antes.
+
+
 Entrevista o encuestas a clientes (MARINA)
 
 Bibliografía
+- Dispersium: Test de usuarios de guerrilla: cómo hacerlos bien. 2014. Última consulta: 7 de octubre de 2018. Consulte aquí: https://dispersium.es/test-de-usuarios-de-guerrilla/
+- Dispersium: Test de usuarios de guerrilla: si no testeas es porque no quieres. 2014.  Última consulta: 7 de octubre de 2018. Consulte aquí: https://dispersium.es/tests-de-usuarios-de-guerrilla-como-hacerlos-bien/
+- Treder, M.: UX Design para Startups. Conoce a tus usuarios. 2013. (pp. 34-57)
