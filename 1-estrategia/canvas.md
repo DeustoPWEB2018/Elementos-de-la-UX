@@ -1,5 +1,5 @@
 Unidad 1: Estrategia
-## **Tema: Lean UX canvas**<h1> /play tada
+## **Tema: Lean UX canvas**<h1> ► /play tada
 
 ### Que es Lean UX canvas?
 
