@@ -17,8 +17,22 @@ Este paso se usa para describir la intención antes de la ejecución, es decir q
 		
 # Circunstancias de uso (Iñaki e Iñigo)
 
+Una vez hemos realizado un diseño abstracto de lo que queremos que sea nuestro proyecto, tenemos que comenzar a resolver las cuestiones clave acerca del mismo. Para ello, partiendo del concepto de las “5W”, vamos a identificar y a concretar con precisión a cada uno de los sujetos y factores que forman parte de nuestro proyecto.  
+
+* Quién: Detallaremos cuál es el público objetivo al que vamos a dirigirnos
+
+* Qué: Describir el servicio que queremos ofrecer a nuestro público objetivo	
+
+* Cuándo: En qué circunstancias, en este caso, el momento del día en el que nuestros clientes utilizarán nuestro producto. 
+
+* Dónde: En qué circunstancias, en este caso, el lugar en el que nuestros clientes utilizarán nuestro producto. Puede servirnos para adaptar nuestro sitio web a varios dispositivos, como _smartphones_ o _tablets_.  
+
+* Para qué: La razón por la cual nuestro público objetivo utilizará el servicio que vamos a ofrecer.  
+
+
 # Criterios de diseno (Iñaki)
-Tras investigar acerca del público objetivo del proyecto, se tienen que fijar unas pautas acerca del diseño del proyecto web. El éxito o fracaso del proyecto puede depender de dichos criterios. Una web ofrece servicios que tiene como objetivo satisfacer distintas necesidades del usuario. Por ejemplo, comprar, informarse, entretenerse, aprender o comunicarse. La diferencia entre un buen o mal diseño de la web puede hacer que el usuario opte por acudir a la competencia. Por lo tanto, los criterios de diseño deben hacer cumplir sus objetivos al usuario. La satisfacción de uso (2006; p. 240) es primordial. Sin embargo, el ejercicio de marcar los criterios no es sencillo, ya que consiste en diferenciar tu producto/servicio de otros ya existentes. De poco sirve calificar tu diseño de rápido, fácil de usar e intuitivo (2015; p. 47). Hay que centrarse en la diferenciación, y ser lo más específico posible. Los criterios de diseño se deben basar en los siguientes factores:
+Tras investigar acerca del público objetivo del proyecto, se tienen que fijar unas pautas acerca del diseño del proyecto web. El éxito o fracaso del proyecto puede depender de dichos criterios. Una web ofrece servicios que tiene como objetivo satisfacer distintas necesidades del usuario. Por ejemplo, comprar, informarse, entretenerse, aprender o comunicarse. La diferencia entre un buen o mal diseño de la web puede hacer que el usuario opte por acudir a la competencia. Por lo tanto, los criterios de diseño deben hacer cumplir sus objetivos al usuario. La satisfacción de uso (Hassan Moreno, 2006: p. 240) es primordial. Sin embargo, el ejercicio de marcar los criterios no es sencillo, ya que consiste en diferenciar tu producto/servicio de otros ya existentes. De poco sirve calificar tu diseño de rápido, fácil de usar e intuitivo (Hoekman Jr, 2015: p. 47). Hay que centrarse en la diferenciación, y ser lo más específico posible. Los criterios de diseño se deben basar en los siguientes factores:
+
 * Accesibilidad: hace referencia a la posibilidad de acceder que tiene el usuario. En el panorama actual multicanal, un proyecto puede diseñarse para que sea accesible para móvil, ordenador, tablet...
 * Funcionalidad: se refiere a que todo lo disponible en la web funcione correctamente.
 * Findability:
