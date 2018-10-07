@@ -1,7 +1,7 @@
 Unidad 1: Estrategia
-## **Tema: Lean UX canvas**<h1> ► /play tada
+## **Tema: Lean UX canvas**<h1> 
 
-### Que es Lean UX canvas?
+### Que es Lean UX canvas?<h2>
 
 Una herramienta que permite ver en un lienzo y de solo un vistazo toda la información relevante sobre un tema. Esto ayuda mucho para guiar el proceso de desarrollo de un servicio ó producto.
 A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de "cascada", esta herramienta funciona con una mirada interactiva, circular y global, a través de un desarrollo ágil que pone como meta corregir errores e incorporar mejoras de forma progresiva.
@@ -11,7 +11,7 @@ Cuando usarlo?
 Lean UX ayuda a organizar todo proyecto o iniciativa desde la primera etapa de la UX. Es cierto que tambien se puede aplicar sobre la marcha o en lugares donde se viene trabajando de otra manera, pero lo recomendable es utilizar la herramienta desde el incio como una manera de gestiónar la UX.
 ~~~
 
-### **Como se utiliza esta herramienta?** /play wups
+### **Como implementar esta herramienta?**<h3>
  Para armar tu Lean UX canvas tienes que seguir 8 pasos:
 
 1.
@@ -28,15 +28,11 @@ Cada hipótesis debería centrarse en una función.
 :pushpin:*Ejemplo de aplicación* :octocat::art:
 ![Ejemplo de aplicación](https://cdn-images-1.medium.com/max/2000/1*eQY7Un9z8pZ7xjZFoSSqyA.jpeg)
 
- /play ohmy
-
 También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
 
-/play trombone
 
 @leireneira :
 - Canvas (los 4 primeros puntos)
 - Conclusión
 - 1 ejemplo
 
-/play story
