@@ -6,7 +6,7 @@ Este documento que elabora la estrategia de la experiencia del usuario es muy im
 
 Este documento debe respetarse escrupulosamente porque nos permite establecer el objetivo de nuestro producto y ayudará al equipo a no abandonarlo. De hecho, permitirá tomar decisiones que apoyarán el proyecto. Además, consta de varios pasos que requieren especial atención. Por ejemplo, la fase más importante es la del diseño. No debe abandonarse porque es ella quien determinará el éxito o el fracaso de nuestro producto. Durante esta presentación, desarrollaremos las diferentes etapas de este documento que elabora la estrategia. En primer lugar, la visión del proyecto (1), luego las circunstancias de uso (2) y los criterios de diseño (3) y la métrica del éxito (4).
 
-## Vision 
+## Visión 
 Es un "vision statement" de nuestro producto. Es la respuesta a una serie de preguntas como: 
  * ¿Cómo veo mi producto? 
  * ¿Cómo quiero que este producto sea? 
