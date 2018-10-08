@@ -6,7 +6,7 @@ Este documento que elabora la estrategia de la experiencia del usuario es muy im
 
 Este documento debe respetarse escrupulosamente porque nos permite establecer el objetivo de nuestro producto y ayudará al equipo a no abandonarlo. De hecho, permitirá tomar decisiones que apoyarán el proyecto. Además, consta de varios pasos que requieren especial atención. Por ejemplo, la fase más importante es la del diseño, no debe abandonarse porque es ella quien determinará el éxito o el fracaso de nuestro producto. Durante esta presentación, desarrollaremos las diferentes etapas de este documento que elabora la estrategia. En primer lugar, la visión del proyecto (1), luego las circunstancias de uso (2) y los criterios de diseño (3) y la métrica del éxito (4).
 
-## Vision (Mégane)
+## Vision 
 Es un "vision statement" de nuestro producto. Es la respuesta a una serie de preguntas como: 
  * ¿Cómo veo mi producto? 
  * ¿Como quiero que este producto sea? 
@@ -83,7 +83,7 @@ Por su parte, el blog UX for masses nos ofrece algunas claves de cuáles pueden 
 
 6. Mientras que el último aspecto sería el de la valoración. Teniendo en cuenta todos los parámetros, podemos cuestionar al usuario acerca de una valoración global acerca de nuestro sitio web. 
 
-# Bibliografía utilizada
+## Bibliografía utilizada
 
 - Robert Hoekman Jr. (2015), The Field Guide to UX Strategy. UXPin (pp. 42-55) 
 	Disponible online: https://www.uxpin.com/studio/ebooks/ux-strategy-field-guide/
