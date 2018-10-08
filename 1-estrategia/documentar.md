@@ -1,3 +1,4 @@
+# Cómo documentar la estrategia
 
 Robert Hoekman dijo: "You can’t design a person’s reaction to a product. You can only influence.". Es por esta razón que es necesario elaborar un documento que recoja la estrategia que vamos a llevar a cabo para ampliar al máximo la satisfacción del usuario en su experiencia navegando por nuestro sitio web. Para hacer un producto, es necesario hacer una investigación, por lo que debemos utilizar esta investigación para desarrollar esta estrategia. 
 
@@ -5,7 +6,7 @@ Este documento que elabora la estrategia de la experiencia del usuario es muy im
 
 Este documento debe respetarse escrupulosamente porque nos permite establecer el objetivo de nuestro producto y ayudará al equipo a no abandonarlo. De hecho, permitirá tomar decisiones que apoyarán el proyecto. Además, consta de varios pasos que requieren especial atención. Por ejemplo, la fase más importante es la del diseño, no debe abandonarse porque es ella quien determinará el éxito o el fracaso de nuestro producto. Durante esta presentación, desarrollaremos las diferentes etapas de este documento que elabora la estrategia. En primer lugar, la visión del proyecto (1), luego las circunstancias de uso (2) y los criterios de diseño (3) y la métrica del éxito (4).
 
-# Vision (Mégane)
+## Vision (Mégane)
 Es un "vision statement" de nuestro producto. Es la respuesta a una serie de preguntas como: 
  * ¿Cómo veo mi producto? 
  * ¿Como quiero que este producto sea? 
@@ -15,7 +16,7 @@ Es un "vision statement" de nuestro producto. Es la respuesta a una serie de pre
 
 Este paso se usa para describir la intención antes de la ejecución, es decir que da informaciones generales sobre la idea de que uno tiene de nuestro producto. Esta es una parte muy útil para plantear las bases, no tiene que ser muy larga, pero debe ser muy clara. Es importante para la continuación del proyecto, para la toma de decisiones en el grupo de realización de nuestro producto.
 		
-# Circunstancias de uso (Iñaki e Iñigo)
+## Circunstancias de uso 
 
 Una vez hemos realizado un diseño abstracto de lo que queremos que sea nuestro proyecto, tenemos que comenzar a resolver las cuestiones clave acerca del mismo. Para ello, partiendo del concepto de las “5W”, vamos a identificar y a concretar con precisión a cada uno de los sujetos y factores que forman parte de nuestro proyecto.  
 
@@ -30,7 +31,7 @@ Una vez hemos realizado un diseño abstracto de lo que queremos que sea nuestro 
 * Para qué: La razón por la cual nuestro público objetivo utilizará el servicio que vamos a ofrecer.  
 
 
-# Criterios de diseno (Iñaki)
+## Criterios de diseno 
 Tras investigar acerca del público objetivo del proyecto, se tienen que fijar unas pautas acerca del diseño del proyecto web. El éxito o fracaso del proyecto puede depender de dichos criterios. Una web ofrece servicios que tiene como objetivo satisfacer distintas necesidades del usuario. Por ejemplo, comprar, informarse, entretenerse, aprender o comunicarse. La diferencia entre un buen o mal diseño de la web puede hacer que el usuario opte por acudir a la competencia. Por lo tanto, los criterios de diseño deben hacer cumplir sus objetivos al usuario. La satisfacción de uso (Hassan Moreno, 2006: p. 240) es primordial. Sin embargo, el ejercicio de marcar los criterios no es sencillo, ya que consiste en diferenciar tu producto/servicio de otros ya existentes. De poco sirve calificar tu diseño de rápido, fácil de usar e intuitivo (Hoekman Jr, 2015: p. 47). Hay que centrarse en la diferenciación, y ser lo más específico posible. Los criterios de diseño se deben basar en los siguientes factores:
 
 * Accesibilidad: hace referencia a la posibilidad de acceder que tiene el usuario. En el panorama actual multicanal, un proyecto puede diseñarse para que sea accesible para móvil, ordenador, tablet...
@@ -47,7 +48,7 @@ Si tomamos como ejemplo la homepage de Twitter, podemos concluir que la red soci
 * Una arquitectura predecible: tanto para los usuarios nuevos como para los que tienen cierta experiencia, la red social no tiene complicación alguna para su uso. El inicio de sesión o el registro son fácilmente identificables.
 * Sin distracciones: no existe ningún factor que distraiga al usuario. Está claro que hay que hacer en esa página.
 
-# Metricas de exito: (Iñigo) 
+## Metricas de exito 
 Las métricas de éxito se utilizan como indicadores que permiten comprobar si las decisiones que hemos tomado en el proceso estratégico son las adecuadas para conseguir los objetivos que nos hemos planteado. Para ello, existen indicadores estándar, sobre los cuales deben partir los indicadores que vayamos a establecer posteriormente. Es recomendable a su vez, comenzar por preguntas o aspectos más generales para posteriormente, terminar en detalles más concretos. 
  
 Entre los criterios más comunes encontramos el denominado “HEART” Metric, cuyo nombre deriva de los acrónimos de cada uno de los aspectos que, según este criterio, se consideran más importantes. 
