@@ -59,9 +59,11 @@ A continuación se detallan las tareas paso a paso para cada rol.
 La persona encargada de control será quien incorpore el contenido redactado o iniciado durante la clase (recogido en el acta en papel por secretaría) en este repositorio. Para esto:
 
 1. Asegúrate de que tienes la última versión del repositorio en tu ordenador. En tu terminal: `git pull origin master`
-2. Crea un branch de trabajo para utilizar durante esta unidad. Nombra el branch con una palabra que indique el tema en el que estáis trabajando, por ejemplo, `personas`: `git checkout -b TEMA`
+2. Cámbiate al branch de trabajo para vuestro tema
+    - Si ya habías creado el branch, cámbiate con `git checkout TEMA` y asegúrate de tenerlo actualizado con `git pull origin TEMA`
+    - Si no lo has creado aún, hazlo nombrando el branch con una palabra que indique el tema en el que estáis trabajando: `git checkout -b TEMA`. 
 3. Utilizando Sublime Text, crea un archivo nuevo y añade el texto que hayáis elaborado durante la reunión en clase utilizando la sintaxis de Markdown. Aseguráos de establecer quién escribirá sobre cada sección o parte del documento, para evitar pisaros durante el trabajo
-4. Guárdalo en la carpeta de la unidad correspondiente, con el nombre del tema que estéis tratando, por ejemplo, `personas.md`. Ten en cuenta estas indicaciones a la hora de dar nombre a los archivos:
+4. Guárdalo en la carpeta de la unidad correspondiente, con el nombre del tema que estéis tratando y añadiendo la extensión `.md` al final, por ejemplo, `personas.md`. Ten en cuenta estas indicaciones a la hora de dar nombre a los archivos:
     - Utiliza siempre minúsculas 
     - Evita utilizar espacios: puedes sustituirlos por guiones
     - No utilizar caracteres especiales como ñ, letras con tilde, o símbolos como \& o \%
@@ -102,8 +104,8 @@ En cuanto finalicemos la clase dedicada al trabajo en grupos de expertos, todos 
 Cada vez que participes en una sesión de trabajo en grupos de expertos:
 
 1. En la terminal, accede a tu carpeta del repositorio y crea el branch de trabajo para utilizar durante esta unidad: `git checkout -b TEMA`
-2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Accede al directorio `evaluaciones` de la unidad en la que estemos trabajando y abre el archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`)
-3. Rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el grupo de expertos), siguiendo las indicaciones que encontrarás en el mismo documento. Guárdalo modificando el nombre como corresponde, por ejemplo, `BerasategiMiren-20181002.xlsx` (con `Archivo > Guardar como`)
+2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Accede al directorio `evaluaciones` de la unidad en la que estemos trabajando. Haz una coia del archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`) y cámbiale el nombre para que indique tu nombre y la fecha correcta, por ejemplo, `BerasategiMiren-20181002.xlsx`
+3. Abre el archivo recién creado y rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el grupo de expertos), siguiendo las indicaciones que encontrarás en el mismo documento, y guárdalo 
 4. En la terminal, guarda, confirma y envía a la nube los cambios realizados:
     ```
     git add .
