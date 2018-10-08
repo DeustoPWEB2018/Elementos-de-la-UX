@@ -49,7 +49,7 @@ Por eso, habría que familiarizar los programadores a la denominación "personaj
 
 Notamos que los personajes son poderosos porque eliminan los debates sobre las características. En efecto, son como una herramienta de comunicación entre las personas que trabajan en el proyecto y un reflector de las decisiones tomadas. Facilitan la comprensión del diseño elegido y representan argumentos poderosos para defender el proyecto ante los programadores y los gerentes. 
 
-## Ejemplo: el P@ssport de Sony Trans Com - Alan Cooper, Preso de la Tecnología
+## Ejemplo: el P@ssport de Sony Trans Com - Alan Cooper en *Presos de la tecnología*
 
 Sony es la encargada del diseño y manufacturación de los sistemas de entretenimiento de los vuelos, el problema que tenía Sony era de diseño ya que habían creado una interfaz que consistía en un árbol jerárquico de pantallas, por el que el usuario tenía que navegar llamado “consentimiento sin información”. Esta interfaz contenía muy poca información y muchos pasos a seguir para poder visualizar el contenido elegido. Debido a sus limitaciones de prototipo había que buscar una solución.
 Lo primero que se tuvo que realizar fue una profunda investigación y para ello entrevistaron a la plantilla de Sony, de esta forma lograrían saber con gran precisión que quería lograr Sony TransCom con el producto. También realizaron diferentes entrevistas al personal de diferentes aerolíneas. Crearon personajes sin cesar, cada vez que un asistente de vuelo contaba una historia nueva creaban un nuevo personaje y en total fueron 30 los personajes creados. Al comenzar con la investigación se produjeron  similitudes entre los personajes. Aquellos personajes que tenían metas comunes se reducían a uno solo y por lo tanto fueron reduciendo hasta llegar a 10 personajes, cuatro de ellos eran pasajeros y seis tripulantes. 
@@ -57,10 +57,9 @@ Entre los pasajeros podíamos encontrar a: Clevis, Marie, Chuck y Ethan. Cada pe
 Clevis no tiene ningún tipo de experiencia con los ordenadores y por lo tanto no le gusta “navegar”. La solución es simple, crear una única pantalla pero sin escatimar en información. Creando una sola capa de información compuesta por diferentes posters y cada uno con la información suficiente. Mediante una ruedita se podrá visualizar todo el contenido de derecha a izquierda. 
 También se crearon dos interfaces nuevas para satisfacer diferentes objetivos. Por un lado, se creó la interfaz de Amanda (asistenta de vuelo) que podría controlar todas las interfaces de todos los pasajeros. Por otro lado, la de Mel (mecánico), su interfaz determinaría que no está funcionando bien en las demás interfaces, qué tan serio es el problema y que puede hacer para arreglarlo.  
 
-##Bibliografía
+## Bibliografía
 
 *Alan Cooper (2001), "Un diseño para dar placer" en Presos de la tecnología. Pearson Educación: México (pp. 123-148).* 
 
 *Echave, María. Personas, un método para definir usuarios en proyectos UX:
 https://www.beeva.com/beeva-view/diseno-y-ux/personas-un-metodo-para-definir-usuarios-en-proyectos-ux/* 
->>>>>>> adcf2004980f4171106a6c7d619013a581e143f4
