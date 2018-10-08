@@ -74,7 +74,9 @@ Por su parte, el blog UX for masses nos ofrece algunas claves de cuáles pueden 
 
 - Robert Hoekman Jr. (2015), The Field Guide to UX Strategy. UXPin (pp. 42-55) 
 	Disponible online: https://www.uxpin.com/studio/ebooks/ux-strategy-field-guide/
-- UX For Masses. Disponible online: http://www.uxforthemasses.com/ux-metrics/ 
-- Uxpin. Disponible online:  https://www.uxpin.com/studio/blog/ux-metrics-tracking/  	
+- Rutherford, Zack. Which UX Metrics Should You Be Tracking?. 2016/05/18   
+	Disponible online:  https://www.uxpin.com/studio/blog/ux-metrics-tracking/  	
 - Yusef Hassan Montero (2006), Factores del diseño web orientado a la satisfacción y no frustración de uso (pp. 239-257). 
 	Disponible online: http://redc.revistas.csic.es/index.php/redc/article/view/291/353 
+- 6 key UX metrics to focus on. 2018/05/15
+	Disponible online: http://www.uxforthemasses.com/ux-metrics/ 
