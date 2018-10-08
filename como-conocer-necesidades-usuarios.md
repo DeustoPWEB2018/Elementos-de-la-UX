@@ -15,7 +15,7 @@ Si lo que necesitas es abarcar mucha audiencia por bajos costes Skype puede ser 
 
 Skype cuenta con herramientas que facilitan el estudio de usuarios, por ejemplo: Si el sitio web es de una tienda de ropa y lo que quiero evaluar es que a la hora de realizar el pago en linea el cliente pueda sentirse seguro, la App brinda la posibilidad de grabar la pantalla mientras la persona realiza el proceso. Si hay complicaciones en medio de la evaluación y llevan al individuo a un posible estado de frustración, lo mas conveniente como encargados es hacerle saber a la persona que esta en medio de un simulacro, tomar nota y detectar los posibles fallos que pueden llevar al sitio al fracaso.
 
-#### Investigación de guerrilla 
+### Investigación de guerrilla 
 
 Otra de las técnicas que se puede hacer en muy poco tiempo y tiene un bajo coste es la investigación de guerrilla. Como bien define Jay Conrad Levinson en el libro Marketing de Guerrilla, la palabra “guerrilla” significa atípico, barato y de algún modo agresivo. La investigación de guerrilla consiste en buscar personas cercanas o de fácil acceso, es decir, usuarios que no requieren ningún gasto, y preguntarles acerca de nuestra web o aplicación que queremos crear para lograr extraerles información sobre ello. La idea de está técnica es que es mejor probar el producto con alquien que con ninguno porque cada test que se hace a algún usuario puede aumentar las probabilidades de éxito. 
 
