@@ -1,4 +1,3 @@
-Angie Lozano :octocat: [@angielozanogr](http://github.com/angielozanogr) 
 CÓMO CONOCER LAS NECESIDADES DE TUS USUARIOS
 
 ESQUEMA
