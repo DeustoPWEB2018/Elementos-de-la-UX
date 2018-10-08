@@ -25,6 +25,6 @@ Cada hipótesis debería centrarse en una función.
 
 También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
 
-###Conclusión<h3>
+### **Conclusión**<h3>
 Es una herramienta muy útil que sirve tanto para sistemas existentes como para nuevos productos y empresas, ya que fomenta el trabajo en equipo y permite poner el foco en el problema y las soluciones. 
 Pese a que cada vez más empresas están empezando a implementar modelos de desarrollo ágil, el Lean UX presenta una manera diferente de trabajar y de solucionar los problemas del diseño, por lo que se requieren equipos autónomos que puedan centrarse más en el aprendizaje realizado y no tanto en las funciones desarrolladas. 
