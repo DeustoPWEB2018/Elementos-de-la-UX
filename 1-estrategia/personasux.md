@@ -1,10 +1,10 @@
-Introducción
+# Personas
 
 Antes de iniciar un proyecto o diseño de producto es muy importante tener en cuenta las necesidades de nuestros usuarios, de esta forma podremos concretar cómo será el producto que vamos a crear satisfaciendo los requisitos de nuestros usuarios. Personas representa a unos personajes ficticios con el objetivo de personificar a los posibles usuarios de un producto que estemos diseñando. Responde a una pregunta ¿Para quién/es estamos diseñando?. Mediante ésta técnica no solo representamos a una única persona sino al conjunto de las mismas, ya que recoge la conducta, habilidades, actitud… de todos los posibles usuarios potenciales.
 
 Es una forma realista de representar a los usuarios, es la imagen más típica del conjunto de muchas personas reales y de esta forma podremos recordar cuáles son las principales necesidades del usuario y por lo tanto satisfacerlas. Personas es una buena herramienta que puede ayudar mucho en el proceso de desarrollo. 
 
-El Personaje 
+## El Personaje 
 
 En el primer paso sobre la experiencia de los usuarios, uno de los factores más destacados son los personajes. Tal y como indica Alan Cooper, los llamados personajes son un recurso valioso en esta fase del diseño, pero nunca jamás podemos permitir que puedan intervenir en esta fase. 
 
@@ -16,7 +16,7 @@ Relacionado con los llamados personas, según el programador estadounidense, el 
 
 Según la autora María Echave, lo mejor para “crear” personas lo ideal es juntar a todo el equipo de trabajo y exponer los objetivos del proyecto, de manera que estén todos alineados.
 
-Personajes básicos 
+## Personajes básicos 
 
 También relacionados con los personajes, encontramos los llamados ‘personajes básicos’. En cualquier diseño, se realiza un reparto de personajes y en ella, siempre debe haber por lo menos un personaje básico. Que después se convierte en objeto principal del diseño que elaboramos. 
 
@@ -26,7 +26,7 @@ Por cada personaje básico que tengamos en nuestro proyecto, debemos elaborar un
 
 Debemos tener claro que nuestro proyecto no tiene el objetivo de diseñar para todos los personajes creados, pero sí que todos son útiles para articular la población de usuarios. 
 
-Como elaborar una buena interfaz 
+## Como elaborar una buena interfaz 
 
 Elaborar una interfaz parece quizás muy sencillo a primera vista. Sin embargo, requiere de tener en cuenta muchos parámetros que no son únicamente de nuestra competencia. En efecto, esto está en relación con los personajes que tienen un rol importante en la elaboración. 
 
@@ -35,9 +35,9 @@ Ante todo, una buena interfaz se basa sobre pantallas detalladas de cada persona
 El personaje debe ser muy específico porque la especificidad es la herramienta de diseño y de comunicación. Cada personaje debe ser integrados con singular detalle y precisión. 
 Entonces, concretamente, el individuo tiene varias características: 
 
-- Un nombre definido que representa el tipo de personaje que es.
-- Una cara que permite de imaginarse el personaje visualmente. Hay que elegir una imagen relevante. 
-- Representa la realidad. Entonces, a veces, el personaje puede estar equiparado a estereotipos porque la meta es de buscar la credibilidad, no la diversidad. 
+* Un nombre definido que representa el tipo de personaje que es.
+* Una cara que permite de imaginarse el personaje visualmente. Hay que elegir una imagen relevante. 
+* Representa la realidad. Entonces, a veces, el personaje puede estar equiparado a estereotipos porque la meta es de buscar la credibilidad, no la diversidad. 
 
 Un personaje-usuario bien definido es una herramienta notablemente eficaz en el diseño de la interacción. 
 
@@ -49,7 +49,7 @@ Por eso, habría que familiarizar los programadores a la denominación "personaj
 
 Notamos que los personajes son poderosos porque eliminan los debates sobre las características. En efecto, son como una herramienta de comunicación entre las personas que trabajan en el proyecto y un reflector de las decisiones tomadas. Facilitan la comprensión del diseño elegido y representan argumentos poderosos para defender el proyecto ante los programadores y los gerentes. 
 
-Ejemplo: el P@ssport de Sony Trans Com - Alan Cooper, Preso de la Tecnología
+## Ejemplo: el P@ssport de Sony Trans Com - Alan Cooper, Preso de la Tecnología
 
 Sony es la encargada del diseño y manufacturación de los sistemas de entretenimiento de los vuelos, el problema que tenía Sony era de diseño ya que habían creado una interfaz que consistía en un árbol jerárquico de pantallas, por el que el usuario tenía que navegar llamado “consentimiento sin información”. Esta interfaz contenía muy poca información y muchos pasos a seguir para poder visualizar el contenido elegido. Debido a sus limitaciones de prototipo había que buscar una solución.
 Lo primero que se tuvo que realizar fue una profunda investigación y para ello entrevistaron a la plantilla de Sony, de esta forma lograrían saber con gran precisión que quería lograr Sony TransCom con el producto. También realizaron diferentes entrevistas al personal de diferentes aerolíneas. Crearon personajes sin cesar, cada vez que un asistente de vuelo contaba una historia nueva creaban un nuevo personaje y en total fueron 30 los personajes creados. Al comenzar con la investigación se produjeron  similitudes entre los personajes. Aquellos personajes que tenían metas comunes se reducían a uno solo y por lo tanto fueron reduciendo hasta llegar a 10 personajes, cuatro de ellos eran pasajeros y seis tripulantes. 
@@ -57,10 +57,10 @@ Entre los pasajeros podíamos encontrar a: Clevis, Marie, Chuck y Ethan. Cada pe
 Clevis no tiene ningún tipo de experiencia con los ordenadores y por lo tanto no le gusta “navegar”. La solución es simple, crear una única pantalla pero sin escatimar en información. Creando una sola capa de información compuesta por diferentes posters y cada uno con la información suficiente. Mediante una ruedita se podrá visualizar todo el contenido de derecha a izquierda. 
 También se crearon dos interfaces nuevas para satisfacer diferentes objetivos. Por un lado, se creó la interfaz de Amanda (asistenta de vuelo) que podría controlar todas las interfaces de todos los pasajeros. Por otro lado, la de Mel (mecánico), su interfaz determinaría que no está funcionando bien en las demás interfaces, qué tan serio es el problema y que puede hacer para arreglarlo.  
 
-- Bibliografía
+##Bibliografía
 
-Alan Cooper (2001), "Un diseño para dar placer" en Presos de la tecnología. Pearson Educación: México (pp. 123-148). 
+*Alan Cooper (2001), "Un diseño para dar placer" en Presos de la tecnología. Pearson Educación: México (pp. 123-148).* 
 
-Echave, María. Personas, un método para definir usuarios en proyectos UX:
-https://www.beeva.com/beeva-view/diseno-y-ux/personas-un-metodo-para-definir-usuarios-en-proyectos-ux/ 
+*Echave, María. Personas, un método para definir usuarios en proyectos UX:
+https://www.beeva.com/beeva-view/diseno-y-ux/personas-un-metodo-para-definir-usuarios-en-proyectos-ux/* 
 >>>>>>> adcf2004980f4171106a6c7d619013a581e143f4
