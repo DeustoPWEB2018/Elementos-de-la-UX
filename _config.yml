@@ -1,3 +1,4 @@
 remote_theme: poole/lanyon
 plugins:
   - jemoji
+  - jekyll-remote-theme
