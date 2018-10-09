@@ -1,4 +1,3 @@
-Unidad 1: Estrategia
 ## **Tema: Lean UX canvas**<h1> 
 ### Que es Lean UX canvas?<h2>
 Una herramienta que permite ver en un lienzo y de solo un vistazo toda la información relevante sobre un tema. Esto ayuda mucho para guiar el proceso de desarrollo de un servicio ó producto.
