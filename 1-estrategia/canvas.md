@@ -66,7 +66,13 @@ Es una herramienta muy útil que sirve tanto para sistemas existentes como para 
 Pese a que cada vez más empresas están empezando a implementar modelos de desarrollo ágil, el Lean UX presenta una manera diferente de trabajar y de solucionar los problemas del diseño, por lo que se requieren equipos autónomos que puedan centrarse más en el aprendizaje realizado y no tanto en las funciones desarrolladas. 
 Para que la utilización de Lean UX Canvas sea lo más efectiva posible, éste debe convertirse en una herramienta de uso diario para guiar el trabajo en equipo, ya que podrán definir y validar sus hipótesis de forma más clara y en menos tiempo. 
 
+## **Referencias**
+UOC, Lean UX Canvas en Design Toolkin. Disponible online: http://design-toolkit.recursos.uoc.edu/es/lean-ux-canvas
 
 
+Modelo de Lean UX Canvas en español
+
+
+Jeff Gothelf (2014), "Visión, marco y resultados" en Lean UX. Unir: Logroño
 
 
