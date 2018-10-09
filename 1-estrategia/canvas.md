@@ -1,7 +1,7 @@
 ## **Tema: Lean UX canvas**
 
 
-## Que es Lean UX canvas?<h2>
+## **Que es Lean UX canvas?**
 Una herramienta que permite ver en un lienzo y de solo un vistazo toda la información relevante sobre un tema. Esto ayuda mucho para guiar el proceso de desarrollo de un servicio ó producto.
 
 A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de "cascada", esta herramienta funciona con una mirada interactiva, circular y global, a través de un desarrollo ágil que pone como meta corregir errores e incorporar mejoras de forma progresiva.
@@ -9,7 +9,7 @@ A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de
 Cuando usarlo?
 Lean UX ayuda a organizar todo proyecto o iniciativa desde la primera etapa de la UX. Es cierto que tambien se puede aplicar sobre la marcha o en lugares donde se viene trabajando de otra manera, pero lo recomendable es utilizar la herramienta desde el incio como una manera de gestiónar la UX.
 ~~~
-### **Como implementar esta herramienta?**<h3>
+### **Como implementar esta herramienta?**
  Para armar tu Lean UX canvas tienes que seguir 8 pasos:
  
  
@@ -43,7 +43,7 @@ Cada hipótesis debería centrarse en una función.
 También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
 
 
-### **Metodología**<h3>
+### **Metodología**
 Antes de comenzar con el proyecto habrá que hacer una declaración de hipótesis, que se compone de los siguientes elementos:
 
 **Suposiciones**: Es una declaración que creemos cierta. Al partir desde el inicio, todos los miembros del equipo tendrán la oportunidad de opinar, plasmando sus ideas en el lienzo para compararlas entre sí. Por tanto, éste es un ejercicio en grupo en el cual las disciplinas de cada experto queden debidamente representadas para que todos estén al tanto de los temas más importantes que afectan al proyecto. Antes de comenzar, los miembros del equipo deben tener más o menos claro cual es el problema que quieren solucionar para poder documentarse. Lo ideal sería llevar informes analíticos que muestren el modo en el que se usa el producto actual, un informe de usabilidad para ver que hacen los clientes con el producto, otro informe que refleje los intentos que se han hecho anteriormente por solucionarlo, sean éxitos o fracasos, un análisis de como afectaría la solución del problema al rendimiento de la empresa/equipo y, por último, el análisis de las acciones de la competencia a la hora de afrontar este mismo problema. 
@@ -61,7 +61,7 @@ Como puede observarse, esta formulación consta de dos partes; la declaración d
 
 **Funciones**: Son los cambios o mejoras que vamos a realizar para conseguir los resultados que deseamos obtener. Una vez tengamos unos resultados y nos hayamos centrado en un grupo o número de usuarios en concreto, habrá que empezar a desarrollar y emplear técnicas y funciones para alcanzar los objetivos de la empresa/grupo. Hay que tener en cuenta que en el modelo Canvas Lean UX, las funciones que se apliquen deben servir para satisfacer las necesidades del negocio, del cliente y de los usuarios.
 
-### **Conclusión**<h3>
+### **Conclusión**
 Es una herramienta muy útil que sirve tanto para sistemas existentes como para nuevos productos y empresas, ya que fomenta el trabajo en equipo y permite poner el foco en el problema y las soluciones. 
 Pese a que cada vez más empresas están empezando a implementar modelos de desarrollo ágil, el Lean UX presenta una manera diferente de trabajar y de solucionar los problemas del diseño, por lo que se requieren equipos autónomos que puedan centrarse más en el aprendizaje realizado y no tanto en las funciones desarrolladas. 
 Para que la utilización de Lean UX Canvas sea lo más efectiva posible, éste debe convertirse en una herramienta de uso diario para guiar el trabajo en equipo, ya que podrán definir y validar sus hipótesis de forma más clara y en menos tiempo. 
