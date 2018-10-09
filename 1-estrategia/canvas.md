@@ -50,12 +50,19 @@ También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](http
 Antes de comenzar con el proyecto habrá que hacer una declaración de hipótesis, que se compone de los siguientes elementos:
 
 **Suposiciones**: Es una declaración que creemos cierta. Al partir desde el inicio, todos los miembros del equipo tendrán la oportunidad de opinar, plasmando sus ideas en el lienzo para compararlas entre sí. Por tanto, éste es un ejercicio en grupo en el cual las disciplinas de cada experto queden debidamente representadas para que todos estén al tanto de los temas más importantes que afectan al proyecto. Antes de comenzar, los miembros del equipo deben tener más o menos claro cual es el problema que quieren solucionar para poder documentarse. Lo ideal sería llevar informes analíticos que muestren el modo en el que se usa el producto actual, un informe de usabilidad para ver que hacen los clientes con el producto, otro informe que refleje los intentos que se han hecho anteriormente por solucionarlo, sean éxitos o fracasos, un análisis de como afectaría la solución del problema al rendimiento de la empresa/equipo y, por último, el análisis de las acciones de la competencia a la hora de afrontar este mismo problema. 
+Una vez que tengamos una lista de suposiciones, es importante priorizarlas en base al riesgo que cada una de ellas supone para el equipo; en éste caso, a más riesgo y menos conocimiento, mayor deberá ser la priorización. 
 
-**Hipótesis**: Son descripciones más específicas que se enfocan en áreas concretas de nuestro producto.
+**Hipótesis**: Son descripciones más específicas que se enfocan en áreas concretas de nuestro producto. Una vez tengamos la lista de suposiciones priorizadas, debemos darles forma de hipótesis. Normalmente, las declaraciones de hipótesis tienen el siguiente formato: Creemos que [esta declaración es cierta].
+Sabremos que lo hemos hecho [bien/mal] cuando contemos con el siguiente
+feedback del mercado:
+[feedback cualitativo] y/o [feedback cuantitativo] y/o [cambio en indicador clave
+de rendimiento (Key Performance Indicator, KPI)].
 
-**Resultados**: Son los datos del mercado que nos servirán para validad nuestras hipótesis. Pueden ser cualitativos o cuantitativos.
+Como puede observarse, esta formulación consta de dos partes; la declaración de algo que consideramos cierto y una declaración del feedback que el mercado nos dé para poder demostrar si tenemos razón o no. 
+ 
+**Resultados**: Son los datos del mercado que nos servirán para validad nuestras hipótesis, por eso mismo es importante detallar cuales son los resultados que deseamos obtener. Éstos pueden ser cualitativos o cuantitativos. Por ejemplo, varias de las preguntas que formulemos en base a los resultados podrían ser del tipo: ¿Cómo podemos hacer que la gente se conecte más rápido a nuestra página web? ¿Una mayor conectividad significará la obtención de más visitas? 
 
-**Funciones**: Son los cambios o mejoras que vamos a realizar para conseguir los resultados que deseamos obtener.
+**Funciones**: Son los cambios o mejoras que vamos a realizar para conseguir los resultados que deseamos obtener. Una vez tengamos unos resultados y nos hayamos centrado en un grupo o número de usuarios en concreto, habrá que empezar a desarrollar y emplear técnicas y funciones para alcanzar los objetivos de la empresa/grupo. Hay que tener en cuenta que en el modelo Canvas Lean UX, las funciones que se apliquen deben servir para satisfacer las necesidades del negocio, del cliente y de los usuarios.
 
 ### **Conclusión**<h3>
 Es una herramienta muy útil que sirve tanto para sistemas existentes como para nuevos productos y empresas, ya que fomenta el trabajo en equipo y permite poner el foco en el problema y las soluciones. 
