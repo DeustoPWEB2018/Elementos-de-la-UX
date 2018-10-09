@@ -47,11 +47,13 @@ También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](http
 ### **Metodología**<h3>
 Antes de comenzar con el proyecto habrá que hacer una declaración de hipótesis, que se compone de los siguientes elementos:
 
-Suposiciones:Es una declaración que creemos cierta. Al partir desde el inicio, todos los miembros del equipo tendrán la oportunidad de opinar desde el principio. 
+**Suposiciones**:Es una declaración que creemos cierta. Al partir desde el inicio, todos los miembros del equipo tendrán la oportunidad de opinar desde el principio. 
 
-Hipótesis: Son descripciones más específicas que se enfocan en áreas concretas de nuestro producto.
-Resultados: Son los datos del mercado que nos servirán para validad nuestras hipótesis. Pueden ser cualitativos o cuantitativos. 
-Funciones: Son los cambios o mejoras que vamos a realizar para conseguir los resultados que deseamos obtener.
+**Hipótesis**: Son descripciones más específicas que se enfocan en áreas concretas de nuestro producto.
+
+**Resultados**: Son los datos del mercado que nos servirán para validad nuestras hipótesis. Pueden ser cualitativos o cuantitativos.
+
+**Funciones**: Son los cambios o mejoras que vamos a realizar para conseguir los resultados que deseamos obtener.
 
 ### **Conclusión**<h3>
 Es una herramienta muy útil que sirve tanto para sistemas existentes como para nuevos productos y empresas, ya que fomenta el trabajo en equipo y permite poner el foco en el problema y las soluciones. 
