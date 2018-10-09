@@ -28,3 +28,17 @@ También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](http
 ### **Conclusión**<h3>
 Es una herramienta muy útil que sirve tanto para sistemas existentes como para nuevos productos y empresas, ya que fomenta el trabajo en equipo y permite poner el foco en el problema y las soluciones. 
 Pese a que cada vez más empresas están empezando a implementar modelos de desarrollo ágil, el Lean UX presenta una manera diferente de trabajar y de solucionar los problemas del diseño, por lo que se requieren equipos autónomos que puedan centrarse más en el aprendizaje realizado y no tanto en las funciones desarrolladas. 
+Para que la utilización de Lean UX Canvas sea lo más efectiva posible, éste debe convertirse en una herramienta de uso diario para guiar el trabajo en equipo, ya que podrán definir y validar sus hipótesis de forma más clara y en menos tiempo. 
+
+###**Metodología**<h3>
+Antes de comenzar con el proyecto habrá que hacer una declaración de hipótesis, que se compone de los siguientes elementos:
+
+Suposiciones:Es una declaración que creemos cierta. Al partir desde el inicio, todos los miembros del equipo tendrán la oportunidad de opinar desde el principio. 
+
+Hipótesis: Son descripciones más específicas que se enfocan en áreas concretas de nuestro producto.
+Resultados: Son los datos del mercado que nos servirán para validad nuestras hipótesis. Pueden ser cualitativos o cuantitativos. 
+Funciones: Son los cambios o mejoras que vamos a realizar para conseguir los resultados que deseamos obtener.
+
+
+
+
