@@ -1,5 +1,9 @@
 ## **Tema: Lean UX canvas**
+
+
 ## Que es Lean UX canvas?<h2>
+
+
 Una herramienta que permite ver en un lienzo y de solo un vistazo toda la información relevante sobre un tema. Esto ayuda mucho para guiar el proceso de desarrollo de un servicio ó producto.
 A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de "cascada", esta herramienta funciona con una mirada interactiva, circular y global, a través de un desarrollo ágil que pone como meta corregir errores e incorporar mejoras de forma progresiva.
 ~~~
@@ -10,7 +14,7 @@ Lean UX ayuda a organizar todo proyecto o iniciativa desde la primera etapa de l
  Para armar tu Lean UX canvas tienes que seguir 8 pasos:
  
  
-1.Problema: En este apartado hay que definir el problema que se ha identificado.Se puede utilizar una plantilla como: "Hemos observado que( producto,servicio,organización) no cumple (estos objetivos,necesitados), que están provocando (este efecto adverso). ¿Cómo podemos mejorar para que nuestro producto/servicio/equipo/organización tenga más éxito basándose en (estos criterios medibles)?"
+1. Problema: En este apartado hay que definir el problema que se ha identificado.Se puede utilizar una plantilla como: "Hemos observado que( producto,servicio,organización) no cumple (estos objetivos,necesitados), que están provocando (este efecto adverso). ¿Cómo podemos mejorar para que nuestro producto/servicio/equipo/organización tenga más éxito basándose en (estos criterios medibles)?"
 
 
 2. Resultados: Aquí habrá que poner cuales han sido los cambios que se han dado en el comportamiento de los usuarios/clientes que indicarán la resolución del problema. Normalmente, los miembros del grupo hacen una votacíón para indicar tres cambios principales.
@@ -40,7 +44,7 @@ Cada hipótesis debería centrarse en una función.
 También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
 
 
-###**Metodología**<h3>
+### **Metodología**<h3>
 Antes de comenzar con el proyecto habrá que hacer una declaración de hipótesis, que se compone de los siguientes elementos:
 
 Suposiciones:Es una declaración que creemos cierta. Al partir desde el inicio, todos los miembros del equipo tendrán la oportunidad de opinar desde el principio. 
