@@ -2,10 +2,7 @@
 
 
 ## Que es Lean UX canvas?<h2>
-
-
 Una herramienta que permite ver en un lienzo y de solo un vistazo toda la información relevante sobre un tema. Esto ayuda mucho para guiar el proceso de desarrollo de un servicio ó producto.
-
 
 A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de "cascada", esta herramienta funciona con una mirada interactiva, circular y global, a través de un desarrollo ágil que pone como meta corregir errores e incorporar mejoras de forma progresiva.
 ~~~
