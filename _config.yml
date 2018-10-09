@@ -1,4 +1,3 @@
-remote_theme: poole/lanyon
+theme: minima
 plugins:
   - jemoji
-  - jekyll-remote-theme
