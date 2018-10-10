@@ -30,3 +30,6 @@ checkPath:
   detailsURL: ""
 #   success: ""
 #   failure: ""
+reopenClosedIssues:
+  message: "Uh oh! Has cerrado un issue o pull request que no habías creado tú. Por favor, déjalo abierto hasta que lo cierre el autor original, de manera que pueda completar el proceso de aprendizaje a su ritmo. ¡Gracias! :v:"
+  whitelistedTeamID: 738823
