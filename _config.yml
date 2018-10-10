@@ -1,0 +1,12 @@
+title: Elementos de la UX
+description: Contenido sobre elaboración de proyectos web centrados en el diseño de la experiencia de usuario. 
+theme: minima
+plugins:
+  - jemoji
+
+header_pages:
+  - 1-estrategia/README.md
+  - 2-alcance/README.md
+  - 3-estructura/README.md
+  - 4-esqueleto/README.md
+  - 5-superficie/README.md

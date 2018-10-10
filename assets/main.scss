@@ -1,0 +1,10 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+nav .trigger { font-size:.95em; }
+
+h1.page-heading, h1.post-title { display:none; }
+.post-content h1 { font-size: 42px; letter-spacing:-1px }
