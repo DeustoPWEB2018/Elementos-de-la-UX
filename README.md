@@ -10,6 +10,7 @@ Contenido sobre elaboración de proyectos web centrados en el diseño de la expe
 	1. [Cómo documentar la estrategia](1-estrategia/documentar.md)
 	2. [Cómo conocer las necesidades de tus usuarios](1-estrategia/como-conocer-necesidades-usuarios.md)
     3. [Personas](1-estrategia/personasux.md)
+    4. [Lean UX Canvas](1-estrategia/canvas.md)
 2. [Alcance](2-alcance)
 3. [Estructura](3-estructura)
 4. [Esqueleto](4-esqueleto)
