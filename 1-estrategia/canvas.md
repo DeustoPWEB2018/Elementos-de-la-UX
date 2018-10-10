@@ -7,7 +7,7 @@ Una herramienta que permite ver en un lienzo y de solo un vistazo toda la inform
 |:-:| 
 | Modelo de Lean UX Canvas. Descarga [en PDF](LeanUXCanvas.pdf) |
 
-A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de "cascada", esta herramienta funciona con una mirada interactiva, circular y global, a través de un desarrollo ágil que pone como meta corregir errores e incorporar mejoras de forma progresiva.
+A diferencia de los metodos tradicionales, donde el proceso sigue una lógica de "cascada", esta herramienta funciona con una mirada iterativa, circular y global, a través de un desarrollo ágil que pone como meta corregir errores e incorporar mejoras de forma progresiva.
 
 ## ¿Cuándo usarlo?
 
