@@ -23,9 +23,9 @@ Para armar tu Lean UX canvas tienes que seguir 8 pasos:
 8. ¿Cual es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante? Hacer lluvia de ideas con los tipos de experiencias que se podrían llevar a cabo para descubrir si la suposición más arriesgada es verdadera o falsa.
 
 :pushpin:*Ejemplo de aplicación* :octocat::art:
-![Ejemplo de aplicación](https://cdn-images-1.medium.com/max/2000/1*eQY7Un9z8pZ7xjZFoSSqyA.jpeg)
+![Ejemplo de aplicación (Salas 2018)](https://cdn-images-1.medium.com/max/2000/1*eQY7Un9z8pZ7xjZFoSSqyA.jpeg)
 
-También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos")
+También pueden ver un desarrollo del UX en 9 pasos :point_right: [*aquí*](https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b "El UX en 9 pasos") (Salas 2018).
 
 
 ### Metodología
@@ -56,10 +56,13 @@ Para que la utilización de Lean UX Canvas sea lo más efectiva posible, éste d
 
 ## Referencias
 
-UOC, Lean UX Canvas en Design Toolkit. Disponible online: http://design-toolkit.recursos.uoc.edu/es/lean-ux-canvas
 
-Modelo de Lean UX Canvas en español
+Jeff Gothelf (2014), "Visión, marco y resultados" en _Lean UX_. Unir: Logroño
 
-Jeff Gothelf (2014), "Visión, marco y resultados" en Lean UX. Unir: Logroño
+Lule Salas (2018), "Locspot: Find the right location. Parte 1 o cómo diseñar el MVP de un producto digital en dos semanas. SEMANA 1: El UX en 9 pasos". Disponible online: https://medium.com/@lule_salas/locspot-find-the-right-location-parte-1-77b1e6623b0b [acceso el 10/10/2018]
+
+UOC, "Lean UX Canvas" en _Design Toolkit_. Disponible online: http://design-toolkit.recursos.uoc.edu/es/lean-ux-canvas [acceso el 10/10/2018]
+
+
 
 
