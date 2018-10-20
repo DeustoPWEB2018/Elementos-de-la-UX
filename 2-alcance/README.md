@@ -13,9 +13,36 @@ El contenido de consumo pausado nace precisamente para atender esta demanda de c
 Otra de las razones principales por la cual este tipo de contenidos está resultando ser exitoso se debe, a su vez, a que los creadores de este tipo de contenidos son, a su vez, consumidores con un nivel de conocimiento avanzado acerca de un tema en concreto, lo cual le otorga un mayor grado de credibilidad al contenido publicado. Aunque en menor cantidad, estos tipos de contenidos pueden ser relacionados con las reseñas que se publican en páginas web de compraventa de objetos, en los que el consumidor de un producto o servicio ofrece una valoración acerca del mismo, recomendando o no la adquisición del mismo. 
 
 ## ¿Cuáles son sus motivaciones y necesidades?
+Las motivaciones del lector, a la hora de consumir de contenido, pueden partir tanto de necesidades individuales como de índole social: 
+
+Curiosidad intelectual: El lector tiene un perfil curioso e intelectual que, sin llegar a ser académico, demanda información de calidad que va desde el nivel medio hasta el experto.
+
+Búsqueda de la verdad: El lector busca en la información una visión más cercana a la idea que tiene sobre la verdad, ya que las fuentes de su entorno social no son suficientes o difiere con ellas.
+
+Fatiga del cambio: El lector está cansado del rápido ritmo que tiene la sociedad actual, la cual te “obliga” a estar continuamente actualizando tus herramientas tecnológicas, como el móvil o el ordenador, además de la desaparición de los medios de comunicación análogicos tradicionales que han llevado a una pérdida significativa de la calidad informativa. 
+
+Necesidades de fuentes frescas: Este lector necesita fuentes originales, claras y fiables, ya que no se fía de la información que se comparte a través de las redes sociales y cuestiona los puntos de vista de los medios de comunicación tradicionales.
+
+Terapia social: El lector necesita sentirse más seguro en dentro de un escenario de gran incertidumbre respecto al futuro social y económico inmediato, ya que actualmente hay un aura de escepticismo y pesimismo transversales en los distintos ámbitos de la vida. Por eso mismo necesita vencer esa ansiedad a través de la comprensión de los cambios.
+
+Ritmo de vida: Este tipo de personas están interesadas en recuperar un ritmo pausado a la hora de consumir y de vivir, ya sea consumiendo contenido informativo, comiendo o disfrutando de sus ciudades.
+
+Caída de las fuentes clásicas: Los medios tradicionales han ido reduciendo su calidad al tiempo que reducían los medios y el personal. Los medios pueden estar perdiendo su función social en el momento en el que dan más prioridad al rendimiento y no tanto a la calidad del contenido. 
+
+El dilema de la digitalización: Por un lado tenemos la burbuja que se ha creado en torno a las redes sociales, en donde los mensajes son de mala calidad y no hay fuentes reconocidas, por lo que se crean falsedades, medias verdades y dogmas. Por otro lado tendríamos el contenido de webs baratas y malas que se suman a la tendencia del contenido comisionado (content curation), así como a la imposición de la desaceleración. Respecto a ésto último, en el año 2011, Rory Sutherland, vicepresidente de Ogilvy Group en Londres, dijo: “nos encontramos en un punto en el que prácticamente no se producirá ninguna novedad tecnológica que suponga un verdadero cambio en la vida de las personas, salvo, quizá, en telefonía móvil. Y en este momento es necesario desacelerar.”
+
+Lectura cómoda en dispositivos móviles: Es importante que una web esté bien programada para optimizar al máximo su compatibilidad con los agregadores de contenido, como Flipboard o ReadMill, los cuales mejoran la experiencia del usuario, incluyendo la posibilidad de leer, anotar y de compartir dichos documentos. 
+
+El SEO no funciona:  La optimización de las páginas web para su funcionamiento en los principales buscadores de Internet se ha convertido en un engaño. Google (más del 80% de las búsquedas en Europa) no para de hacer cambios que obligan a las empresas e instituciones en invertir dinero para mejorar el posicionamiento de su contenido; éste puede alterarse dependiendo de factores como el equipo del usuario, su sistema operativo o su posición geográfica. Actualmente, Google está diseñando un sistema que discrimina el posicionamiento cuando se hace una búsqueda a través del dispositivo móvil. 
+
+
 ## ¿Qué factores provocan el nacimiento del Slow Content?
 ## ¿Cuál es el origen del Slow Conten?
 ## ¿Parámetros de construcción?
+Cuando realizamos slowcontent, no debemos perder de vista que el contenido debe mantener el interés del lector. El texto debe tener una estructura periodística clásica que, a través de unos pocos párrafos, sirvan para saciar la curiosidad del lector, de modo que la empresa sí o sí necesita contratar a un periodista para su elaboración. 
+
+Si el contenido es descriptivo deben tener un formato estructurado en base a las definiciones que los estrategas o arquitectos hayan definido para que se mantenga un proceso de lectura uniforme entre las páginas del sitio web. El contenido debe ser original, con valor añadido, como la reflexión u opinión personal de la empresa, su postura de experto de la Marca, etc… También es importante datar el contenido para que otros no se atrevan a copiar el contenido. 
+
 ## Ejemplos 
 Son muchas las grandes organizaciones que, conscientes de la importancia que supone, por un lado, cuidar su imagen a través de acciones positivas o que tienen consecuencias beneficiosas para la sociedad, también tratan de posicionarse como una marca diferente respecto a sus competidores, en un contexto en el que la diferenciación se considera uno de los puntos claves en el entorno empresarial. 
 
