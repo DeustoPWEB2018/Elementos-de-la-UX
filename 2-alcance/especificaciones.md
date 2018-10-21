@@ -17,6 +17,7 @@ Siempre que se escriba una especificación, hay que tener claro que hay que lleg
 Antes de seguir hablando de especificaciones es necesario definir qué es una especificación. Existen dos tipos de especificaciones: 
 
 **- Especificaciones funcionales**: consisten en describir cómo funciona un producto desde la perspectiva del usuario. 
+
 **- Especificaciones técnicas**: son aquellas descripciones basadas en la programación interna del programa. Es decir, estas especificaciones están dirigidas al programador. 
 
 Nosotros en todo momento vamos a centrarnos en las **especificaciones funcionales**, aquellas que están dirigidas al usuario. 
@@ -27,14 +28,14 @@ A la hora de diseñar un programa es fundamental describirlo tanto por fuera, co
 Es importante tener en cuenta que el primer paso para crear un programa es escribir las especificaciones y el segundo describir el lenguaje de programación, ya que no sirve de nada discutir sobre qué lenguaje de programación se va a usar antes de haber decidido qué es lo que va a hacer tu producto. A continuación, se puede observar un [ejemplo de especificaciones]( https://web.archive.org/web/20160604182621/http://spanish.joelonsoftware.com/PainlessSpecs/WhatTimeIsIt_Spanish.html) .
 
 ### ¿Qué necesita una especificación?
-**1.**	Un autor: cada especificación debe tener un propietario y debe estar  escrita por una persona y no por un equipo. De esta manera, si algo va mal en una especificación, existirá un autor y cada uno será responsable y propietario de las cosas que especifique.
-**2.**	Escenarios
-*+3.**	No objetivos: describir las cosas que no se van a hacer, es un modo de selección de eliminar las funciones que no piensas incluir. 
-**4.**	Una visión general = índice de tu especificación
-**5.**	Detalles: describir **los detalles es la función más importante en una especificación** funcional. Es imprescindible detallar cada aspecto. Por ejemplo: ¿Qué pasa si la dirección de e-mail no es válida? ¿Qué pasa si la contraseña está mal? Todas esas cuestiones hay que detallarlas, ya que el usuario cuando se encuentre con un problema, acudiendo a las especificaciones debe encontrar la solución. 
-**6.**	Asuntos pendientes
-**7.**	Notas al margen: si mientras escribes las especificaciones se te ocurren ideas útiles para otro miembro de tu equipo (marketing, redactores técnicos, programadores) está bien que lo señales.
-**8.**	Las especificaciones necesitan estar vivas y actualizadas
+1.	Un autor: cada especificación debe tener un propietario y debe estar  escrita por una persona y no por un equipo. De esta manera, si algo va mal en una especificación, existirá un autor y cada uno será responsable y propietario de las cosas que especifique.
+2.	Escenarios
+3.	No objetivos: describir las cosas que no se van a hacer, es un modo de selección de eliminar las funciones que no piensas incluir. 
+4.	Una visión general = índice de tu especificación
+5.	Detalles: describir **los detalles es la función más importante en una especificación** funcional. Es imprescindible detallar cada aspecto. Por ejemplo: ¿Qué pasa si la dirección de e-mail no es válida? ¿Qué pasa si la contraseña está mal? Todas esas cuestiones hay que detallarlas, ya que el usuario cuando se encuentre con un problema, acudiendo a las especificaciones debe encontrar la solución. 
+6.	Asuntos pendientes
+7.	Notas al margen: si mientras escribes las especificaciones se te ocurren ideas útiles para otro miembro de tu equipo (marketing, redactores técnicos, programadores) está bien que lo señales.
+8.	Las especificaciones necesitan estar vivas y actualizadas
 
 
 ## **Quién escribe especificaciones**
