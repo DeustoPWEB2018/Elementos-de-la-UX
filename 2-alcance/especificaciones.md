@@ -1,8 +1,8 @@
 # **ESPEFICICACIONES FUNCIONALES SIN ESFUERZO**
 
 
-**Por qué necesitas una especificación**
-=======
+## **Introducción**
+
 En los siguientes apartados se va a definir qué son las especificificaciones funcionales, se va a argumentar la importancia de tener especificaciones y finalmente se hablará sobre quienes son los encargados de escribir esas especificaciones.
 
 ## **Por qué necesitas una especificación**
