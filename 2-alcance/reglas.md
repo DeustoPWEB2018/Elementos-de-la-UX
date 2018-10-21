@@ -26,7 +26,7 @@ A menudo los programadores creen que una especificación correcta tiene que ser 
 Cuando escribimos especificaciones es importante que nos imaginemos a las personas que van a leerlas. Es importante preguntarse frase a frase si la persona que va a leerla la entenderá. 
 
 
-3. Escribe tan sencillamente como te sea posible
+3. ESCRIBE TAN SENCILLAMENTE COMO SEA POSIBLE 
 
 	Tenemos que empezar por quitarnos de la mente que escribir sencillo es poco profesional. La personas tendemos en el amito laboral a caer en el vicio de buscar palabras mas rigidas o estructuradas en lugar de hallar palabras mas coloquiales y de facil entendimiento para transmitir ideas o lineamientos a los demás.
 	 Algunos consejos:
@@ -38,11 +38,11 @@ Cuando escribimos especificaciones es importante que nos imaginemos a las person
 	 
 	 :octocat:
 	 [Ejemplo de una revista aplicando varios de estos consejos en una nota](http://escuelanemomarlin.com/wp-content/uploads/Articulo-revista-mia-no-me-escucha-cuando-le-hablo.jpg)
-4. Revisa y releé varias veces
+4. REVISA Y RELEÉ VARIAS VECES
 	
 	Cuando revises y releas las especificaciones que escribiste y encuentres alguna frase que no sea super facíl de entender, volvé a escribirla.
 
-5. Las plantillas se consideran dañinas
+5. LAS PLANTILLAS SE CONSIDERAN DAÑINAS
 	Al principio puede parecer importante que todas las especificaciones tengan el mismo aspecto pero NO es así. Hacer plantillas con una estructura ó que sume nuevas secciones que pretendan abarcar mas cosas que se suponen necesarias pueden convertir todo en una gran bola de nieve. No podemos pretender que para nuevas especificaciones se utilice siempre plantillas predeterminadas y volver todo burocratico, lento y con información de sobra, estas cosas son las que terminan por desviar la atención de lo importante.
 	
 	Entonces, para cada especificación, definir la mejor, mas clara y facíl manera para transmitir las indicaciones de modo que los compiladores sepan que deben hacer y no tengan que caer en segundas interpretaciones o peor abandonando la tarea.
