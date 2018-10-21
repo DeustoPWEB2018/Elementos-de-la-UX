@@ -27,17 +27,36 @@ Terapia social: El lector necesita sentirse más seguro en dentro de un escenari
 
 Ritmo de vida: Este tipo de personas están interesadas en recuperar un ritmo pausado a la hora de consumir y de vivir, ya sea consumiendo contenido informativo, comiendo o disfrutando de sus ciudades.
 
-Caída de las fuentes clásicas: Los medios tradicionales han ido reduciendo su calidad al tiempo que reducían los medios y el personal. Los medios pueden estar perdiendo su función social en el momento en el que dan más prioridad al rendimiento y no tanto a la calidad del contenido. 
-
-El dilema de la digitalización: Por un lado tenemos la burbuja que se ha creado en torno a las redes sociales, en donde los mensajes son de mala calidad y no hay fuentes reconocidas, por lo que se crean falsedades, medias verdades y dogmas. Por otro lado tendríamos el contenido de webs baratas y malas que se suman a la tendencia del contenido comisionado (content curation), así como a la imposición de la desaceleración. Respecto a ésto último, en el año 2011, Rory Sutherland, vicepresidente de Ogilvy Group en Londres, dijo: “nos encontramos en un punto en el que prácticamente no se producirá ninguna novedad tecnológica que suponga un verdadero cambio en la vida de las personas, salvo, quizá, en telefonía móvil. Y en este momento es necesario desacelerar.”
-
 Lectura cómoda en dispositivos móviles: Es importante que una web esté bien programada para optimizar al máximo su compatibilidad con los agregadores de contenido, como Flipboard o ReadMill, los cuales mejoran la experiencia del usuario, incluyendo la posibilidad de leer, anotar y de compartir dichos documentos. 
 
 El SEO no funciona:  La optimización de las páginas web para su funcionamiento en los principales buscadores de Internet se ha convertido en un engaño. Google (más del 80% de las búsquedas en Europa) no para de hacer cambios que obligan a las empresas e instituciones en invertir dinero para mejorar el posicionamiento de su contenido; éste puede alterarse dependiendo de factores como el equipo del usuario, su sistema operativo o su posición geográfica. Actualmente, Google está diseñando un sistema que discrimina el posicionamiento cuando se hace una búsqueda a través del dispositivo móvil. 
 
 
 ## ¿Qué factores provocan el nacimiento del Slow Content?
-## ¿Cuál es el origen del Slow Conten?
+
+Existen varias causas exteriores proviniendo de la industria de la comunicación que contribuyen al nacimiento de este movimiento: 
+
+* Caída de las fuentes clásicas: Los medios tradicionales han ido reduciendo su calidad al tiempo que reducían los medios y el personal. Los medios pueden estar perdiendo su función social en el momento en el que dan más prioridad al rendimiento y no tanto a la calidad del contenido. 
+
+* El dilema de la digitalización: Por un lado tenemos la burbuja que se ha creado en torno a las redes sociales, en donde los mensajes son de mala calidad y no hay fuentes reconocidas, por lo que se crean falsedades, medias verdades y dogmas. Por otro lado tendríamos el contenido de webs baratas y malas que se suman a la tendencia del contenido comisionado (content curation), así como a la imposición de la desaceleración. Respecto a ésto último, en el año 2011, Rory Sutherland, vicepresidente de Ogilvy Group en Londres, dijo: “nos encontramos en un punto en el que prácticamente no se producirá ninguna novedad tecnológica que suponga un verdadero cambio en la vida de las personas, salvo, quizá, en telefonía móvil. Y en este momento es necesario desacelerar.”
+
+Con esta profusión de información poco cualitativas, hablamos de “cacofonía editorial”. No solo, eso impide el lector de tomar distancia y de poder analizar, sino que además, la profusión de contenidos incluye el internauta en un sentimiento engañoso de hiper-variedad. Están abordados siempre los mismos temas, con los mismos puntos de vista y según las mismas recetas editoriales. Para una misma búsqueda Google, nos quedamos ante resultados de una semejanza que confunde: títulos cuasi gemelos, artículos destacados asépticos diseñados para cubrir un máximo de palabras claves. 
+Las Marcas cargan con una amplia parte de responsabilidad en este delirio informativo. En 2018,  planean aumentar su presupuesto “Contenido” en más de 50%. Buena noticia por el mercado del contenido digital? Si, pero para decir qué, a quién y cómo? 
+
+
+## ¿Cuál es el origen del Slow Content?
+
+Slow quiere decir calmado, pausado, que es finalmente la actitud del lector ante una pieza informativa. Este movimiento no es otra cosa que la aplicación de los mismos principios del movimiento slow food a los contenidos. El slow food nació en Italia en 1987 como reacción contra la multiplicación de los restaurantes de comida rápida y la difusión de la comida basura. Por eso, formar parte de este movimiento significa comer de forma consciente, valorando la calidad, teniendo en cuenta la procedencia de la materias primas y como las cocinamos. La filosofía del slow food se extendió a los diferentes esferas de la vida cotidiana, dando a luz al movimiento slow (slow life o slow attitude).  
+Así, el slow content aplica este mismo ideario a los contenidos. Consiste en pararse, pensar, frenar el ritmo de locos de la publicación y cuidar cada línea redactada. 
+
+Los tres pilares del Slow Content son:
+* contenidos útiles no modificados 
+* contenidos razonados y elegidos 
+* contenidos cualitativos y duraderos 
+
+En otras palabras, el movimiento ha aparecido con el objetivo de valorar la calidad de los contenidos publicados, teniendo en cuenta la veracidad y relevancia de la información. 
+
+
 ## ¿Parámetros de construcción?
 Cuando realizamos slowcontent, no debemos perder de vista que el contenido debe mantener el interés del lector. El texto debe tener una estructura periodística clásica que, a través de unos pocos párrafos, sirvan para saciar la curiosidad del lector, de modo que la empresa sí o sí necesita contratar a un periodista para su elaboración. 
 
@@ -51,5 +70,7 @@ Con esta estrategia, la marca pretende situarse como un referente en este tipo d
 
 ## Bibliografía
 
-- Diaz Soloaga, Carmen. Qué es slow content y porqué te vas a unir a esta revolución. 20/03/2018. Disponible online: https://www.socialmediapymes.com/que-es-slow-content/ 
-- L'ADN. Creadores de contenido, STOP! Es el momento de pasarse al Slow Content (Créateurs de contenu, STOP ! Il est temps de passer au Slow Content). 20/08/2018. Disponible online: https://www.ladn.eu/media-mutants/createurs-de-contenu-stop-il-est-temps-de-passer-au-slow-content/ 
+* Diaz Soloaga, Carmen. Qué es slow content y porqué te vas a unir a esta revolución. 20/03/2018. Disponible online: https://www.socialmediapymes.com/que-es-slow-content/ 
+* L'ADN. Creadores de contenido, STOP! Es el momento de pasarse al Slow Content (Créateurs de contenu, STOP ! Il est temps de passer au Slow Content). 31/08/2018. Disponible online: https://www.ladn.eu/media-mutants/createurs-de-contenu-stop-il-est-temps-de-passer-au-slow-content/ 
+* Culture Crunch. SLOW LIFE: es urgente disminuir la intensidad! (SLOW LIFE : il devient urgent de ralentir !). 22/07/2018. Disponible online: https://be-aba.com/2018/07/22/le-mouvement-slow-lurgence-de-ralentir/
+* Ribas, Ester. Qué es el Slow Content y cómo puede ayudar a posicionar tu marca. 10/04/2918. Disponible online: https://www.iebschool.com/blog/slow-content-ayudar-posicionar-marca-marketing-estrategico/
