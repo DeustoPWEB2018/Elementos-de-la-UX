@@ -38,21 +38,21 @@ Otra de las razones principales por la cual este tipo de contenidos está result
 ## ¿Cuáles son sus motivaciones y necesidades?
 Las motivaciones del lector, a la hora de consumir de contenido, pueden partir tanto de necesidades individuales como de índole social: 
 
-Curiosidad intelectual: El lector tiene un perfil curioso e intelectual que, sin llegar a ser académico, demanda información de calidad que va desde el nivel medio hasta el experto.
+* Curiosidad intelectual: El lector tiene un perfil curioso e intelectual que, sin llegar a ser académico, demanda información de calidad que va desde el nivel medio hasta el experto.
 
-Búsqueda de la verdad: El lector busca en la información una visión más cercana a la idea que tiene sobre la verdad, ya que las fuentes de su entorno social no son suficientes o difiere con ellas.
+* Búsqueda de la verdad: El lector busca en la información una visión más cercana a la idea que tiene sobre la verdad, ya que las fuentes de su entorno social no son suficientes o difiere con ellas.
 
-Fatiga del cambio: El lector está cansado del rápido ritmo que tiene la sociedad actual, la cual te “obliga” a estar continuamente actualizando tus herramientas tecnológicas, como el móvil o el ordenador, además de la desaparición de los medios de comunicación análogicos tradicionales que han llevado a una pérdida significativa de la calidad informativa. 
+* Fatiga del cambio: El lector está cansado del rápido ritmo que tiene la sociedad actual, la cual te “obliga” a estar continuamente actualizando tus herramientas tecnológicas, como el móvil o el ordenador, además de la desaparición de los medios de comunicación análogicos tradicionales que han llevado a una pérdida significativa de la calidad informativa. 
 
-Necesidades de fuentes frescas: Este lector necesita fuentes originales, claras y fiables, ya que no se fía de la información que se comparte a través de las redes sociales y cuestiona los puntos de vista de los medios de comunicación tradicionales.
+* Necesidades de fuentes frescas: Este lector necesita fuentes originales, claras y fiables, ya que no se fía de la información que se comparte a través de las redes sociales y cuestiona los puntos de vista de los medios de comunicación tradicionales.
 
-Terapia social: El lector necesita sentirse más seguro en dentro de un escenario de gran incertidumbre respecto al futuro social y económico inmediato, ya que actualmente hay un aura de escepticismo y pesimismo transversales en los distintos ámbitos de la vida. Por eso mismo necesita vencer esa ansiedad a través de la comprensión de los cambios.
+* Terapia social: El lector necesita sentirse más seguro en dentro de un escenario de gran incertidumbre respecto al futuro social y económico inmediato, ya que actualmente hay un aura de escepticismo y pesimismo transversales en los distintos ámbitos de la vida. Por eso mismo necesita vencer esa ansiedad a través de la comprensión de los cambios.
 
-Ritmo de vida: Este tipo de personas están interesadas en recuperar un ritmo pausado a la hora de consumir y de vivir, ya sea consumiendo contenido informativo, comiendo o disfrutando de sus ciudades.
+* Ritmo de vida: Este tipo de personas están interesadas en recuperar un ritmo pausado a la hora de consumir y de vivir, ya sea consumiendo contenido informativo, comiendo o disfrutando de sus ciudades.
 
-Lectura cómoda en dispositivos móviles: Es importante que una web esté bien programada para optimizar al máximo su compatibilidad con los agregadores de contenido, como Flipboard o ReadMill, los cuales mejoran la experiencia del usuario, incluyendo la posibilidad de leer, anotar y de compartir dichos documentos. 
+* Lectura cómoda en dispositivos móviles: Es importante que una web esté bien programada para optimizar al máximo su compatibilidad con los agregadores de contenido, como Flipboard o ReadMill, los cuales mejoran la experiencia del usuario, incluyendo la posibilidad de leer, anotar y de compartir dichos documentos. 
 
-El SEO no funciona:  La optimización de las páginas web para su funcionamiento en los principales buscadores de Internet se ha convertido en un engaño. Google (más del 80% de las búsquedas en Europa) no para de hacer cambios que obligan a las empresas e instituciones en invertir dinero para mejorar el posicionamiento de su contenido; éste puede alterarse dependiendo de factores como el equipo del usuario, su sistema operativo o su posición geográfica. Actualmente, Google está diseñando un sistema que discrimina el posicionamiento cuando se hace una búsqueda a través del dispositivo móvil. 
+* El SEO no funciona:  La optimización de las páginas web para su funcionamiento en los principales buscadores de Internet se ha convertido en un engaño. Google (más del 80% de las búsquedas en Europa) no para de hacer cambios que obligan a las empresas e instituciones en invertir dinero para mejorar el posicionamiento de su contenido; éste puede alterarse dependiendo de factores como el equipo del usuario, su sistema operativo o su posición geográfica. Actualmente, Google está diseñando un sistema que discrimina el posicionamiento cuando se hace una búsqueda a través del dispositivo móvil. 
 
 
 ## Parámetros de construcción de contenidos Slow Content
