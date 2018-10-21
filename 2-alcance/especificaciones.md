@@ -1,7 +1,5 @@
 **ESPEFICICACIONES FUNCIONALES SIN ESFUERZO**
 
-**Introducción: ¿Qué es?**
-
 **Por qué necesitas una especificación**
 
 Cuando se quiere realizar un proyecto todos saben que uno de sus deberes es escribir especificaciones antes de comenzar a diseñarlo, pero normalmente no lo hacen. ¿Por qué? Porque creen que este paso es una pérdida de tiempo. Por esta razón y para mostrar que están equivocados, a continuación, se van a explicar algunas razones de por qué se necesita una especificación:
