@@ -1,10 +1,31 @@
 # Especificación: Parte Nro 4
 
-## Introducción: Enfoque a la implementación (Jon)
+## Introducción: 
+
+Mediante el siguiente informe vamos a indicar unas reglas necesarias para poder realizar unas especificaciones que sean leídas y no sean aburridas para el receptor. Una de las principales quejas que se pueden oír por parte de los equipos que si escriben especificaciones es que nadie las lee. Si unas especificaciones no son leídas habrá muchas discusiones cuando se entregue el producto terminado. Las especificaciones son buenas, pero no si nadie las lee. Para poder “engañar” a las personas para que lean especificaciones es necesario seguir algunas reglas que nos ayudarán a que sean unas especificaciones amenas y comprensibles para nuestro público.
 
 ## Desarrollo: Las cinco reglas 
-1. (Jon)
-2. (Jon)
+1. SÉ DIVERTIDO
+
+Para poder engañar a nuestros lectores debemos de conseguir que sea una experiencia agradable. Mucha gente se autocensura a la hora de ser divertido ya que piensan que no es algo profesional. A la hora de redactar las especificaciones un buen lugar para poder ser graciosos son los ejemplos.
+
+El siguiente ejemplo ha sido extraído del texto trabajado en clase:
+-	El usuario pulsa Ctrl+N para poder crear una nueva tabla, Empleados, y comienza a introducir los nombres de los empleados. (Ejemplo de una especificación aburrida)
+-	La cerdita Peggy, golpeando las teclas con el pintalabios porque sus rechonchos deditos son demasiado gordos para poder apretar una sola tecla cada vez, pulsa Ctrl+N oara crear una nueva tabla, Novios, y escribe el único registro “Gustavo”. (Ejemplo de una especificación divertida)
+Una simple forma de ser divertido es sustituir la palabra “usuario” por cualquier otra, Hommer Simpson, Pollito Pio, Rana Gustavo… 
+
+2. ESCRIBIR UNA ESPECIFICACIÓN ES COMO ESCRIBIR CÓDIGO PARA QUE LO EJECUTE UN CEREBRO
+
+Debemos de tener en cuente que a la hora de escribir en código de programación nuestra audiencia principal es el compilador (def Wikipedia: traduce un programa que ha sido escrito en lenguaje de programación a un lenguaje común). Por lo tanto, es muy difícil leerlo para aquellas personas que no son compiladores y debemos de preocuparnos por hacerlo legible para aquellas personas que no son compiladores.
+
+El siguiente ejemplo ha sido extraído del texto trabajado en clase:
+-	Sea una función, DirecciónDe(x), que se define como la correspondencia de un usuario x, a la dirección de e-mail del usuario según RFC-822, una cadena ANSI. Sean el usuario A y el usuario B, donde A quiere enviar un e-mail al usuario B. Po tanto, el usuario A inicia un nuevo mensaje usando alguna (pero no odas) de las técnicas definidas en otra parte, y escribe DirecciónDe(B) en el cuadro de edición Para: (Ejemplo de una especificación poco legible)
+-	La cerdita Peggy quiere irse a almorzar, así que comienza un nuevo e-mail y escribe la dirección de la rana Gustavo en el cuadro “Para”.
+Nota técnica: la dirección de ser una dirección estándar de Internet (siguiendo RFC-822) (Ejemplo de una especificación algo más legible)
+A menudo los programadores creen que una especificación correcta tiene que ser técnicamente correcta y no es así. Una especificación debe de ser correcta y comprensible.
+Cuando escribimos especificaciones es importante que nos imaginemos a las personas que van a leerlas. Es importante preguntarse frase a frase si la persona que va a leerla la entenderá. 
+
+
 3. Escribe tan sencillamente como te sea posible
 
 	Tenemos que empezar por quitarnos de la mente que escribir sencillo es poco profesional. La personas tendemos en el amito laboral a caer en el vicio de buscar palabras mas rigidas o estructuradas en lugar de hallar palabras mas coloquiales y de facil entendimiento para transmitir ideas o lineamientos a los demás.
