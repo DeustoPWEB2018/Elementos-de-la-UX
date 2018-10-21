@@ -45,7 +45,7 @@ Es importante tener en cuenta que el primer paso para crear un programa es escri
 
 ## **Quién escribe especificaciones**
 
-En los años 80 cuando Microsoft empezó a crecer y con ella la complejidad de escribir los programas, se optó por incluir en la organización un nuevo cargo al cual denominaron *Program Manager* actualmente es conocido por ser el encargado de redactar las especificaciones del proyecto de una empresa. Básicamente el *Program Manager* se ocupa de:
+En los años 80 cuando Microsoft empezó a crecer y con ella la complejidad de escribir los programas, se optó por incluir en la organización un nuevo cargo al cual denominaron *program manager* actualmente es conocido por ser el encargado de redactar las especificaciones del proyecto de una empresa. Básicamente el *program manager* se ocupa de:
 
 **Propuesta:** Qué se quiere realizar, porqué y cuales son los objetivos. 
 
