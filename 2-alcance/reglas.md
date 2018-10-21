@@ -24,6 +24,6 @@
 ## Ejemplo general: Quehoraes.com (Mikel)
 
 ## Bibliografia
-    Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo: https://web.archive.org/web/20171220104805/http://spanish.joelonsoftware.com:80/PainlessSpecs/4.html
-    Spolsky-Especificacion_de_ejemplo_QueHoraEs.pdf
+- Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo: https://web.archive.org/web/20171220104805/http://spanish.joelonsoftware.com:80/PainlessSpecs/4.html
+- Spolsky-Especificacion_de_ejemplo_QueHoraEs.pdf
    
