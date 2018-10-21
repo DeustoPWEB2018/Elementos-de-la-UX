@@ -15,6 +15,7 @@ La primera y principal razón es que no es una pérdida de tiempo, al revés, es
 Las especificaciones también son una forma segura de sacar adelante el proyecto. Todos saben que la parte más importante de las especificaciones es el diseño del programa. Si se escribe una buena especificación explicando paso por paso cómo va a ser el proyecto es más probable que se logre diseñar el programa que lograrlo sin escribir especificaciones. Además, este paso también ahorrará futuros problemas. 
 
 Otra de las razones por las que hay que optar por escribir especificaciones es que, sin una especificación detallada, es imposible hacer una planificación temporal. Todas las empresas saben que desarrollar un proyecto cuesta dinero, y más si se tarda tiempo en terminarlo. Ninguna empresa va a arriesgar en un proyecto si no sabe cuánto tiempo le va a costar. La solución es fácil: escribir especificaciones. Esto les indicará a las empresas cuánto tiempo tardarán en sacar a delante el proyecto y, por tanto, cuánto dinero les va a costar por ello.
+
 Siempre que se escriba una especificación, hay que tener claro que hay que llegar siempre a una última conclusión. Si no se toma la decisión final no se llegará a diseñar nada. Y, sobre todo, es importante tomar las decisiones más importantes al principio, porque esto impedirá tener problemas una vez empezado con el diseño del programa.  
 
 ## **Las especificaciones**
