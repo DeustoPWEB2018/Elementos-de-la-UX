@@ -56,4 +56,4 @@ En los años 80 cuando Microsoft empezó a crecer y con ella la complejidad de e
 **Soluciones o cambios:** Con la evolución del proyecto se pueden encontrar fallos que deben solucionarse o si es el caso cambiar la idea para que finalmente el proyecto funcione. 
 
 Según Spolky la estructura gráfica del equipo que lleva a cabo las especificaciones es así: 
->>>>>>> (Imagen)
+![programmanager](/2-alcance/programmanager.png)
