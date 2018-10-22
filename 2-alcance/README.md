@@ -1,5 +1,5 @@
 # Plano de Alcance
-##Contenido (Substance)
+## Contenido (Substance)
 
 El contenido se divide en diferentes etapas: 
 
@@ -95,17 +95,18 @@ Riqueza: ¿Cuán valiosos somos?
 
 Ingresos: ¿Cómo afectará el contenido a las actividades generadoras de ingresos del sitio (ventas de productos actuales, ventas de anuncios, etc.)?
 
-##Estructura
+## Estructura
 1. Primeras decisiones
 	-Canal
 	- Plataforma
 	- Formato
 	- Mensaje clave
-2. Navegación y nomenclatura: facilitar a los usuarios encontrar lo que buscan
-	- Links
-	- Microcopy
-	- Metadatos
-	- Etiquetas
+2. Navegación: El usuario de una página web navega por ella. Salta de un enlace a otro, de contenido a contenido. El diseñador de una web debe preparar un sistema de navegación que facilite en gran medida la experiencia del usuario. El usuario debe encontrar lo que busca lo más rápido posible.
+	- Nomenclatura: Nomenclatura: consiste en poner nombres o etiquetas a los componentes de la página web. Por ejemplo, elegir los nombres que llevará cada sección. En el caso de Marca y Mundo Deportivo optan por nombrar las secciones principales como fútbol, baloncesto y motor. Sin embargo, el primero identifica a los demás deportes como polideportivo, y el segundo como más deporte.
+	- Hipervínculos o links: Hipervínculos o links: se debe elegir dónde y cuándo aparecerán los links. Hay que tener en cuenta que los hipervínculos pueden ayudar a enriquecer la experiencia del usuario ya sea aportando más información que le interese o ofreciendo la posibilidad de enlazar con las redes sociales de la empresa. Así será más fácil completar los objetivos de la web.
+	- Microcopy: aunque muchas veces estos mensajes pasen desapercibidos, son de gran ayuda. Sirven para dar instrucciones o notificar errores a los usuarios. La siguiente imagen es un ejemplo de microcopy:
+	![Microcopy](https://cdn-images-1.medium.com/max/1600/1*j8CIz0W24p26rV6jfOjy7g.png)
+	- Metadatos y etiquetas: los metadatos son los datos que sirven para identificar los contenidos de una página web. Esos datos se nombran con las etiquetas. Así si un contenido está etiquetado, se podrá encontrar más fácilmente con el buscador. 
 3. Herramientas útiles
 	- Mapa del sitio
 	- Wireflames
