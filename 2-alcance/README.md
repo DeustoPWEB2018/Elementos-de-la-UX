@@ -97,10 +97,21 @@ Ingresos: ¿Cómo afectará el contenido a las actividades generadoras de ingres
 
 ## Estructura
 1. Primeras decisiones
-	-Canal
-	- Plataforma
-	- Formato
-	- Mensaje clave
+	-Canal: Es el lugar o servicio a través del cual te comunicas con tus usuarios, como pueden ser los emails, las páginas web o los SMS.
+	- Plataforma: Es la tecnología sobre la que tu construyes tu contenido o servicio para poder intercambiar contenidos. Por ejemplo, puedes utilizar un sistema de almacenamiento de contenido dentro de la tecnología móvil.
+	- Formato: Es la manera en la que la información es presentada. Puede llegar en forma de audio, video, texto...
+	- Mensaje clave: Se podría decir que la principal pregunta que habría que hacerse es la de: 
+
+	¿Cómo puedo hacer llegar el contenido correcto a la persona correcta en el momento correcto y en el lugar indicado?
+
+	Es por ello que tenemos que plantearnos diferentes cuestiones en relación a esto:
+
+	1. ¿Cuales son los mejores formatos para comunicar los mensajes clave?
+	2. ¿Son alcanzables estos formatos?
+	3. ¿Donde se encuentran nuestras audiencias?
+	4. ¿Cuanto de "portatil" es nuestro contenido?
+
+	Y sobre todo, se debe tomar en cuenta una cuestión
 2. Navegación: El usuario de una página web navega por ella. Salta de un enlace a otro, de contenido a contenido. El diseñador de una web debe preparar un sistema de navegación que facilite en gran medida la experiencia del usuario. El usuario debe encontrar lo que busca lo más rápido posible.
 	- Nomenclatura: Nomenclatura: consiste en poner nombres o etiquetas a los componentes de la página web. Por ejemplo, elegir los nombres que llevará cada sección. En el caso de Marca y Mundo Deportivo optan por nombrar las secciones principales como fútbol, baloncesto y motor. Sin embargo, el primero identifica a los demás deportes como polideportivo, y el segundo como más deporte.
 	- Hipervínculos o links: Hipervínculos o links: se debe elegir dónde y cuándo aparecerán los links. Hay que tener en cuenta que los hipervínculos pueden ayudar a enriquecer la experiencia del usuario ya sea aportando más información que le interese o ofreciendo la posibilidad de enlazar con las redes sociales de la empresa. Así será más fácil completar los objetivos de la web.
