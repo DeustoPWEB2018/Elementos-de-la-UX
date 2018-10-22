@@ -1,4 +1,11 @@
 # Plano de Alcance
+
+En este apartado continuaremos explicando todo lo que venimos viendo durante estos 4 años de carrera sobre la web y sus características, enfocándonos principalmente en los componentes relacionados con los contenidos.
+
+Por una parte nos centraremos en la "Substance" o substancia de nuestra web: ¿Qué contenido necesitamos y por qué?
+
+Por la otra, tendremos que centrarnos en la estructura: ¿Cual será nuestro contenido prioritario, cómo se organizará, en qué formato y pantallas?
+
 ## Contenido (Substance)
 
 El contenido se divide en diferentes etapas: 
@@ -111,14 +118,19 @@ Ingresos: ¿Cómo afectará el contenido a las actividades generadoras de ingres
 	3. ¿Donde se encuentran nuestras audiencias?
 	4. ¿Cuanto de "portatil" es nuestro contenido?
 
-	Y sobre todo, se debe tomar en cuenta una cuestión
+	Y sobre todo, se debe tomar en cuenta una cuestión concreta:
+
+	- No se debe perder el tiempo tratando de enviar contenido a aquellos sitios done tu audiencia no quiere recibirlos. Consigue su permiso. Tarata de anirmarlos, no abrumarlos. Y sobre todo, encuentrate con ellos en terreno neutral.
+
 2. Navegación: El usuario de una página web navega por ella. Salta de un enlace a otro, de contenido a contenido. El diseñador de una web debe preparar un sistema de navegación que facilite en gran medida la experiencia del usuario. El usuario debe encontrar lo que busca lo más rápido posible.
 	- Nomenclatura: Nomenclatura: consiste en poner nombres o etiquetas a los componentes de la página web. Por ejemplo, elegir los nombres que llevará cada sección. En el caso de Marca y Mundo Deportivo optan por nombrar las secciones principales como fútbol, baloncesto y motor. Sin embargo, el primero identifica a los demás deportes como polideportivo, y el segundo como más deporte.
 	- Hipervínculos o links: Hipervínculos o links: se debe elegir dónde y cuándo aparecerán los links. Hay que tener en cuenta que los hipervínculos pueden ayudar a enriquecer la experiencia del usuario ya sea aportando más información que le interese o ofreciendo la posibilidad de enlazar con las redes sociales de la empresa. Así será más fácil completar los objetivos de la web.
 	- Microcopy: aunque muchas veces estos mensajes pasen desapercibidos, son de gran ayuda. Sirven para dar instrucciones o notificar errores a los usuarios. La siguiente imagen es un ejemplo de microcopy:
 	![Microcopy](https://cdn-images-1.medium.com/max/1600/1*j8CIz0W24p26rV6jfOjy7g.png)
 	- Metadatos y etiquetas: los metadatos son los datos que sirven para identificar los contenidos de una página web. Esos datos se nombran con las etiquetas. Así si un contenido está etiquetado, se podrá encontrar más fácilmente con el buscador. 
-3. Herramientas útiles
-	- Mapa del sitio
-	- Wireflames
-	- Page tables
+3. Herramientas útiles:
+Desde hace más de una década las paginas web consideradas como "buenas", seguían una estructura troncal de navegación. Es por ello, que debido a esta tendencia han ido surgiendo diferentes herramientas para manejarlo:
+
+	- Mapa del sitio: Es la herramienta estructural más popular de todas. Es una herramienta util, aunque a veces los desarrolladores no sean capaces de obtener los requerimiéntos mínimos si no se utiliza bien.
+	- Wireflames: En la mayoría de documentación sobre la inteligencia artificial los componentes importantes son incluidos en los wireflames. Son páginas parecidas a los planos en arquitectura .
+	- Tablas de página: Para llevar las herramientas anteriores al siguiente nivel hace falta este tipo de documento. En él, se dice todo lo que se necesita sobre el contenido de una página web concreta. El objetivo, mensaje clave, recomendaciones de contenido específico, calidad de las fuentes y requisitos sobre cómo crear y mantener el contenido.
