@@ -11,9 +11,11 @@ Por la otra, tendremos que centrarnos en la estructura: ¿Cual será nuestro con
 El contenido se divide en diferentes etapas: 
 
 1. Audiencia
+
 Los usuarios son primordiales en nuestro proyecto, por lo que es necesario ser exactos en su definición. Por esto, es recomendable desarrollar “personas” para definir mejor las características. Además, es necesario priorizar nuestros usuarios para cada contenido. Por eso, debemos hacer una lista con la elección del que será nuestro primer usuario. Esta etapa puede determinar lagunas, por ejemplo dentro de nuestro sitio web y nuestro público objetivo. En efecto, si nuestro público son nuestros propios empleados, el contenido será diferente de si nuestra web es una página web pública.
 
 2. Mensaje
+
 Los mensajes dan vida a la estrategia central. Ayuda a definir lo que este contenido web específico debe comunicar para acercarse a su objetivo final. Ayuda también a priorizar las necesidades de contenido, mantener el contenido coherente y alinear a los propietarios de contenido en los requisitos de contenido. 
 Después de tener una estrategia de contenido sólida, es necesario hacer una jerarquía de mensajes: 
 
@@ -31,6 +33,7 @@ Los detalles serán todas las frases que están debajo del subtítulo.
 Debemos prestar atención a la jerarquía porque es posible que las diferentes audiencias no tengan la misma interpretación de los mensajes. Es muy importante para la elaboración de los mensajes. 
 
 3. Temas
+
 Debemos elegir temas que interesan a nuestra audiencia. Para nos ayudar : audiencia + mensajes = temas.
 Es mejor de hacer una “topic map” para mostrar cómo sus temas se relacionan entre sí. Permite de ayudar en los enlaces estratégicas, las metadatas etc. 
 Y esto debe permitir ver cómo los sujetos se impactan entre sí, y también de informar.
@@ -40,6 +43,7 @@ Por ejemplo:
 ![tema map ejemplo](Temamap2.png)
 
 4. Propósito
+
 Para diferentes tareas, debemos utilizar diferentes tipos de contenido según el propósito del contenido. Es decir, debemos identificar un propósito para cada parte del contenido. Esto puede ayudar a tomar decisiones informadas sobre qué tipo de contenido necesita la web.  
 Entre otros ejemplos de propósitos de contenidos están los siguientes :
 
@@ -56,6 +60,7 @@ Entre otros ejemplos de propósitos de contenidos están los siguientes :
 Este propositos permite determinar qué funciona o no para nuestro producto.
 
 5. Tono y lenguaje
+
 Para explicar esta parte, es más fácil de tomar un ejemplo : En la creación de contenido, su empresa tiene una voz de marca que tiene una personalidad, un estilo o un punto de vista distintos. Esa voz puede tomar diferentes tonos en diferentes situaciones y para diferentes propósitos, todo dependiendo de su audiencia específica.
 
 Para definir la voz, es necesario buscar adjetivos que corresponden a nuestra empresa o producto. Es una necesidad para tener un contenido claro. Por ejemplo, la voz de una universidad será “aspiracional, inclusiva, y auténtica”. 
@@ -65,6 +70,7 @@ Para definir el tono, es necesario de saber lo máximo posible de cosas sobre nu
 Debemos prestar atención a la cultura, es decir que la voz y el tono deben se adaptar a las normas de cada mercado. 
 
 6. Fuentes: de dónde conseguir los contenidos
+
 Hay un número de maneras de obtener contenidos para elaborar su estrategia de contenido: 
 
 	- Contenido propio
@@ -104,6 +110,7 @@ Ingresos: ¿Cómo afectará el contenido a las actividades generadoras de ingres
 
 ## Estructura
 1. Primeras decisiones
+
 	-Canal: Es el lugar o servicio a través del cual te comunicas con tus usuarios, como pueden ser los emails, las páginas web o los SMS.
 	- Plataforma: Es la tecnología sobre la que tu construyes tu contenido o servicio para poder intercambiar contenidos. Por ejemplo, puedes utilizar un sistema de almacenamiento de contenido dentro de la tecnología móvil.
 	- Formato: Es la manera en la que la información es presentada. Puede llegar en forma de audio, video, texto...
@@ -128,7 +135,9 @@ Ingresos: ¿Cómo afectará el contenido a las actividades generadoras de ingres
 	- Microcopy: aunque muchas veces estos mensajes pasen desapercibidos, son de gran ayuda. Sirven para dar instrucciones o notificar errores a los usuarios. La siguiente imagen es un ejemplo de microcopy:
 	![Microcopy](https://cdn-images-1.medium.com/max/1600/1*j8CIz0W24p26rV6jfOjy7g.png)
 	- Metadatos y etiquetas: los metadatos son los datos que sirven para identificar los contenidos de una página web. Esos datos se nombran con las etiquetas. Así si un contenido está etiquetado, se podrá encontrar más fácilmente con el buscador. 
+
 3. Herramientas útiles:
+
 Desde hace más de una década las paginas web consideradas como "buenas", seguían una estructura troncal de navegación. Es por ello, que debido a esta tendencia han ido surgiendo diferentes herramientas para manejarlo:
 
 	- Mapa del sitio: Es la herramienta estructural más popular de todas. Es una herramienta util, aunque a veces los desarrolladores no sean capaces de obtener los requerimiéntos mínimos si no se utiliza bien.
