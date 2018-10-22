@@ -38,9 +38,9 @@ Debemos elegir temas que interesan a nuestra audiencia. Para nos ayudar : audien
 Es mejor de hacer una “topic map” para mostrar cómo sus temas se relacionan entre sí. Permite de ayudar en los enlaces estratégicas, las metadatas etc. 
 Y esto debe permitir ver cómo los sujetos se impactan entre sí, y también de informar.
 Por ejemplo: 
-![tema map](Temamap1.png)
+![tema map](Temamap1.PNG)
 
-![tema map ejemplo](Temamap2.png)
+![tema map ejemplo](Temamap2.PNG)
 
 4. Propósito
 
