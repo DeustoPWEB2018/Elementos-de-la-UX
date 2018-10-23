@@ -1,4 +1,4 @@
-# Plano de Alcance
+# Estrategia de contenidos
 
 En este apartado continuaremos explicando todo lo que venimos viendo durante estos 4 años de carrera sobre la web y sus características, enfocándonos principalmente en los componentes relacionados con los contenidos.
 
