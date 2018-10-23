@@ -15,7 +15,7 @@ Contenido sobre elaboración de proyectos web centrados en el diseño de la expe
     1. [Especificaciones funcionales](2-alcance/especificaciones.md)
     2. [Cómo redactar las especificaciones funcionales](2-alcance/reglas.md)
     3. [Estrategia de contenidos](2-alcance/Estrategia-de-contenidos.md)
-    4. [Slow content](2-alcance/slowcontent.md)
+    4. [Slow content](2-alcance/slow-content.md)
 3. [Estructura](3-estructura)
 4. [Esqueleto](4-esqueleto)
 5. [Superficie](5-superficie)
