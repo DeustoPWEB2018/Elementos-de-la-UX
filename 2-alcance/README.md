@@ -3,4 +3,4 @@
 1. [Especificaciones funcionales](especificaciones.md)
 2. [Cómo redactar las especificaciones funcionales](reglas.md)
 3. [Estrategia de contenidos](Estrategia-de-contenidos.md)
-4. [Slow content](slowcontent.md)
+4. [Slow content](slow-content.md)
