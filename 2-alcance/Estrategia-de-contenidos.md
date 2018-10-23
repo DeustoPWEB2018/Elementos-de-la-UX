@@ -43,9 +43,9 @@ Y esto debe permitir ver cómo los sujetos se impactan entre sí, y también de 
 
 Por ejemplo: 
 
-![tema map](Temamap1.PNG)
+![tema map](Temamap1.png)
 
-![tema map ejemplo](Temamap2.PNG)
+![tema map ejemplo](Temamap2.png)
 
 ### 4. Propósito
 
