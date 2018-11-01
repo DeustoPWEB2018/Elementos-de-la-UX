@@ -3,12 +3,12 @@ Introducción
 
 # **Elemento del diseño de la interacción** 
 
-## 1 Comunicación persona-máquina 
+## 1. Comunicación persona-máquina 
 
 
 
 
-## 2 Acción/Reacción 
+## 2. Acción/Reacción 
 
 ### Valores por defecto
 *Ejemplo:*
@@ -16,7 +16,7 @@ Introducción
 
 
 
-## 3 Flujo de trabajo 
+## 3. Flujo de trabajo 
 El flujo de trabajo consiste en facilitar las tareas especificas del usuario dentro de la plataforma y el cumplimiento de los objetivos multitarea como navegar o la realización de compras en linea. De igual forma podemos encontrar otros términos o factores que hacen que el flujo de trabajo sea mas eficiente, por ejemplo: 
 
 ### Consistencia:
@@ -38,7 +38,7 @@ Para encontrar el número de contacto, la dirección, o el email de una organiza
 En todas las plataformas web se le debe brindar al usuario una navegación sencilla, fácil, comprensible e intuitiva, que a la hora de clicar sea perceptible. Ejemplo, que si la pestaña donde clic dice “Ropa para dama” al ingresar se encuentre con artículos de mujer y no artículos para niñas. 
 
 
-## 4 Estado 
+## 4. Estado 
 Es necesario que exista una comunicación correcta entre la aplicación y el usuario y viceversa, para ello el diseño de interacción tiene la función de traducir y de garantizar que el usuario entienda el estado actual de la aplicación. El estado sirve para dar a conocer al usuario qué tipo de operaciones son posibles, apropiadas o en qué lugar se encuentra dentro de la aplicación. A continuación se encuentran cuatro funciones interesantes y a tener en cuenta para garantizar que el usuario comprende su estado actual de la manera más sencilla y eficaz posible. 
 
 ### Autonomía:
@@ -53,7 +53,7 @@ Es necesario que exista una comunicación correcta entre la aplicación y el usu
 ### Reducción de latencia:
 *Ejemplo:*
 
-## 5 Mal funcionamiento o errores 
+## 5. Mal funcionamiento o errores 
 Las paginas web pueden tener fallos inesperados o que no se perciben si no hasta después de ciertos procedimientos, sin embargo el mal funcionamiento o los errores de las plataformas en su mayoría podrían evitarse de la siguiente manera: 
 
 ### Anticipación: 
@@ -69,7 +69,6 @@ No hay nada mas frustrante que estar en un navegador o trabajar en un proyecto y
 
 - Microsoft también tiene opciones útiles, como preguntarle al usuario cuando clica el botón de cerrar si desea guardar o no el documento en el que ha estado trabajando, o cuando se cierra la documento y a la hora de volver abrirlo no se recuerda el nombre del archivo, pone en la pestaña archivo los últimos documentos en los que estuvo trabajando el usuario. Estas son rutas mas largas, pero que le dan al usuario la esperanza de recuperar lo que daba por perdido. 
 
-## Referencias bibliográficas:
+## Referencias 
 - Bruce Tognazzini (2014), *Principios de diseño de interacción*
 - Ob Baxley (2002), *Introducing Interaction Design*
-¡¡¡HAY QUE AÑADIR REFERENCIAS!!!!
