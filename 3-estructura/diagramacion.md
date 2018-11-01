@@ -1,5 +1,5 @@
 
-# Un vocabulario visual para describir arquitectura de información y diseño de interacción
+# UN VOCABULARIO VISUAL PARA DESCRIBIR ARQUITECTURA DE LA INFORMACIÓN Y DISEÑO DE INTERACCIÓN
 
 ## INTRODUCCIÓN
 
