@@ -7,6 +7,29 @@ Para la elaboración de este escrito nos hemos basado en la lectura de Jesse JAm
 
 ## CONSIDERACIONES INICIALES
 
+Un vocabulario visual se utiliza para describir la arquitectura de información y diseño de interacción de una página web. Por lo que podríamos definirlo como explica el autor James Garrett, como un “conjunto de símbolos usado para describir algo”. Ese vocabulario descrito, es usado para dichas funciones de arqutectura e interacción, para describir la estructura y/o flujo de la experiencia que pueda tener el usuario de un sitio Web.
+
+Estas diagramas o descripciones son usados por: 
+
+- Inversionistas y gerentes de proyecto
+
+- Productores de contenido
+
+- Diseñadores visuales y de interfaces
+
+- Tecnólogos
+
+- Arquitectos de información y diseñadores de interfaz
+
+Pero hay que tener en cuenta que, estas audiencias necesitan gran cantidad de detalles para hacer su trabajo, pero cada uno de ellos necesitan datos específicos, por lo que los demás son irrelevantes para sus necesidades.
+
+
+## TRASFONDO CONCEPTUAL
+
+Hay que subrayar que el diagrama se enfoca en lo que llamamos la macro-estructura. La tarea del arquitecto es determinar el nivel apropiado de detalle para lograr ese objetivo. Aún así, las diagramas deben enfatizar cómo el usuario fluye a través de tareas definidas. 
+
+El vocabulario explicado brevemente, consta en lo siguiente: El sistema presenta al usuario unos caminos en los que se mueve a través de ellas mediante acciones, para que esas acciones el sistema genera unos resultados. Que sería la pantalla de la página web que desea el usuario.
+
 ## ELEMENTOS SIMPLES
 
 ## TODO DE UNA VEZ: CONJUNTOS RECURRENTES
@@ -43,6 +66,46 @@ Algunos diseños requieren que una secuencia de pasos aparezca repetidamente en 
 También requieren de PUNTOS DE ENTRADA y PUNTOS DE SALIDA. Se ubican fuera del área de flujo, mientras los puntos de continuación, dentro del área de flujo, indican que el flujo abarca múltiples diagramas. El objetivo de ambos elementos es el mismo: permitir al arquitecto cortar el diagrama en páginas. La diferencia es que la REFERENCIA DE FLUJO puede ser usada en ambas modalidades; "continua desde" y "continua hasta", mientras que un punto de continuación sólo puede ser uno o otro. Si no necesitamos un elemento que tenga los dos roles, no necesitaremos usar el flujo. 
 
 ## CONCEPTOS BÁSICOS PARA ELEMENTOS CONDICIONALES
+
+Las arquitecturas de información y diseños de interacción son reformados de manera dinámica. Esta reformación es lograda mediante lógica condicional, y los elementos restantes de este vocabulario son específicos a estructuras de lógica condicional. Un modelo conceptual básico sería el siguiente: 
+
+-El sistema sigue la pista a uno o más atributos, estos atributos pueden ser particulares a: 
+
+	-El usuario
+
+	-La sesión
+
+	-El contenido siendo accedido
+
+	-Pueden existir en el mundo
+
+-Los atributos tienen valores.
+
+-Condición: asociación de un atributo con un valor particular.
+
+-Las condiciones son evaluadas por el sistema para determinar si son verdaderas.  
+
+Para minimizar la sobrecarga de las diagramas, estas condiciones son típicamente descritas en una nota al pie o anexo. 
+
+## HACIENDO ELECCIONES: PUNTOS DE DECISIÓN
+
+Cuando una acción de un usuario puede generar uno de un número de resultados, el sistema debe tomar una decisión acerca de cuál es el resultado: PUNTO DE DECISIÓN. 
+
+(Figura 10.)
+
+## BUSCANDO CAMINO: CONECTORES Y FLECHAS CONDICIONALES
+
+Cuando un camino puede ser o no ser presentado al usuario, depediendo de si una o más condiciones son cumplidas, se usa el CONECTOR CONDICIONAL.
+
+(Figura 11.)
+
+## ELECCIÓN MÚLTIPLE: RAMAS CONDICIONALES
+
+Por otro lado, cuando un sistema debe seleccionar un camino entre un número de opciones mutuamente exclusivas a ser presentadas al usuario, se utiliza la RAMA CONDICIONAL.
+
+(Figura 12.)
+
+Cabe la posibilidad de que una rama condicional puede entregar al usuario ningún camino (RESULTADO NULO). La diferencia es que con una rama condicional un resultado está prohibido; y de estar permitido, es uno de tres o más resultados posibles. 
 
 ## ELIGE UNO O MÁS: SELECTORES CONDICIONALES
 
