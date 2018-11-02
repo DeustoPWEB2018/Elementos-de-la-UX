@@ -58,5 +58,17 @@ El número de cartas a utilizar puede variar desde las 30 hasta las 100 cartas. 
 ## Proceso final (Iñaki)
 
 ### Ejecución
+
+Para la ejecución perfecta de esta técnica es recomendable numerar todas las cartas, ya que así el análisis de los resultados será más sencillo. Para realizar esta tarea sólamente serán necesarios los participantes, una mesa, las cartas etiquetadas y más cartas sin etiquetar. Cuando los participantes se sienten en la mesa es cuando hay que explicarles en qué consiste la tarea ha realizar. Es conveniente que las instrucciones sean concisas. Una vez que quede todo claro, el investigador no tiene más que observar y escuchar los comentarios de los participantes para coger apuntes. Una vez agrupen todas las cartas, hay que pedirles una última tarea que sirve para validar el trabajo realizado. Consiste en pedir a los participantes que nos guíen a algún contenido específico de la página web siguiendo las cartas. Una vez finalizada la tarea, llega la hora de analizar los resultados. 
 ### Análisis de los resultados
+
+El análisi de resultados de puede hacer tanto manualmente como por medio de un software. La elección de una o de otra depende principalmente del número de tarjetas, grupos y participantes. Un software recomendable para hacer el análisis de los resultados conseguidos mediante el Card Sorting es Optimar Sort. En caso de hacerlo manualmente, es recomendable crear una tabla en Excel para plasmar ahí las decisiones de los participantes. En la fila superior se deben presentar los grupos, y en la columna de la izquierda las etiquetas de las cartas. En los cuadros de las tablas se debe escribir el número de veces que una carta haya sido agrupada en un grupo.
+
+Para que el análisis sea más visual y fácil, la revista No solo usabilidad recomienda clasificar los resultados mediante colores. Así se resaltará el porcentaje de agrupación de mayor a menor. El resultado sería este: 
+
+
+Sin embargo, aparte de mirar a las etiquetas y grupos que más coinciden, también se deben analizar las diversas discrepancias que existan entre los participantes. Así se podrá recabar información sobre cómo de diferente piensan los distintos clientes potenciales del futuro.
+
 ### Variaciones
+
+El método del Card Sorting también sirve para recabar más información. Por ejemplo, se puede pedir al participante distinguir los contenidos que crea que debieran de ir en la página principal. Para verificar los resultados, también se les puede enseñar sólamente el nombre del grupo para que hagan la lista de contenidos. También es recomendable pedirles que clasifiquen distintos escenarios en grupos. Por ejemplo, los grupos son economía, cultura, medio ambiente etc. y uno de los escenarios es ¿cuál es el PIB de tu país? El usuario seguramente uniría el escenario con economía. Así, dejando a un lado el contenido, se podría saber más acerca de las acciones y búsquedas del usuario.
