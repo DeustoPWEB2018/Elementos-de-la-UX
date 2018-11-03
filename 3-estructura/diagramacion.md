@@ -167,4 +167,10 @@ A continuación vamos a mostrar un ejemplo de un sistema completo:
 
 Finalmente decir que el vocabulario representa sólo un primer paso. A medida que la arquitectura de la información y el diseño de interacción continúan su evolución, aparecerán nuevas necesidades de diseño que todo esto que mencionamos aquí no lo abarque, por eso es importante mantenerse actualizado y buscar las mejores formas para representar nuestros diagramas.
 
+## ANEXO
+
+> - http://fernandoarciniega.com/tipos-de-diagramas-para-representar-sitios-web/
+> - Jesse James Garrett, Un vocabulario visual para describir arquitectura de información y diseño de interacción:
+Tognazzini_Principios del diseño de interacción.pdf
+
 
