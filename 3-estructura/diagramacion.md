@@ -34,15 +34,32 @@ El vocabulario explicado brevemente, consta en lo siguiente: El sistema presenta
 
 ## ELEMENTOS SIMPLES
 
-La unidad básica de la experiencia de usuario en la Web es la pagina, la cual vamos a representar con un simple rectángulo. Aclaración importante, la pagina es una unidad de presentación no (necesariamente) una unidad de implementación (una página en tu diagrama puede presentar múltiples archivos HTML o unidades múltiples de código).
+La unidad básica de la experiencia de usuario en la Web es la **pagina**, la cual vamos a representar con un simple rectángulo. Aclaración importante, la pagina es una unidad de **presentación** no (necesariamente) una unidad de implementación (una página en tu diagrama puede presentar múltiples archivos HTML o unidades múltiples de código).
 
-Además, tendremos archivos que no requerirán de navegación web, es decir, archivos que se entregan al usuario para que tenga la habilidad de descargarlos y usarlos por fuera del ambiente de navegación web, ejemplo: archivos de video, archivos PDF, entre otros. La simbología de los archivos es el icono con oreja de perro. 
+Además, tendremos **archivos** que no requerirán de navegación web, es decir, archivos que se entregan al usuario para que tenga la habilidad de descargarlos y usarlos por fuera del ambiente de navegación web, ejemplo: archivos de video, archivos PDF, entre otros. La simbología de los archivos es el icono con oreja de perro. 
 
 ![Elementos simples](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/paginas_y_archivos.png)
 
-También, se puede emplear la pila de páginas para indicar un grupo de páginas funcionalmente idénticas. Del mismo modo, una pila de documentos representa un grupo de documentos que reciben un tratamiento de navegación idénticos. Ejemplos: una colección de juegos descargables ó una librería de manuales de instrucciones en PDF.
+También, se puede emplear la **pila de páginas** para indicar un grupo de páginas funcionalmente idénticas. Del mismo modo, una **pila de documentos** representa un grupo de documentos que reciben un tratamiento de navegación idénticos. Ejemplos: una colección de juegos descargables ó una librería de manuales de instrucciones en PDF.
 
 Es bueno poner etiquetas en paginas y archivos para identificarlas, no es necesario que las mismas mantengan algún tipo de correlación, pero la idea es que sean únicos para cada pagina ó documento del diagrama así, se facilita la tarea de rastrear todas las paginas y documentos que contiene el diagrama.
+
+## CREANDO RELACIONES: CONECTORES Y FLECHAS
+
+La relación entre los elementos se ilustran con lineas simples o **conectores**. Esto representa claramente relaciones de navegación.
+
+![Conectores y Flechas](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/conectores_y_flechas.png)
+![Conectores y Flechas 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/conectores_y_flechas2.png)
+
+Cuando diagramamos diseño de interacción nuestras lineas deben indicar **di**rección** para mostrar como el usuario se moverá a través del sistema por una tarea particular. Si transformamos nuestros conectores en **flechas** se reflejará fácilmente esta idea. Se usan los términos **corriente abajo y corriente arriba** para referirnos a la posición de los elementos de forma relativa a este movimiento hacia adelante. Es importante notar que la flechas no indican la dirección en la que obligadamente el usuario deberá moverse, simplemente sugiere el sentido en el que probablemente el usuario lo hará.
+
+![Conectores y Flechas 3](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/conectores_y_flechas3.png)
+
+Así mismo, si queremos prohibir el movimiento corriente arriba, ejemplo: en casos donde alguna acción irreversible como eliminar un registro no es posible, usamos una barra cruzada (una linea perpendicular) en el extremo opuesto a la punta de la flecha.
+
+Por último, si queremos poner alguna **referencia al pie de página y en anexos** se deben poner como una combinación de número y letra entre paréntesis. Los números refieren al numero de pagina dentro del diagrama y las letras refieren a la nota especifica. Por ejemplo, la primera nota en la página 3 de un diagrama debería ser referida como (3a), la segunda (3b) y así en adelante.
+
+![Conectores y Flechas 4](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/conectores_y_flechas4.png)
 
 ## TODO DE UNA VEZ: CONJUNTOS RECURRENTES
 
@@ -141,4 +158,5 @@ Las ÁREAS CONDICIONALES (representadas por un rectángulo de esquinas redondead
 
 * ![Diagramacion8](/3-estructura/restricciones.png)
 
-## Conclusión
+## CONCLUSIÓN
+
