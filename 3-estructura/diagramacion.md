@@ -1,15 +1,11 @@
 
 # UN VOCABULARIO VISUAL PARA DESCRIBIR ARQUITECTURA DE LA INFORMACIÓN Y DISEÑO DE INTERACCIÓN
 
-<<<<<<< HEAD
-## Intruducción
+## INTRODUCCIÓN
 Los diagramas son una herramienta de trabajo muy importante para transmitir la arquitectura de información y el diseño de las interacciones en equipos de desarrollo Web. 
 En resumen, lo que encontraremos en esta entrega son consideraciones en el desarrollo de diagramas, simbología básica para diagramas, conceptos de arquitectura de información y diseño de interacción y una entrega guía para el uso de estos elementos.
-=======
-Para la elaboración de este escrito nos hemos basado en la lectura de Jesse JAmes Garrett. 
->>>>>>> 2558a31076f49b33972515181987f3e9637bb40c
 
-## INTRODUCCIÓN
+Para la elaboración de este escrito nos hemos basado en la lectura de Jesse James Garrett.
 
 ## CONSIDERACIONES INICIALES
 
@@ -37,6 +33,16 @@ Hay que subrayar que el diagrama se enfoca en lo que llamamos la macro-estructur
 El vocabulario explicado brevemente, consta en lo siguiente: El sistema presenta al usuario unos caminos en los que se mueve a través de ellas mediante acciones, para que esas acciones el sistema genera unos resultados. Que sería la pantalla de la página web que desea el usuario.
 
 ## ELEMENTOS SIMPLES
+
+La unidad básica de la experiencia de usuario en la Web es la pagina, la cual vamos a representar con un simple rectángulo. Aclaración importante, la pagina es una unidad de presentación no (necesariamente) una unidad de implementación (una página en tu diagrama puede presentar múltiples archivos HTML o unidades múltiples de código).
+
+Además, tendremos archivos que no requerirán de navegación web, es decir, archivos que se entregan al usuario para que tenga la habilidad de descargarlos y usarlos por fuera del ambiente de navegación web, ejemplo: archivos de video, archivos PDF, entre otros. La simbología de los archivos es el icono con oreja de perro. 
+
+![Elementos simples](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/paginas_y_archivos.png)
+
+También, se puede emplear la pila de páginas para indicar un grupo de páginas funcionalmente idénticas. Del mismo modo, una pila de documentos representa un grupo de documentos que reciben un tratamiento de navegación idénticos. Ejemplos: una colección de juegos descargables ó una librería de manuales de instrucciones en PDF.
+
+Es bueno poner etiquetas en paginas y archivos para identificarlas, no es necesario que las mismas mantengan algún tipo de correlación, pero la idea es que sean únicos para cada pagina ó documento del diagrama así, se facilita la tarea de rastrear todas las paginas y documentos que contiene el diagrama.
 
 ## TODO DE UNA VEZ: CONJUNTOS RECURRENTES
 
