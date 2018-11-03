@@ -160,3 +160,11 @@ Las ÁREAS CONDICIONALES (representadas por un rectángulo de esquinas redondead
 
 ## CONCLUSIÓN
 
+A continuación vamos a mostrar un ejemplo de un sistema completo:
+
+![Conclusión](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/Ej_conclusion_1.png)
+![Conclusión](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/87c275024379c29e4e84d888f0a9464facbd3a15/3-estructura/Ej_conclusion_2.png)
+
+Finalmente decir que el vocabulario representa sólo un primer paso. A medida que la arquitectura de la información y el diseño de interacción continúan su evolución, aparecerán nuevas necesidades de diseño que todo esto que mencionamos aquí no lo abarque, por eso es importante mantenerse actualizado y buscar las mejores formas para representar nuestros diagramas.
+
+
