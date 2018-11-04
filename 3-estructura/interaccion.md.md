@@ -2,10 +2,6 @@
 # Plano de Estructura
 
 El diseño de la interacción consiste en definir el comportamiento que tiene el usuario cuando accede a la página web. Para ello, es necesario identificar cómo se adecuará y responderá el sitio web al comportamiento del usuario. El objetivo del diseño de la interacción será identificar qué es lo que hace el usuario y cómo lo hace e intentar diseñar el software de manera que mejor funcione para el que accede a la página. 
-=======
-# PLANO DE ESTRUCTURA
-Introducción 
->>>>>>> 5b2d08bbeab7ffe3cd5b31289b72f33d4c975b03
 
 # **Elemento del diseño de la interacción** 
 
