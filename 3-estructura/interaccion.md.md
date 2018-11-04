@@ -39,19 +39,19 @@ En todas las plataformas web se le debe brindar al usuario una navegación senci
 ## 4. Estado
 Es necesario que exista una comunicación comunicación correcta entre la aplicación y el usuario y la viceversa, para ello el diseño de la interacción tiene la función de la traducción y el cumplimiento de que el usuario entienda el estado actual de la aplicación. El estado sirve para dar a conocer al usuario qué tipo de operaciones son posibles, las adecuadas o en qué lugar se encuentra dentro de la aplicación. A continuación, encontrará cuatro funciones.
 
-###Autonomía:
+### Autonomía:
 Es básico saber que no existe autonomía en ausencia de control; y el control no se puede tener sin información suficiente. Por lo tanto, comunicar el estado del usuario es fundamental para que el usuario responda apropiadamente con la información disponible.
 
 *Ejemplo:*
  Se puede dar autonomía ilimitada a un usuario; Sin embargo, es necesario informarle sobre el estado del sitio web. Un estrés y una fatiga innecesarios, y que cuando venga a la siguiente carga de trabajo, puede ser que el usuario no esté en las mejores condiciones físicas y mentales. La información del estado es fácilmente visible y actualizada para el usuario.
 
-###Guardar el estado:
+### Guardar el estado:
 Un sitio web debe estar preparado para guardar el estado de sus usuarios. Para ello, es importante saber dónde ha estado el usuario, qué ha hecho y dónde hemos abandonado el usuario la última sesión. Toda la información del estado debe ser almacenada en una cookie durante la sesión en el ordenador del usuario, así como, en la actualidad, se almacena en un servidor para, de esta manera, si el usuario se desconecta y responde a cualquier otro sitio. donde lo dejó.
 
 *Ejemplo:*
  Por ejemplo, un usuario inicia sesión en una página habitual de crear diseños, el usuario comienza a trabajar en el sitio web ya los 10 minutos abandona la página. Durante esos 10 minutos, todo el trabajo que ha hecho el usuario ha tenido que almacenar en una cookie ya continuación en un servidor. Al día siguiente el mismo usuario vuelve a conectar y encuentra su trabajo en el punto exacto donde lo dejó.
 
-###Reducción de latencia:
+### Reducción de latencia:
 Según la Real Academia Española, la latencia es *el tiempo que transcurre entre un estímulo y la respuesta que produce*. En ocasiones, en la web el tiempo de espera que transcurre entre la acción y la reacción es largo, por lo que es importante para tener en cuenta la latencia (de tiempo de espera) para que el usuario no se agobie sin entender lo que sucede de la siguiente manera:
 
 - Mostrar un reloj de arena, para que el usuario sepa que el sistema sigue trabajando.
@@ -77,5 +77,5 @@ No hay nada mas frustrante que estar en un navegador o trabajar en un proyecto y
 - Microsoft también tiene opciones útiles, como preguntarle al usuario cuando clica el botón de cerrar si desea guardar o no el documento en el que ha estado trabajando, o cuando se cierra la documento y a la hora de volver abrirlo no se recuerda el nombre del archivo, pone en la pestaña archivo los últimos documentos en los que estuvo trabajando el usuario. Estas son rutas mas largas, pero que le dan al usuario la esperanza de recuperar lo que daba por perdido. 
 
 ## 6. Referencias:
-- Baxley, B. (2002). *Introducing Interaction Design*
-- Tognazzini, B. (2014). *First Principles of Interaction Design*
+- Baxley, B. (2002). *Introducing Interaction Design*. Disponible en: http://boxesandarrows.com/introducing-interaction-design/ 
+- Tognazzini, B. (2014). *First Principles of Interaction Design*. Disponible en: https://alud.deusto.es/pluginfile.php/567531/mod_folder/content/0/Tognazzini_Principios%20del%20dise%C3%B1o%20de%20interacci%C3%B3n.pdf?forcedownload=1 
