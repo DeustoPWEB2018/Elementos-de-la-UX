@@ -8,7 +8,7 @@ introducción (Ane)
 ## 2. Acción/Reacción 
 Hay que tener en cuenta que cuando un usuario interactúa con un sitio web, y siempre, siempre hay una reacción. Por ejemplo, cuando el usuario hace clic en "entrar" el sitio web reacciona y abre una nueva pantalla; o cuando un sitio web informe a un usuario que ha obtenido la contraseña de acceso, el usuario que responde y que se vuelve a introducir la contraseña correcta (el sitio web prestará todas las herramientas posibles para que el usuario ejecute la acción). La base de la comunicación entre el usuario y la web es, sin duda, acción-reacción.
 
-###Valores por defecto
+### Valores por defecto:
 Un sitio web tiene que estar preparado para dar una respuesta a la acción del usuario y los valores por defecto es uno de los ejemplos.
 
 *Ejemplo:*
