@@ -119,4 +119,3 @@ No hay nada mas frustrante que estar en un navegador o trabajar en un proyecto y
 ## Referencias 
 - Bruce Tognazzini (2014), *Principios de diseño de interacción*
 - Ob Baxley (2002), *Introducing Interaction Design*
->>>>>>> 5b2d08bbeab7ffe3cd5b31289b72f33d4c975b03
