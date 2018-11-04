@@ -34,10 +34,13 @@ Como dice Tognazzini en <i>Principios de diseño de interacción</i>, "El tiempo
 
 
 ## 2. Acción/Reacción 
+Hay que tener en cuenta que cuando un usuario interactúa con un sitio web, y viceversa, siempre hay una reacción. Por ejemplo, cuando el usuario clica la acción “entrar” el sitio web reacciona y abre una nueva pantalla; o cuando un sitio web informa a un usuario que ha introducido la contraseña de acceso incorrecta, el usuario inmediatamente reacciona y vuelve a introducir la contraseña correctamente (el sitio web prestará todas las herramientas posibles para que el usuario ejecute la acción). La base de la comunicación entre el usuario y la web es, sin duda, acción-reacción.
 
 ### Valores por defecto
 *Ejemplo:*
+Un sitio web tiene que estar preparado para dar una respuesta a la acción del usuario y los valores por defecto es uno de los ejemplos. 
 
+A la hora de rellenar un formulario en un sitio web (registro de una página web), normalmente es necesario introducir datos personales (nombre, apellido, dirección, país, ciudad, etc.). Los valores por defecto lo que hacen es anticiparse y proporcionar reacciones rápidas y útiles para la acción del usuario. Por ejemplo, cuando el usuario introduce la ciudad en la que reside, San Sebastián-Donostia, el sitio web reacciona e inmediatamente, por defecto añade la provincia Guipúzcoa. El sitio web tiene que estar preparado para cualquier interacción del usuario. En este caso el sitio web ha hecho que el usuario se ahorre el trabajo de redactar letra por letra la provincia y ha reaccionado adecuadamente. 
 
 
 
@@ -67,16 +70,35 @@ En todas las plataformas web se le debe brindar al usuario una navegación senci
 Es necesario que exista una comunicación correcta entre la aplicación y el usuario y viceversa, para ello el diseño de interacción tiene la función de traducir y de garantizar que el usuario entienda el estado actual de la aplicación. El estado sirve para dar a conocer al usuario qué tipo de operaciones son posibles, apropiadas o en qué lugar se encuentra dentro de la aplicación. A continuación se encuentran cuatro funciones interesantes y a tener en cuenta para garantizar que el usuario comprende su estado actual de la manera más sencilla y eficaz posible. 
 
 ### Autonomía:
+Es básico saber que no existe autonomía en ausencia de control; y el control no se puede tener sin información suficiente. Por ello, comunicar el estado al usuario es fundamental para que el usuario responda apropiadamente con la información disponible.
+
 *Ejemplo:*
+Se puede dar autonomía ilimitada a un usuario; sin embargo  es necesario informarle del estado del sitio web, ya que si  se mantiene al usuario sin información del estado, este se mantendrá bajo presión durante cortos periodos de tiempo hasta que el trabajo se termine. Un estrés y fatiga innecesarios, ya que cuando venga la siguiente carga de trabajo, puede que el usuario no esté en las mejores condiciones físicas y mentales. En consecuncia se debe manterner la información de estado facilmente visible y actualizada para el usuario.
 
 ### Guardar el estado:
+Un sitio web debe estar preparado para guardar el estado de sus usuarios. Para ello, es importante saber dónde ha estado el usuario, qué ha hecho y dónde abandonó el usuario la última sesión. Toda esa información de estado debe almacenarse en una cookie durante la sesión en el ordenador del usuario y a continuación se almacena en un servidor para que, de esta manera, si el usuario se desconecta y vuelve a conectarse desde cualquier otro sitio pueda seguir con su trabajo donde lo dejó.
+
 *Ejemplo:*
+Por ejemplo, un usuario inicia sesión en una página habitual de crear diseños, el usuario comienza a trabajar en el sitio web y  a los 10 minutos abandona la página. Durante esos 10 minutos, todo el trabajo que ha hecho el usuario se ha tenido que almacenar en una cookie y a continuación en un servidor. Al día siguiente el mismo usuario vuelve a conectarse y encuentra su trabajo en el punto exacto donde lo dejó.
 
 ### Ley de Fitt:
+Por una parte la ley de Fitt nos dice que los menús de un Mac son 5 veces más rápidos de accionar que los Windows, porque los ordenadores Mac utilizan objetos grandes para las funciones importantes (icono de Internet o icono del correo) y estos accesos los sitúa en la parte inferior de la pantalla para que el usuario a simple vista lo encuentre y acceda. Sin embargo, Windows es más lento, ya que no se encuentran los accesos directos tan rápido. 
+ 
+Por otra parte esta ley también dice que las zonas de la pantalla más fácilmente accesibles son las cuatro esquinas.
+
 *Ejemplo:*
+¿Y qué tiene que ver la ley de Fitt con el estado? Teniendo en cuenta que **la distancia** y **el tamaño** del objeto son las funciones que determinan el tiempo que tarda el usuario en acceder, por ejemplo, a Internet o al correo, sería interesante aplicar la ley de Fitt para informar al usuario acerca del estado. 
+
+Por ejemplo, si hay intención de informar al usuario que un archivo está descargándose lo más apropiado sería utilizar una de las esquinas o bordes de la pantalla e insertar un icono de tamaño mediano, con una línea que marque, en color verde, el tiempo que falta hasta su descarga. 
 
 ### Reducción de latencia:
-*Ejemplo:*
+Según la Real Academia Española la latencia es *el tiempo que transcurre entre un estímulo y la respuesta que produce*. En ocasiones, en la web el tiempo de espera que transcurre entre la acción y la reacción es largo, por ello es importante reducir esa percepción de latencia (de tiempo de espera) para que el usuario no se agobie sin entender lo que sucede de la siguiente manera:
+
+-	Mostrar un reloj de arena, para que el usuario sepa que el sistema sigue trabajando.
+-	Comunicar el tamaño y el progreso con una barra de estado.
+-	Mostrar mensajes de textos agradables y mantener al usuario entretenido mientras espera a que el ordenador termine.
+-	Indica con pitidos e indicaciones visuales muy claras cuando el usuario puede volver al trabajo con el sistema.
+-	Mostrar un mensaje comunicando la duración estimada para cualquier proceso que pueda durar más de 2 segundo. 
 
 ## 5. Mal funcionamiento o errores 
 Las paginas web pueden tener fallos inesperados o que no se perciben si no hasta después de ciertos procedimientos, sin embargo el mal funcionamiento o los errores de las plataformas en su mayoría podrían evitarse de la siguiente manera: 
