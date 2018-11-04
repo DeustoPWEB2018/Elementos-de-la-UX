@@ -56,7 +56,7 @@ Hay dos métodos primarios para efectuar clasificaciones de tarjeta.
 
 * Closed Card Sorting (clasificación cerrada de tarjeta): Participantes obtienen tarjetas mostrando el contenido del sitio con una colección inicial establecida de grupos primarios. Participantes deben colocar tarjetas en estos grupos primarios preestablecidos. Closed card sorting es útil cuando añadiendo nuevo contenido a una estructura existente, o para obtener un comentario adicional después una clasificación abierta de tarjeta. 
 
-En otras palabras, este segundo tipo de 'card sorting' está recomendado para verificar si una clasificación de información es familiar y comprensible para el usuario, mientras que el "abierto" tiene el objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar.
+En otras palabras, este segundo tipo de "card sorting" está recomendado para verificar si una clasificación de información es familiar y comprensible para el usuario, mientras que el "abierto" tiene el objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar.
 
 ### ¿Cuándo usarlo?
 
@@ -66,11 +66,13 @@ Card sorting es una técnica formativa y centrada en el usuario. Debe ser utiliz
 * diseñar una nueva zona en un sitio 
 * rediseñar un sitio 
 
-Card sorting no es una técnica de evaluación y no va a decirte lo que es equivocado con tu sitio actual. Debe complementar otras actividades como análisis de necesidades de información, análisis de tarea y evaluación continua de usabilidad.  Es más efectivo una vez que hayas completo: 
+Card sorting no es una técnica de evaluación y no va a decirte lo que es equivocado con tu sitio actual. Debe complementar otras actividades como análisis de necesidades de información, análisis de tarea y evaluación continua de usabilidad. Es más efectivo una vez que hayas completo: 
 
 * investigación sobre lo que los usuarios necesitan de un sitio. 
-* una auditoría de contenido (funcionalidad) / inventario (para un sitio existente) o lista de contenido detallada (para un nuevo sitio). Para un sitio existente, es crucial que el inventario de contenido se examine cuidadosamente para incluir solo el contenido que necesitan los usuarios.  
+* una auditoría de contenido (funcionalidad) / inventario (para un sitio existente) o lista de contenido detallada (para un nuevo sitio). Para un sitio existente, es crucial que el inventario de contenido se examine cuidadosamente para incluir solo el contenido que necesitan los usuarios. 
+
 La siguiente tabla resume cuando funciona bien el card sorting y ofrece buenos resultados, y cuando es difícil tanto ejecutar como analizar. 
+![Tabla](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/43a39a0837e733956190892ce757481336cc56ca/3-estructura/tabla.png?raw=true)
 
 Para los sitios con características enumeradas en la última columna, el card sorting proporcionará una entrada menos directa en la estructura de la información; es posible que deba realizar una variedad de tipos de tarjetas y más actividades de diseño centradas en el usuario.
 
