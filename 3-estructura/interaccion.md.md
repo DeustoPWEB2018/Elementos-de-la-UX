@@ -81,16 +81,6 @@ Un sitio web debe estar preparado para guardar el estado de sus usuarios. Para e
 *Ejemplo:*
 Por ejemplo, un usuario inicia sesión en una página habitual de crear diseños, el usuario comienza a trabajar en el sitio web y  a los 10 minutos abandona la página. Durante esos 10 minutos, todo el trabajo que ha hecho el usuario se ha tenido que almacenar en una cookie y a continuación en un servidor. Al día siguiente el mismo usuario vuelve a conectarse y encuentra su trabajo en el punto exacto donde lo dejó.
 
-### Ley de Fitt:
-Por una parte la ley de Fitt nos dice que los menús de un Mac son 5 veces más rápidos de accionar que los Windows, porque los ordenadores Mac utilizan objetos grandes para las funciones importantes (icono de Internet o icono del correo) y estos accesos los sitúa en la parte inferior de la pantalla para que el usuario a simple vista lo encuentre y acceda. Sin embargo, Windows es más lento, ya que no se encuentran los accesos directos tan rápido. 
- 
-Por otra parte esta ley también dice que las zonas de la pantalla más fácilmente accesibles son las cuatro esquinas.
-
-*Ejemplo:*
-¿Y qué tiene que ver la ley de Fitt con el estado? Teniendo en cuenta que **la distancia** y **el tamaño** del objeto son las funciones que determinan el tiempo que tarda el usuario en acceder, por ejemplo, a Internet o al correo, sería interesante aplicar la ley de Fitt para informar al usuario acerca del estado. 
-
-Por ejemplo, si hay intención de informar al usuario que un archivo está descargándose lo más apropiado sería utilizar una de las esquinas o bordes de la pantalla e insertar un icono de tamaño mediano, con una línea que marque, en color verde, el tiempo que falta hasta su descarga. 
-
 ### Reducción de latencia:
 Según la Real Academia Española la latencia es *el tiempo que transcurre entre un estímulo y la respuesta que produce*. En ocasiones, en la web el tiempo de espera que transcurre entre la acción y la reacción es largo, por ello es importante reducir esa percepción de latencia (de tiempo de espera) para que el usuario no se agobie sin entender lo que sucede de la siguiente manera:
 
