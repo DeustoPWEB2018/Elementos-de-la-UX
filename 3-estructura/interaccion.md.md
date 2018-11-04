@@ -1,9 +1,38 @@
 # PLANO DE ESTRUCTURA
-introducción (Ane)
 
-# **Elementos del diseño de la interacción** 
+# Plano de Estructura
 
-## 1. Comunicación persona-máquina
+El diseño de la interacción consiste en definir el comportamiento que tiene el usuario cuando accede a la página web. Para ello, es necesario identificar cómo se adecuará y responderá el sitio web al comportamiento del usuario. El objetivo del diseño de la interacción será identificar qué es lo que hace el usuario y cómo lo hace e intentar diseñar el software de manera que mejor funcione para el que accede a la página. 
+
+# **Elemento del diseño de la interacción** 
+
+## 1. Comunicación persona-máquina 
+
+La comunicación persona-máquina es la traducción de la conversación entre la tecnología y el usuario. Para que esta comunicación sea rápida y eficiente es necesario comprender las sutilezas y coloquialismos de ambas partes. A continuación, se van a mostrar algunas funciones que afectan en la comunicación persona-máquina. 
+
+### Legibilidad:
+
+Cuando se diseñe la página web es conveniente cuidar los colores y los tamaños de las letras. Hay que tener en cuenta las personas mayores que suelen tener peor visión que los jóvenes.  
+
+### Daltonismo:
+
+Hay que tener en cuenta que las personas daltónicas también pueden acceder a la página web y por esta razón, conviene tener la página adaptada a las necesidades de estas personas. Esto requiere utilizar distintos tonos de gris, gráficos complementarios o etiquetas de texto cuando se utilice color en las páginas.
+ 
+### Objetos humanos:
+
+*Ejemplo:* en una página web de un supermercado cuando dan la opción de comprar por Internet, por ejemplo, si ofrecen una manzana, en vez de poner producto: manzana, poner también la imagen de una manzana para que la gente sepa lo que se ofrece. 
+
+### Uso de metáforas:
+
+Como dice el propio nombre es la utilización de metáforas para enriquecer la página web y permitir que los usuarios comprendan los detalles del modelo conceptual.
+
+### Ley de Fitt:
+
+Como dice Tognazzini en <i>Principios de diseño de interacción</i>, "El tiempo necesario para alcanzar un objeto es función de la distancia y del tamaño del objeto". Esta ley tiene en cuenta las siguientes funciones:
+
+•	Utilizar objetos grandes para las funciones importantes. 
+
+•	Utilizar las esquinas y los bordes de pantalla porque es más rápido llegar a ellos.
 
 ## 2. Acción/Reacción 
 Hay que tener en cuenta que cuando un usuario interactúa con un sitio web, y siempre, siempre hay una reacción. Por ejemplo, cuando el usuario hace clic en "entrar" el sitio web reacciona y abre una nueva pantalla; o cuando un sitio web informe a un usuario que ha obtenido la contraseña de acceso, el usuario que responde y que se vuelve a introducir la contraseña correcta (el sitio web prestará todas las herramientas posibles para que el usuario ejecute la acción). La base de la comunicación entre el usuario y la web es, sin duda, acción-reacción.
