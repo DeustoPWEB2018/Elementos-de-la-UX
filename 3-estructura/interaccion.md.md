@@ -29,6 +29,7 @@ Como dice el propio nombre es la utilización de metáforas para enriquecer la p
 Como dice Tognazzini en <i>Principios de diseño de interacción</i>, "El tiempo necesario para alcanzar un objeto es función de la distancia y del tamaño del objeto". Esta ley tiene en cuenta las siguientes funciones:
 
 •	Utilizar objetos grandes para las funciones importantes. 
+
 •	Utilizar las esquinas y los bordes de pantalla porque es más rápido llegar a ellos.
 
 
