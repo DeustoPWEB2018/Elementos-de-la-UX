@@ -7,7 +7,7 @@
 
 ### Definición
 
-Hablamos de card sorting como una metodología centrada en el usuario, que consiste en mejorar la capacidad de encontrar la información alojada en un determinado sitio web. El proceso consiste en ordenar en grupos los diferentes aspectos de un sitio web, que se representan a través de tarjetas, todo ello en base al criterio de los usuarios que participen en la metodología.
+Hablamos de card sorting como una metodología centrada en el usuario, que consiste en mejorar la capacidad de encontrar la información alojada en un determinado sitio web. El proceso consiste en que determinados usuarios ordenen en grupos los diferentes aspectos de un sitio web, que se representan a través de tarjetas, todo ello en base al criterio de los usuarios que participen en la metodología.
 
 ### ¿Por qué usarlo?
 
@@ -25,57 +25,57 @@ Como otros herramientas, card sorting tiene ventajas y desventajas. Teniendo en 
 
 * Simple: las clasificaciones de tarjeta son fácil para el organizador y los participantes.
 
-* Barato: por ejemplo el costo es una pila de fichas de 3x5, notas adhesivas, un bolígrafo o etiquetas imprimidas, y tu tiempo. 
+* Barato: El coste de la ejecución se reduce a una pila de fichas de 3x5cm, notas adhesivas, un bolígrafo o etiquetas imprimidas, y el tiempo tanto de los participantes como de los responsables de la organización de la actividad.  
 
-* Rápido a ejecutar: puedes realizar varias formas de clasificaciones en una corta perioda de tiempo, lo que te provee una cantidad significativa de datos. 
+* Rápido a ejecutar: Se pueden realizar varias formas de clasificación en un periodo de tiempo reducido, lo que provee una cantidad significativa de datos. 
 
-* Establecido: la técnica está utilizada desde 10 años para muchos diseñadores.  
+* Establecido: Muchos diseñadores utilizan la técnica desde hace 10 años.  
 
-* Tiene en cuenta a los usuarios: la estructura de la información sugerida para una clasificación de tarjeta está basada en una real entrada de usuarios, no la corazonada o fuerte opiniones de un diseñador, un arquitectura de la información o un depositario clave, debe ser más fácil a utilizar. 
+* Tiene en cuenta a los usuarios: la estructura de la información sugerida para una clasificación de tarjeta está basada en la integración del usuario, lejos de las corazonadas de un diseñador.
 
-* Permite un buen fundamento: no es una bala de plata pero provee un buen fundamento para la estructura de un sitio o producto. 
+* Permite un buen fundamento: no es una bala de plata pero provee un buen funcionamiento para la estructura de un sitio o producto. 
 
 **Las desventajas:**
 
-* No considera las tareas de los usuarios: Clasificación de tarjeta es una técnica de contenido-céntrico. Si es utilizada sin considerar las tareas de los usuarios, puede llevar a una estructura de la información que no es usable cuando los usuarios están intentando real tareas. Una análisis de las necesidades de información o una análisis de las tareas es necesario para garantizar que el contenido clasificado coincide con las necesidades de los usuarios y que la estructura de información resultante permite a los usuarios lograr las tareas. 
+* Puede no considerar las tareas de los usuarios: La clasificación de tarjetas es una técnica de contenido-céntrico. Si es utilizada sin considerar las tareas de los usuarios, puede llevar a una estructura de la información que no es usable cuando los usuarios están intentando realizar tareas. Una análisis de las necesidades de información o una análisis de las tareas es necesario para garantizar que el contenido clasificado coincide con las necesidades de los usuarios y que la estructura de información resultante permite a los usuarios lograr las tareas. 
 
-* Resultados pueden variar: clasificación de tarjeta puede proveer resultados consistente entre los participantes o puede variar ampliamente. 
+* Los resultados pueden variar: La clasificación de las tarjetas puede proveer resultados regulares entre los participantes o puede variar ampliamente. 
 
-* La análisis puede ser una pérdida de tiempo: La clasificación es rápida pero la análisis de los datos puede ser difícil y una pérdida de tiempo, particularmente si hay una poca consistencia entre los participantes. 
+* El análisis puede ser una pérdida de tiempo: La clasificación es rápida pero el análisis de los datos puede ser difícil y una pérdida de tiempo, particularmente si hay una poca consistencia entre los participantes. 
 
-* Puede capturar únicamente las características superficiales:  participantes quizás no van a considerar lo que trata el contenido o como lo usarían para completar una tarea y quizás van a clasificarlo para características superficiales como tipos de documentos. 
+* Puede capturar únicamente las características superficiales: Si los participantes no comprenden el objetivo del ejercicio van a considerar lo que trata el contenido o cómo lo usarían para completar una tarea y quizás van a clasificarlo para características superficiales como tipos de documentos. 
 
 
 ## Metodología
 
 ### Métodos
 
-Hay dos métodos primarios para efectuar clasificaciones de tarjeta. 
+Hay dos métodos primarios para efectuar las clasificaciones de las tarjetas:  
 
-* Open Card Sorting (clasificación abierta de tarjeta): Participantes obtienen tarjetas mostrando el contenido del sitio pero los agrupaciones no están preestablecidos. Deben clasificar las tarjetas en grupos y luego describir cada grupo. Este método es útil como entrada en estructuras de información en nuevos o existentes sitios y productos. 
+* Open Card Sorting (clasificación abierta de tarjeta): Los participantes obtienen tarjetas mostrando el contenido del sitio pero las agrupaciones no están preestablecidas. Deben clasificar las tarjetas en grupos y luego describir cada grupo. Este método es útil para añadir entradas en estructuras de información, o en nuevos o existentes sitios y productos. 
 
-* Closed Card Sorting (clasificación cerrada de tarjeta): Participantes obtienen tarjetas mostrando el contenido del sitio con una colección inicial establecida de grupos primarios. Participantes deben colocar tarjetas en estos grupos primarios preestablecidos. Closed card sorting es útil cuando añadiendo nuevo contenido a una estructura existente, o para obtener un comentario adicional después una clasificación abierta de tarjeta. 
+* Closed Card Sorting (clasificación cerrada de tarjeta): Los participantes obtienen tarjetas mostrando el contenido del sitio con una colección inicial establecida de grupos primarios. Posteriormente deben colocar las tarjetas en estos grupos primarios preestablecidos. Closed card sorting es útil a la hora de añadir nuevo contenido a una estructura existente, o para obtener un comentario adicional después de una clasificación abierta de tarjeta. 
 
-En otras palabras, este segundo tipo de "card sorting" está recomendado para verificar si una clasificación de información es familiar y comprensible para el usuario, mientras que el "abierto" tiene el objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar.
+En otras palabras, este segundo tipo de "card sorting" está recomendado para verificar si una clasificación de información es comprensible para el usuario, mientras que el "abierto" tiene el objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar.
 
 ### ¿Cuándo usarlo?
 
-Card sorting es una técnica formativa y centrada en el usuario. Debe ser utilizada como una entrada para:
+Card sorting es una técnica formativa y centrada en el usuario, que debe ser utilizada como iniciación para:
 
 * diseñar un nuevo sitio 
 * diseñar una nueva zona en un sitio 
 * rediseñar un sitio 
 
-Card sorting no es una técnica de evaluación y no va a decirte lo que es equivocado con tu sitio actual. Debe complementar otras actividades como análisis de necesidades de información, análisis de tarea y evaluación continua de usabilidad. Es más efectivo una vez que hayas completo: 
+Card sorting no es una técnica de evaluación que señale aquellos errores de planificación de un sitio web. Debe servir para complementar otras actividades como análisis de necesidades de información, análisis de tarea y evaluación continua de usabilidad. Es más efectivo una vez se hayan completado: 
 
-* investigación sobre lo que los usuarios necesitan de un sitio. 
-* una auditoría de contenido (funcionalidad) / inventario (para un sitio existente) o lista de contenido detallada (para un nuevo sitio). Para un sitio existente, es crucial que el inventario de contenido se examine cuidadosamente para incluir solo el contenido que necesitan los usuarios. 
+* Investigación acerca de lo que los usuarios necesitan de un sitio. 
+* Una auditoría de contenido (funcionalidad) / inventario (para un sitio existente) o lista de contenidos detallada (para un nuevo sitio). Para un sitio existente, es crucial que el inventario de contenido se examine cuidadosamente para incluir solo el contenido que necesitan los usuarios. 
 
 La siguiente tabla resume cuando funciona bien el card sorting y ofrece buenos resultados, y cuando es difícil tanto ejecutar como analizar. 
 
 ![Tabla](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/43a39a0837e733956190892ce757481336cc56ca/3-estructura/tabla.png?raw=true)
 
-Para los sitios con características enumeradas en la última columna, el card sorting proporcionará una entrada menos directa en la estructura de la información; es posible que deba realizar una variedad de tipos de tarjetas y más actividades de diseño centradas en el usuario.
+Para los sitios con características enumeradas en la última columna, el card sorting proporcionará una entrada menos directa en la estructura de la información; es posible que el dueño del sitio web deba realizar una variedad de tipos de tarjetas y más actividades de diseño centradas en el usuario.
 
 ### Preparación
 
@@ -93,7 +93,7 @@ En primer lugar, es recomendable seleccionar el contenido que queremos que los u
 * Aplicaciones y procesos planeadas
 * Contenido potencial a añadir a la web
 
-Este último aspecto puede ser útil para obtener una visión descriptiva acerca de cúal puede ser la forma de integrar una nueva sección en un sitio web. Puede servirnos para resolver esta incógnita, así como para visualizar si el método de categorizar contenidos que se está efectuando es el correcto.
+Este último aspecto puede ser útil para obtener una visión descriptiva acerca de cúal puede ser la forma de integrar una nueva sección en un sitio web. Puede servir para resolver esta incógnita, así como para visualizar si el método de categorizar contenidos que se está efectuando es el correcto.
 
 Se puede optar por seleccionar desde páginas individuales hasta un grupo selecto del sitio web. Dependiendo de cuál sea el objetivo de investigación y el alcance que se quiera obtener. En cualquier caso, se debe seleccionar el contenido del sitio web que represente aquello que sea susceptible de ser analizado. Los participantes encontrarán dificultades para ordenar los contenidos en categorías si tratan sobre aspectos muy distintos dentro del sitio web.  
 
@@ -105,26 +105,36 @@ El número de participantes deberá elegirse en base a los aspectos del sitio we
  
 #### Preparar las cartas
 
-Es importante que todos los aspectos que queramos señalar figuren en las cartas que pongamos a disposición de los usuarios. La redacción debe ser precisa, pero lo suficientemente concisa para que quepa en una tarjeta de tamaño estándar (10cm x 15cm) y para que sea sencillo de leer por parte del usuario.
+Es importante que todos los aspectos que se quieran señalar figuren en las cartas que pongamos a disposición de los usuarios. La redacción debe ser precisa, pero lo suficientemente concisa para que quepa en una tarjeta de tamaño estándar (10cm x 15cm) y para que sea sencillo de leer para parte del usuario.
   
-El número de cartas a utilizar puede variar desde las 30 hasta las 100 cartas. Además, es recomendable poner a disposición de los usuarios tarjetas vacías para que los usuarios puedan anotar sus impresiones.
+El número de cartas a utilizar puede variar desde las 30 hasta las 100 cartas. Además, es recomendable poner a disposición de los usuarios tarjetas vacías para que puedan anotar sus impresiones.
 
 
-## Proceso final (Iñaki)
+## Proceso final 
 
 ### Ejecución
 
-Para la ejecución perfecta de esta técnica es recomendable numerar todas las cartas, ya que así el análisis de los resultados será más sencillo. Para realizar esta tarea sólamente serán necesarios los participantes, una mesa, las cartas etiquetadas y más cartas sin etiquetar. Cuando los participantes se sienten en la mesa es cuando hay que explicarles en qué consiste la tarea ha realizar. Es conveniente que las instrucciones sean concisas. Una vez que quede todo claro, el investigador no tiene más que observar y escuchar los comentarios de los participantes para coger apuntes. Una vez agrupen todas las cartas, hay que pedirles una última tarea que sirve para validar el trabajo realizado. Consiste en pedir a los participantes que nos guíen a algún contenido específico de la página web siguiendo las cartas. Una vez finalizada la tarea, llega la hora de analizar los resultados. 
+Para la ejecución perfecta de esta técnica es recomendable numerar todas las cartas, ya que así el análisis de los resultados será más sencillo. Para realizar esta tarea sólamente serán necesarios los participantes, una mesa, las cartas etiquetadas y más cartas sin etiquetar. Cuando los participantes se sienten en la mesa es cuando hay que explicarles en qué consiste la tarea a realizar. Es conveniente que las instrucciones sean concisas. Una vez que quede todo claro, el investigador no tiene más que observar y escuchar los comentarios de los participantes para tomar apuntes. Una vez se agrupen todas las cartas, hay que pedirles una última tarea que sirve para validar el trabajo realizado. Consiste en pedir a los participantes que señalen algún contenido específico de la página web siguiendo las cartas. Una vez finalizada la tarea, llega la hora de analizar los resultados. 
 
 ### Análisis de los resultados
 
-El análisi de resultados de puede hacer tanto manualmente como por medio de un software. La elección de una o de otra depende principalmente del número de tarjetas, grupos y participantes. Un software recomendable para hacer el análisis de los resultados conseguidos mediante el Card Sorting es Optimar Sort. En caso de hacerlo manualmente, es recomendable crear una tabla en Excel para plasmar ahí las decisiones de los participantes. En la fila superior se deben presentar los grupos, y en la columna de la izquierda las etiquetas de las cartas. En los cuadros de las tablas se debe escribir el número de veces que una carta haya sido agrupada en un grupo.
+El análisis de resultados se puede hacer tanto manualmente como por medio de un software. La elección de una o de otra depende principalmente del número de tarjetas, grupos y participantes. Un software recomendable para hacer el análisis de los resultados conseguidos mediante el Card Sorting es Optimar Sort. En caso de hacerlo manualmente, es recomendable crear una tabla en Excel para plasmar ahí las decisiones de los participantes. En la fila superior se deben presentar los grupos, y en la columna de la izquierda las etiquetas de las cartas. En los cuadros de las tablas se debe escribir el número de veces que una carta haya sido agrupada en un grupo.
 
-Para que el análisis sea más visual y fácil, la revista No solo usabilidad recomienda clasificar los resultados mediante colores. Así se resaltará el porcentaje de agrupación de mayor a menor. El resultado sería este: 
+Para que el análisis sea más visual y fácil, la revista _No solo usabilidad_ recomienda clasificar los resultados mediante colores. Así se resaltará el porcentaje de agrupación de mayor a menor. El resultado sería este: 
 ![Análisis de los resultados](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/cardsorting/3-estructura/An%C3%A1lisis%20de%20resultados.png)
 
-Sin embargo, aparte de mirar a las etiquetas y grupos que más coinciden, también se deben analizar las diversas discrepancias que existan entre los participantes. Así se podrá recabar información sobre cómo de diferente piensan los distintos clientes potenciales del futuro.
+Sin embargo, además de observar las etiquetas y grupos que más coinciden, también se deben analizar las diversas discrepancias que existan entre los participantes. Así se podrá recabar información sobre cómo de diferente piensan los distintos clientes potenciales del futuro.
 
 ### Variaciones
 
-El método del Card Sorting también sirve para recabar más información. Por ejemplo, se puede pedir al participante distinguir los contenidos que crea que debieran de ir en la página principal. Para verificar los resultados, también se les puede enseñar sólamente el nombre del grupo para que hagan la lista de contenidos. También es recomendable pedirles que clasifiquen distintos escenarios en grupos. Por ejemplo, los grupos son economía, cultura, medio ambiente etc. y uno de los escenarios es ¿cuál es el PIB de tu país? El usuario seguramente uniría el escenario con economía. Así, dejando a un lado el contenido, se podría saber más acerca de las acciones y búsquedas del usuario.
+El método del Card Sorting también sirve para recabar más información. Por ejemplo, se puede pedir al participante distinguir los contenidos que crea que debieran de ir en la página principal. Para verificar los resultados, también se les puede enseñar sólamente el nombre del grupo para que hagan la lista de contenidos. También es recomendable pedirles que clasifiquen distintos escenarios en grupos. Por ejemplo, si los grupos son economía, cultura o medio ambiente y uno de los escenarios es: ¿Cuál es el PIB de tu país?, el usuario seguramente uniría el escenario con economía. Así, dejando a un lado el contenido, se podría saber más acerca de las acciones y búsquedas del usuario.
+
+## Referencias
+
+Candamil Llano, Mauricio, Guevara Hurtado, Adrián Fernando. Card sorting: un caso práctico en el diseño de un sitio web universitario. 2008. Disponible online: http://www.nosolousabilidad.com/articulos/cardsorting_unicauca.htm  
+
+Hassan Montero, Yusef, Martín Fernández, Francisco J. Card Sorting: Técnica de categorización de contenidos. 2004. Disponible online: http://www.nosolousabilidad.com/articulos/cardsorting.htm
+
+
+
+ 
