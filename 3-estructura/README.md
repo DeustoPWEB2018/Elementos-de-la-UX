@@ -27,7 +27,7 @@ Como otros herramientas, card sorting tiene ventajas y desventajas. Teniendo en 
 
 * Barato: El coste de la ejecución se reduce a una pila de fichas de 3x5cm, notas adhesivas, un bolígrafo o etiquetas imprimidas, y el tiempo tanto de los participantes como de los responsables de la organización de la actividad.  
 
-* Rápido a ejecutar: Se pueden realizar varias formas de clasificación en un periodo de tiempo reducido, lo que provee una cantidad significativa de datos. 
+* Rápido de ejecutar: Se pueden realizar varias formas de clasificación en un periodo de tiempo reducido, lo que provee una cantidad significativa de datos. 
 
 * Establecido: Muchos diseñadores utilizan la técnica desde hace 10 años.  
 
@@ -52,9 +52,9 @@ Como otros herramientas, card sorting tiene ventajas y desventajas. Teniendo en 
 
 Hay dos métodos primarios para efectuar las clasificaciones de las tarjetas:  
 
-* Open Card Sorting (clasificación abierta de tarjeta): Los participantes obtienen tarjetas mostrando el contenido del sitio pero las agrupaciones no están preestablecidas. Deben clasificar las tarjetas en grupos y luego describir cada grupo. Este método es útil para añadir entradas en estructuras de información, o en nuevos o existentes sitios y productos. 
+* Open Card Sorting (clasificación abierta de tarjeta): Los participantes obtienen tarjetas mostrando el contenido del sitio y deben clasificar las tarjetas en grupos que ellos eligan para luego describir cada grupo. Este método es útil para añadir entradas en estructuras de información, o en nuevos o existentes sitios y productos.
 
-* Closed Card Sorting (clasificación cerrada de tarjeta): Los participantes obtienen tarjetas mostrando el contenido del sitio con una colección inicial establecida de grupos primarios. Posteriormente deben colocar las tarjetas en estos grupos primarios preestablecidos. Closed card sorting es útil a la hora de añadir nuevo contenido a una estructura existente, o para obtener un comentario adicional después de una clasificación abierta de tarjeta. 
+* Closed Card Sorting (clasificación cerrada de tarjeta): Los participantes obtienen tarjetas mostrando el contenido del sitio y deben colocar las tarjetas en grupos preestablecidos. Es útil a la hora de añadir nuevo contenido a una estructura existente, o para obtener un feedback adicional después de una clasificación abierta de tarjeta.
 
 En otras palabras, este segundo tipo de "card sorting" está recomendado para verificar si una clasificación de información es comprensible para el usuario, mientras que el "abierto" tiene el objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar.
 
