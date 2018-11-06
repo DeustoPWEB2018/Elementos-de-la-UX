@@ -73,7 +73,7 @@ Card sorting no es una técnica de evaluación que señale aquellos errores de p
 
 La siguiente tabla resume cuando funciona bien el card sorting y ofrece buenos resultados, y cuando es difícil tanto ejecutar como analizar. 
 
-![Tabla](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/43a39a0837e733956190892ce757481336cc56ca/3-estructura/tabla.png?raw=true)
+![Tabla](tabla.png)
 
 Para los sitios con características enumeradas en la última columna, el card sorting proporcionará una entrada menos directa en la estructura de la información; es posible que el dueño del sitio web deba realizar una variedad de tipos de tarjetas y más actividades de diseño centradas en el usuario.
 
@@ -121,7 +121,8 @@ Para la ejecución perfecta de esta técnica es recomendable numerar todas las c
 El análisis de resultados se puede hacer tanto manualmente como por medio de un software. La elección de una o de otra depende principalmente del número de tarjetas, grupos y participantes. Un software recomendable para hacer el análisis de los resultados conseguidos mediante el Card Sorting es Optimar Sort. En caso de hacerlo manualmente, es recomendable crear una tabla en Excel para plasmar ahí las decisiones de los participantes. En la fila superior se deben presentar los grupos, y en la columna de la izquierda las etiquetas de las cartas. En los cuadros de las tablas se debe escribir el número de veces que una carta haya sido agrupada en un grupo.
 
 Para que el análisis sea más visual y fácil, la revista _No solo usabilidad_ recomienda clasificar los resultados mediante colores. Así se resaltará el porcentaje de agrupación de mayor a menor. El resultado sería este: 
-![Análisis de los resultados](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/cardsorting/3-estructura/An%C3%A1lisis%20de%20resultados.png)
+
+![Análisis de los resultados](resultados.png)
 
 Sin embargo, además de observar las etiquetas y grupos que más coinciden, también se deben analizar las diversas discrepancias que existan entre los participantes. Así se podrá recabar información sobre cómo de diferente piensan los distintos clientes potenciales del futuro.
 
