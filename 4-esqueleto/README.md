@@ -44,6 +44,7 @@ Los wirfarmes pueden ser más o menos detallados:
 
 ## De cuantas páginas creamos un wireframe
 
+Es importante crear wireframes de las siguientes páginas:
 * Página principal
 * Principales subpáginas o plantillas entre las que deberían incluirse: una página de formulario, una página de resultado búsqueda y por último una página de error. 
 * Si estamos ante una aplicación: página de ingreso de datos, página detalle y una página de listado. 
