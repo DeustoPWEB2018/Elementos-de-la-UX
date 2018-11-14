@@ -2,11 +2,11 @@
 
 ## EL DISEÑO DE LA INTERFAZ
 
-### Introducción --> ¿Qué es? ANGIE
-### Objetivos del diseño ANGIE 
-### Calidad del diseño y estabilidad funcional ANGIE
-### Principios básicos MARINA
-### Técnicas para mejorar el diseño MARINA
-### Interfaces de usuario más simples ANE
-### ¿Cómo saber si el diseño tiene errores? ANE
+### 1. Introducción --> ¿Qué es? ANGIE
+### 2. Objetivos del diseño ANGIE 
+### 3. Calidad del diseño y estabilidad funcional ANGIE
+### 4. Principios básicos MARINA
+### 5. écnicas para mejorar el diseño MARINA
+### 6. Interfaces de usuario más simples ANE
+### 7. ¿Cómo saber si el diseño tiene errores? ANE
 ### Referencias
