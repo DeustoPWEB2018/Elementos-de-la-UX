@@ -6,7 +6,7 @@
 ### 2. Objetivos del diseño ANGIE 
 ### 3. Calidad del diseño y estabilidad funcional ANGIE
 ### 4. Principios básicos MARINA
-### 5. écnicas para mejorar el diseño MARINA
+### 5. Técnicas para mejorar el diseño MARINA
 ### 6. Interfaces de usuario más simples 
 
 En un principio, el objetivo del diseñador siempre es diseñar una interfaz fácil de usar, simple e intuitiva. Pero cuando se empieza a diseñar la página, la simplicidad se pierde y la página pasa a ser más compleja.
