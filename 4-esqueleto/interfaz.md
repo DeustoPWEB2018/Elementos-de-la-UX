@@ -3,8 +3,7 @@
 ## EL DISEÑO DE LA INTERFAZ
 
 ### Introducción --> ¿Qué es? ANGIE
-Emprendedora, dinámica y responsable con las tareas que se me asignan. Facilidad para  el trabajo en equipo porque soy consciente de que así se obtienen mejores resultados, con adaptabilidad al cambio puesto que  gusta adquirir nuevos conocimientos que ayuden en mi crecimiento personal como en lo profesional. Procuro alcanzar las metas que me propongo. 
-Poseo habilidades profesionales en cuanto a fotografía, redacción, locución y presentación, manejo básico de herramientas tales como: Suite Office, Illustrator, Photoshop y Adobe Premiere, poseo grandes habilidades para manejar las relaciones interpersonales y atención al cliente.(Profesional en formación de Comunicación Social).
+El diseño de la interfaz es una técnica compuesta por elementos gráficos, el cual traza una ruta que logra que la navegación del usuario sea más fácil, sencilla y eficaz. Actualmente se considera que tener un buen diseño de la interfaz es mejor que un buen contenido. Además, el sitio web debe ser intuitivo para el usuario, es decir, que se entienda sin necesidad de anteponer indicaciones. Debido a ello, la interfaz es diseñada para crear y mejorar la interacción entre el individuo y lo que ofrece la organización por medio de la plataforma. Mediante este informe hablaremos de los objetivos, la funcionalidad, los principios básicos, las técnicas de mejora y el cómo detectar posibles errores en su diseño.
 
 ### Objetivos del diseño ANGIE 
 La interfaz tiene como objetivo principal generar la interacción entre el individuo y la máquina, para que la información que se aloje en la plataforma web llegue y se entienda de la manera correcta.  Por esta razón, se deben tener en cuenta dos términos base que permiten que el objetivo se cumpla:
