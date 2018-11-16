@@ -2,21 +2,21 @@
 
 ## EL DISEÑO DE LA INTERFAZ
 
-### 1. Introducción ANGIE
+### 1. Introducción 
 El diseño de la interfaz es una técnica compuesta por elementos gráficos, el cual traza una ruta que logra que la navegación del usuario sea más fácil, sencilla y eficaz. Actualmente se considera que tener un buen diseño de la interfaz es mejor que un buen contenido. Además, el sitio web debe ser intuitivo para el usuario, es decir, que se entienda sin necesidad de anteponer indicaciones. Debido a ello, la interfaz es diseñada para crear y mejorar la interacción entre el individuo y lo que ofrece la organización por medio de la plataforma. Mediante este informe hablaremos de los objetivos, la funcionalidad, los principios básicos, las técnicas de mejora y el cómo detectar posibles errores en su diseño.
 
-### 2. Objetivos del diseño ANGIE 
+### 2. Objetivos del diseño 
 La interfaz tiene como objetivo principal generar la interacción entre el individuo y la máquina, para que la información que se aloje en la plataforma web llegue y se entienda de la manera correcta.  Por esta razón, se deben tener en cuenta dos términos base que permiten que el objetivo se cumpla:
 
 - Simplicidad: al usuario le gusta entrar a un sitio web y comprender de manera instantánea. Además, ¿a quién no le gusta llegar a su lugar de destino en menos tiempo? Con el diseño de la interfaz no se pretende dar una sola ruta, por el contrario, se brindan diversas, pero todas intuitivas.
     
 - Coherencia: en todo momento se debe buscar que el usuario se familiarice con el sitio web, lo cual se logra mediante términos de fácil comprensión en los menús, que haya una diferencia entre el título, subtítulo y el desarrollo del contenido, además, que los enlaces se dirijan efectivamente a su destino. En otras palabras, cuanto menos sorpresas y disgustos tengan el usuario, mayor es la efectividad del diseño de la interfaz.
     
-### 3. Calidad del diseño y estabilidad funcional ANGIE
+### 3. Calidad del diseño y estabilidad funcional 
 La estabilidad funcional depende específicamente de que todo en la plataforma se encuentre ordenado y que al momento de clicar los enlaces se dirijan al contenido esperado. Por ejemplo, si quiero realizar la compra de un producto online y clico en la imagen del producto, pero a la hora de clicar, el producto es otro, el usuario se sentirá engañado o si el enlace arroja un error una y otra vez la persona abandonará el sitio. Por esta razón la primera impresión que tenga el usuario frente al sitio web será crucial ya que de ello depende si se queda o no. La plataforma debe tener un orden y ese orden debe ser visible y fácil de comprender.
 
-### 4. Principios básicos MARINA
-### 5. Técnicas para mejorar el diseño MARINA
+### 4. Principios básicos 
+### 5. Técnicas para mejorar el diseño 
 ### 6. Interfaces de usuario más simples 
 En un principio, el objetivo del diseñador siempre es diseñar una interfaz fácil de usar, simple e intuitiva. Pero cuando se empieza a diseñar la página, la simplicidad se pierde y la página pasa a ser más compleja.
 
@@ -33,8 +33,20 @@ Utilizar los mismos elementos para diferentes propósitos tiene dos ventajas: re
 
 ### 7. ¿Cómo saber si el diseño tiene errores? 
 
+A continuación, se van a mostrar algunos ejemplos de errores que se suelen hacer en el diseño de la interfaz. 
+
 #### - Es una interfaz estridente
+
+Aunque para el diseñador haya algún factor importante que quiera resaltar en la página web, puede que esto no sea interesante para el usuario. No conviene resaltar ningún producto, servicio o dependiente si no es del interés del usuario. Recordad que lo importante es lo que necesita el usuario, no el diseñador.
+
 #### - Trata de ayudar demasiado
+
+Aunque los diseñadores quieran satisfacer todas las necesidades del usuario en una sola página, esto es prácticamente imposible. Es mejor hacer una selección de lo que le resulte más necesario al usuario y dejar de lado todo lo demás. 
+
+También es importante evitar das sugerencias de manera constante o atormentar al usuario con información que no es necesaria en ese momento.
+
 #### - Es demasiado diferente
+
+Es muy común que los diseñadores quieran que su página web sea innovadora o diferente al resto, pero muchas veces, estas diferencias son tan grandes, que en realidad, en vez de ayudar al usuario, terminan haciendo más difícil la navegación en la página web. 
 
 ### 8. Referencias
