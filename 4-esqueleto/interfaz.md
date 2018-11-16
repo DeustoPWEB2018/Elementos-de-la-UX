@@ -33,8 +33,8 @@ Utilizar los mismos elementos para diferentes propósitos tiene dos ventajas: re
 
 ### 7. ¿Cómo saber si el diseño tiene errores? 
 
-#### Es una interfaz estridente
-#### Trata de ayudar demasiado
-#### Es demasiado diferente
+#### - Es una interfaz estridente
+#### - Trata de ayudar demasiado
+#### - Es demasiado diferente
 
 ### 8. Referencias
