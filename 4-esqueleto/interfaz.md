@@ -22,31 +22,20 @@ En un principio, el objetivo del diseñador siempre es diseñar una interfaz fá
 
 Cuando una página web es compleja los usuarios no logran manejarla bien y muchas veces acaban abandonando. Para que esto no ocurra y para que los usuarios naveguen con facilidad, conviene diseñar la página lo más simple. Para lograrlo, conviene tomar en cuenta las siguientes indicaciones:
 
-#### - Eliminación de elementos innecesarios 
-Hay que poner únicamente lo necesario. Si se intenta poner todo en un mismo lugar, al final, no se termina haciendo nada bien.
+- Eliminación de elementos innecesarios: hay que poner únicamente lo necesario. Si se intenta poner todo en un mismo lugar, al final, no se termina haciendo nada bien.
 
-#### - Disminuir el ruido visual 
-Cuánto mayor ruido visual tenga la web, más complejo será navegar en ella. Para reducir el ruido visual conviene utilizar espacios en blanco y contrastes.
+- Disminuir el ruido visual: cuánto mayor ruido visual tenga la web, más complejo será navegar en ella. Para reducir el ruido visual conviene utilizar espacios en blanco y contrastes.
 
-#### - Reutilizar elementos 
-Utilizar los mismos elementos para diferentes propósitos tiene dos ventajas: requiere menor tiempo de diseño y se logra una interfaz de usuario más consistente y se mejora la experiencia de la persona que utiliza el sitio web.
+- Reutilizar elementos: utilizar los mismos elementos para diferentes propósitos tiene dos ventajas: requiere menor tiempo de diseño y se logra una interfaz de usuario más consistente y se mejora la experiencia de la persona que utiliza el sitio web.
 
 ### 7. ¿Cómo saber si el diseño tiene errores? 
 
 A continuación, se van a mostrar algunos ejemplos de errores que se suelen hacer en el diseño de la interfaz. 
 
-#### - Es una interfaz estridente
+- Es una interfaz estridente: aunque para el diseñador haya algún factor importante que quiera resaltar en la página web, puede que esto no sea interesante para el usuario. No conviene resaltar ningún producto, servicio o dependiente si no es del interés del usuario. Recordad que lo importante es lo que necesita el usuario, no el diseñador.
 
-Aunque para el diseñador haya algún factor importante que quiera resaltar en la página web, puede que esto no sea interesante para el usuario. No conviene resaltar ningún producto, servicio o dependiente si no es del interés del usuario. Recordad que lo importante es lo que necesita el usuario, no el diseñador.
+- Trata de ayudar demasiado: Aunque los diseñadores quieran satisfacer todas las necesidades del usuario en una sola página, esto es prácticamente imposible. Es mejor hacer una selección de lo que le resulte más necesario al usuario y dejar de lado todo lo demás. También es importante evitar das sugerencias de manera constante o atormentar al usuario con información que no es necesaria en ese momento.
 
-#### - Trata de ayudar demasiado
-
-Aunque los diseñadores quieran satisfacer todas las necesidades del usuario en una sola página, esto es prácticamente imposible. Es mejor hacer una selección de lo que le resulte más necesario al usuario y dejar de lado todo lo demás. 
-
-También es importante evitar das sugerencias de manera constante o atormentar al usuario con información que no es necesaria en ese momento.
-
-#### - Es demasiado diferente
-
-Es muy común que los diseñadores quieran que su página web sea innovadora o diferente al resto, pero muchas veces, estas diferencias son tan grandes, que en realidad, en vez de ayudar al usuario, terminan haciendo más difícil la navegación en la página web. 
+- Es demasiado diferente: es muy común que los diseñadores quieran que su página web sea innovadora o diferente al resto, pero muchas veces, estas diferencias son tan grandes, que en realidad, en vez de ayudar al usuario, terminan haciendo más difícil la navegación en la página web. 
 
 ### 8. Referencias
