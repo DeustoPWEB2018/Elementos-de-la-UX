@@ -2,6 +2,7 @@
 
 ## EL DISEÑO DE LA INTERFAZ
 
+<<<<<<< HEAD
 ### Introducción --> ¿Qué es? ANGIE
 El diseño de la interfaz es una técnica compuesta por elementos gráficos, el cual traza una ruta que logra que la navegación del usuario sea más fácil, sencilla y eficaz. Actualmente se considera que tener un buen diseño de la interfaz es mejor que un buen contenido. Además, el sitio web debe ser intuitivo para el usuario, es decir, que se entienda sin necesidad de anteponer indicaciones. Debido a ello, la interfaz es diseñada para crear y mejorar la interacción entre el individuo y lo que ofrece la organización por medio de la plataforma. Mediante este informe hablaremos de los objetivos, la funcionalidad, los principios básicos, las técnicas de mejora y el cómo detectar posibles errores en su diseño.
 
@@ -18,3 +19,35 @@ La estabilidad funcional depende específicamente de que todo en la plataforma s
 ### Interfaces de usuario más simples ANE
 ### ¿Cómo saber si el diseño tiene errores? ANE
 ### Referencias
+=======
+### 1. Introducción --> ¿Qué es? ANGIE
+### 2. Objetivos del diseño ANGIE 
+### 3. Calidad del diseño y estabilidad funcional ANGIE
+### 4. Principios básicos MARINA
+### 5. Técnicas para mejorar el diseño MARINA
+### 6. Interfaces de usuario más simples 
+
+En un principio, el objetivo del diseñador siempre es diseñar una interfaz fácil de usar, simple e intuitiva. Pero cuando se empieza a diseñar la página, la simplicidad se pierde y la página pasa a ser más compleja.
+
+Cuando una página web es compleja los usuarios no logran manejarla bien y muchas veces acaban abandonando. Para que esto no ocurra y para que los usuarios naveguen con facilidad, conviene diseñar la página lo más simple. Para lograrlo, conviene tomar en cuenta las siguientes indicaciones:
+
+#### Eliminación de elementos innecesarios 
+
+Hay que poner únicamente lo necesario. Si se intenta poner todo en un mismo lugar, al final, no se termina haciendo nada bien.
+
+#### Disminuir el ruido visual 
+
+Cuánto mayor ruido visual tenga la web, más complejo será navegar en ella. Para reducir el ruido visual conviene utilizar espacios en blanco y contrastes.
+
+#### Reutilizar elementos 
+
+Utilizar los mismos elementos para diferentes propósitos tiene dos ventajas: requiere menor tiempo de diseño y se logra una interfaz de usuario más consistente y se mejora la experiencia de la persona que utiliza el sitio web.
+
+### 7. ¿Cómo saber si el diseño tiene errores? 
+
+#### Es una interfaz estridente
+#### Trata de ayudar demasiado
+#### Es demasiado diferente
+
+### 8. Referencias
+>>>>>>> 51601b8669ab4c829732cf78fa4cdeb4b3bc06b1
