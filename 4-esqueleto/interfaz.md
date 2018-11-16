@@ -30,7 +30,7 @@ Cuando una página web es compleja los usuarios no logran manejarla bien y mucha
 
 ### 7. ¿Cómo saber si el diseño tiene errores? 
 
-A continuación, se van a mostrar algunos ejemplos de errores que se suelen hacer en el diseño de la interfaz. 
+A continuación, se van a mostrar algunos ejemplos de errores que se suelen hacer en el diseño de la interfaz para evitarlos en futuros diseños de la interfaz. 
 
 - Es una interfaz estridente: aunque para el diseñador haya algún factor importante que quiera resaltar en la página web, puede que esto no sea interesante para el usuario. No conviene resaltar ningún producto, servicio o dependiente si no es del interés del usuario. Recordad que lo importante es lo que necesita el usuario, no el diseñador.
 
