@@ -2,7 +2,7 @@
 
 ## EL DISEÑO DE LA INTERFAZ
 
-### 1. Introducción --> ¿Qué es? ANGIE
+### 1. Introducción ANGIE
 El diseño de la interfaz es una técnica compuesta por elementos gráficos, el cual traza una ruta que logra que la navegación del usuario sea más fácil, sencilla y eficaz. Actualmente se considera que tener un buen diseño de la interfaz es mejor que un buen contenido. Además, el sitio web debe ser intuitivo para el usuario, es decir, que se entienda sin necesidad de anteponer indicaciones. Debido a ello, la interfaz es diseñada para crear y mejorar la interacción entre el individuo y lo que ofrece la organización por medio de la plataforma. Mediante este informe hablaremos de los objetivos, la funcionalidad, los principios básicos, las técnicas de mejora y el cómo detectar posibles errores en su diseño.
 
 ### 2. Objetivos del diseño ANGIE 
