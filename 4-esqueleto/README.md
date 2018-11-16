@@ -51,14 +51,45 @@ Es importante crear wireframes de las siguientes páginas:
 
 ## Cómo se hace un wireframe
 
+Un Wireframe se puede hacer de muchas maneras, y todas adecuadas pero a la vez muy diferentes y de formato diverso. 37signals, propone en "Una introducción a la utilización de patrones de diseño en la web"; que consiste en una metodología que nos sirve para hacer un Wireframe. Este sistema de metodología, consiste en 6 pasos básicos, que nos sirve para orientarnos:
+
+1. Haz una lista numerada de toda la información que debe tener tu página (no sólo datos, sino también acciones, actitudes), lo que llaman "bit".
+
+2. Agrupa los "bits" que se relacionan entre sí. A cada grupo lo llamarías con una letra y asociada a esa letra pondrías los números de la información que relaciona. Por ejemplo A:1,3,5.
+
+3. Prioriza qué grupos son los más importantes desde un punto funcional, agrupando los grupos en tres prioridades: Lo más importante, lo necesario y lo que es bueno tener.
+
+4. Diseña cada fragmento, cada agrupación de "bits". Lo podemos hacer sin preocuparnos de los conflictos porque ya sabemos que incluyen a todos los elementos relacionados entre si.
+
+5. Junta los fragmentos teniendo en cuenta la prioridad y el equilibrio.
+
+6. Hazlo real. Hasta ahora todo lo hemos hecho en papel, es el momento de pasarlo a pantalla y hacer los ajustes necesarios para ello.
+
 ## Errores en la creación de un wireframe
 
-## Como plantéo un wireframe para una aplicación RIA
+Debe ser claro, sin diseño gráfico y sin color (salvo el estrictamente necesario, por ejemplo para indicar que un elemento está seleccionado, para lo cual recomiendo usar gamas de grises).
 
-## Que herramientas utilizo para realizar un wireframe
+Normalmente, la gente suele trabajar con prototipos funcionales, pues la experiencia dice que con ellos el cliente comprende mejor la interacción de las páginas y los cambios posteriores son menores. Por tanto siempre es recomendable que su funcionamiento se asemeje lo máximo posible al futuro funcionamiento del portal, lo cual además ofrece una herramienta de gran valor para el equipo de desarrollo.
+
+Desde mi punto de vista, de la autora Olga Carreras, una consultora freelance, “el mayor error es no presentar personalmente el prototipo al cliente”. Es cierto que debe ser autoexplicativo y que las notas son importantes para que después puedan revisarlo, pero siempre es necesario explicar cada una de las decisiones que se han tomado y el por qué de las mismas.
+
+## Axure, herramienta para realizar un Wireframe
+
+Depende de cual manejes con mayor fluidez. Puedes usar Illustrator, Photoshop, PowerPoint, Visio, OpenOffice Draw, Omnigraffe, etc.
+
+Pero sí que existen herramientas específicas para realizar Wireframes, como lo es Axure.
+
+Axure permite crear de manera muy sencilla un prototipo funcional (mostrar y ocultar paneles, cambiar el estado o el contenido de los elementos, por ejemplo de los campos de un formulario; crear zonas fijas reaprovechables por todo el prototipo, etc.).
+
+También permite exportar un documento Word con los pantallazos de la aplicación y sus partes para redactar el análisis funcional.
 
 ## Recursos para wireframe
 
-## Conclusión
+Existen muchísimos recursos que los podríamos utilizar para los Wireframes, pero a día de hoy, muchos de ellos se han quedado anticuados o bien ya no funcionan como en años anteriores. 
+
+Ejemplo de ello son por ejemplo, por nombrar un par de ellos, Visio Wireframe Stencil, o Wireframes para móvil, que éste último nos serviría como su nombre indica para utilizarlo desde dispositivos móviles. 
 
 ## Bibliografía
+
+Carreras, Olga: Wireframes. Disponible aquí: https://olgacarreras.blogspot.com/2007/02/wireframes.html 
+(Vídeo) Carreras, Olga: "Prototipado" para el curso gratuito "iDESWEB: Introducción al desarrollo web". Disponible aquí: https://olgacarreras.blogspot.com/2012/08/video-prototipado-para-el-curso.html 
