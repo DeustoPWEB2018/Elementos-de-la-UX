@@ -34,7 +34,7 @@ A continuación, se van a mostrar algunos ejemplos de errores que se suelen hace
 
 - Es una interfaz estridente: aunque para el diseñador haya algún factor importante que quiera resaltar en la página web, puede que esto no sea interesante para el usuario. No conviene resaltar ningún producto, servicio o dependiente si no es del interés del usuario. Recordad que lo importante es lo que necesita el usuario, no el diseñador.
 
-- Trata de ayudar demasiado: Aunque los diseñadores quieran satisfacer todas las necesidades del usuario en una sola página, esto es prácticamente imposible. Es mejor hacer una selección de lo que le resulte más necesario al usuario y dejar de lado todo lo demás. También es importante evitar das sugerencias de manera constante o atormentar al usuario con información que no es necesaria en ese momento.
+- Trata de ayudar demasiado: aunque los diseñadores quieran satisfacer todas las necesidades del usuario en una sola página, esto es prácticamente imposible. Es mejor hacer una selección de lo que le resulte más necesario al usuario y dejar de lado todo lo demás. También es importante evitar das sugerencias de manera constante o atormentar al usuario con información que no es necesaria en ese momento.
 
 - Es demasiado diferente: es muy común que los diseñadores quieran que su página web sea innovadora o diferente al resto, pero muchas veces, estas diferencias son tan grandes, que en realidad, en vez de ayudar al usuario, terminan haciendo más difícil la navegación en la página web. 
 
