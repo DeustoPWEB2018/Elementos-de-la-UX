@@ -6,13 +6,26 @@ Los wireframes ó maquetas, son diagramas de presentación cuyo objetivo es la d
 
 ## Terminología
 
+Algunas terminologías utilizadas dentro de la arquitectura de la información son Wireframe, Blueprint, Prototipo, Storyboard, Mock Up, Diagrama de contenido, Sketching… No obstante, la clave es ir más alla de la terminología, por que lo importante es concentrarnos en lograr buenos diagramas y prototipos de nuestros sitios webs y aplicaciones.
+
+La base para el *diseño de interfaz de usuario* es la Arquitectura de Información (AI), y la razón es porque se requiere de éste para ganar precisión y eficacia.
+
+Ahora, cabe mencionar el rol de la persona que interviene en todo esto, "el arquitecto de información", esta persona, se encarga principalmente de la definición, organización, etiquetado, navegación y del sistema de búsqueda de un sitio web, todos ellos, elementos que ayudan a los usuarios a encontrar y gestionar la información de manera efectiva. 
+
+Como hemos visto en la fase de estructura, **la diagramación**, es el medio por el cual podemos especificar la organización, estructura, funcionamiento y navegación del sitio.
+
+Existen dos tipos de diagramas:
+
+ - Los PLANOS: se utilizan para organización y funcionamiento.
+ - Las MAQUETAS: utilizados para la presentación.
+ 
 ## Cómo es un wireframe 
 
 Un wireframe es la representación esquemática de una página web sin aquellos elementos gráficos que pueden mostrar contenido y comportamiento de las páginas. Son herramientas que sirven de comunicación y discusión para los arquitectos de la información, programadores, clientes, diseñadores... 
 A la hora de crear un wireframe es importante explicarle al cliente dos cosas:
+
 * Qué es un wireframe.
-* Que un wireframe no es el aspecto final del sitio web, sino una manera de representar el contenido. 
->>>>>>> f5159bc86dcdaf373a2d0800e0b7a00f3f6b6bd5
+* Que un wireframe no es el aspecto final del sitio web, sino una manera de representar el contenido.
 
 ## Cuando se realizan
 
