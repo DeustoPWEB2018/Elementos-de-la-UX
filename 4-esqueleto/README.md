@@ -19,9 +19,20 @@ Existen dos tipos de diagramas:
  - Los PLANOS: se utilizan para organización y funcionamiento.
  - Las MAQUETAS: utilizados para la presentación.
  
- ![Planos y Maquetas](4-esqueleto/Planos_Maquetas.png)
+ ![Planos y Maquetas](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Planos_Maquetas.png)
 
  Veamos a continuación algunos detalles de estos diagramas:
+
+### Planos
+Conocidos como BluePrint, Architecture Map ó Diagramas de contenido o flujo, tienen como objetivo mostrar una idea tanto de la estructura y organización del sitio como de cuales serán los flujos de navegación del mismo, aquí se muestran dos ejemplos, uno mas simple y otro con un grado mayor de detalles:
+
+![Plano sencillo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Plano_1.png)
+![Plano 2 con mas detalle](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/plano_2.png)
+
+
+El lenguaje para hacer estos planos lo aprendimos en el apartado de diagramación dentro de estructura, para repasarlo, pincha [aquí](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/master/3-estructura/diagramacion.md).
+
+Una herramienta sencilla y gratuita, para realizar mapas web sencillos, es [XMind](https://www.xmind.net/).
 
 ## Cómo es un wireframe 
 
