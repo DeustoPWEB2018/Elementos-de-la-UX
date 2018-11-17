@@ -2,7 +2,10 @@
 
 ## Introducción
 
+Los wireframes ó maquetas, son diagramas de presentación cuyo objetivo es la de crear una referencia visual de la estructura, organización e interacción a nivel de pagina. 
+
 ## Terminología
+
 
 ## Cómo es un wireframe
 
