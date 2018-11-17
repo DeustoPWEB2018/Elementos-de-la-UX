@@ -49,9 +49,25 @@ Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
 
  ![Sketching 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Sketching_2.png)
 
-  Para ver como partimos del primer boceto hasta algo con un nivel de detalle mayor podemos ver en esta pagina creada por Yan Schober como describe paso a paso 
-  ![Diseño de bocetos](https://dux.typepad.com/dux/2009/08/sketching-design.html)
+  Para ver como partimos del primer boceto hasta algo con un nivel de detalle mayor podemos ver en esta pagina creada por Yan Schober como describe paso a paso diseñar un sketching pincha [aquí](https://dux.typepad.com/dux/2009/08/sketching-design.html)
  
+ - Wireframe: Nos permite incorporar una referencia visual ya que tiene mas detalles del contenido y su distribución visual. Se abordara con profundida esta herramienta mas adelante.
+
+  - StoryBoard: "Secuencia de wireframes que muestran cómo se realiza una tarea".
+  
+  ![StoryBoard](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/StoryBoard.png)
+
+
+   - StoryBoard Navegacional: Es una herramienta de prototipado que propone Granollers que uno dos tipos.
+   Algunos lo denominan Wireflows por que es la suma de Wireframes + Flowcharts:
+   ![Wireflows](https://olgacarreras.blogspot.com/2007/02/wireframes.html)
+
+
+   - Thumbnail Sketches: Es un storyboard pero muchos scketches. Algunos ejemplos:
+   
+   ![Thumbnail Sketches 1](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Thumbnail_Sketches_1.png)
+
+   ![Thumbnail Sketches 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Thumbnail_Sketches_2.png)
 
 ## Cómo es un wireframe 
 
