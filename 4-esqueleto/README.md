@@ -2,25 +2,66 @@
 
 ## Introducion (Mégane)
 
+Un sitio consta de una estructura que puede variar según la necesidad y, por lo tanto, afectar la navegación. Por ejemplo, si es necesario agregar categorías a una barra de navegación horizontal con categorías, la estructura deberá evolucionar para adaptarse a la navegación. Este resumen pretende presentar los diversos mecanismos de navegación posibles.
+
 ## Modo de navegacion (Mégane)
 
 ### Paso por paso 
 
+La navegación por pasos permite a los usuarios moverse secuencialmente a través de las páginas. A menudo consiste en una etiqueta de texto y una flecha, y está acompañado por un enlace que también le permite volver a la serie.
+Normalmente, una flecha a la izquierda indica un movimiento a la página anterior, y una flecha a la derecha indica la página siguiente. Las flechas solas pueden no ser claras o intuitivas para todos los usuarios en todas las situaciones. Una etiqueta de texto asociada con una flecha evita ambigüedades.
+
+La navegación por pasos es útil en procesos donde la decisión tomada en un paso afecta a algo en el siguiente, como en un asistente o proceso de pedido. También es adecuado para secciones de un documento más largo o capítulos de un libro en línea, así como para encuestas y exámenes en línea. La navegación por pasos proporciona un fácil acceso a las páginas, una tras otra.
+
 ### Navegacion por paginacion 
 
-## Rastro de miga de pan (Mégane)
+La navegación por paginación es similar a la navegación por pasos, pero incluye información y opciones adicionales. A menudo se encuentra en las páginas de resultados de búsqueda que proporcionan detalles sobre las páginas de resultados. Los conjuntos de resultados suelen tener límites en la cantidad de elementos que se pueden mostrar simultáneamente. Una vez que se alcanza este límite, se muestra un segundo bloque de resultados en una nueva página. Esto se repite hasta que todos los resultados estén representados en varias páginas.
+La forma más sencilla de navegación por paginación es la navegación por pasos con la adición de varias páginas. Esto suele aparecer entre los enlaces para avanzar o retroceder.
+
+## "Rastro de miga de pan" (Mégane)
 
 ### Inicio y final
 
+A veces, los visitantes deben "rebobinar" a la primera página o "adelantar" a la última página de un conjunto. A menudo, una flecha doble o una flecha con tubería (línea vertical) representa este tipo de navegación. Los mecanismos de rebobinado y avance rápido son buenos para conjuntos más grandes de cosas. El rebobinado y el avance rápido solo pueden agregar más desorden y causar errores potenciales.
+
+Por ejemplo: 
+
+![ejemplo](ejemploa.png)
+
 ### Aceso directo en pagina
+
+Hay varias técnicas para acceder a una página directamente:
+
+- Por lo general, se muestra un recuento lineal de fragmentos de página (por ejemplo, página 1, 2, 3, 4, etc.) junto con los controles de navegación por pasos.
+Por ejemplo : ![ejemplo](ejemplob1.png)
+
+- También podemos mostrar el número de elementos en cada página. Por ejemplo: ![ejemplo](ejemplob2.png)
+
+- Podemos permitir a los usuarios ingresar directamente al segmento al que desean saltar. Esto se puede hacer incrustando un cuadro de texto dentro de las flechas de paginación. Por ejemplo: ![ejemplo](ejemplob3.png)
+
+La combinación de elementos de los ejemplos anteriores también es posible. Generalmente, lo mejor es mostrar las flechas oscurceren, porque proporciona información potencialmente valiosa para orientar al visitante. Por ejemplo: ![ejemplo](ejemplob4.png)
 
 ### Organizacion de ruta
 
+Como mecanismo de navegación, el rastro de ruta de navegación muestra el camino de una persona a través de un sitio. Se compone de elementos, o nodos, que están encadenados. Pueden ser diferentes.
+
 #### Localizacion
+El tipo más común de  ruta de navegacion en general:
+- Muestra la posición actual dentro de un sitio.
+- Proporciona accesos directos a páginas vistas anteriormente y/u otras áreas del sitio.
+
+Son una representación lineal de la estructura de un sitio. Como vemos, muestran una posición fija en el sitio en general.
+
+Ejemplo: Inicio> Ropa para hombres> Camisas> Camisas de vestir.
 
 #### Sendero 
+La tecnica de sendero es dinámicos. Cualquier página dada mostrará un rastro de ruta de navegación diferente en función de cómo el usuario llegó a la página. Cada ruta da como resultado exactamente el mismo contenido, pero se tomaron diferentes rutas para llegar allí. A diferencia de los senderos de ubicación, que son bastante estáticos, la implementación de este tipo de senderos es más difícil. Por ejemplo : ![ejemplo](ejemplocsandero.PNG)
 
 #### Atributor
+Los rutas de navegación de atributos describen una página de alguna manera, en lugar de mostrar su ubicación dentro de un sitio o ruta para llegar allí. Muestran su posición dentro de algún esquema de metadatos, a menudo una jerarquía de temas. Permiten el acceso directo a las categorías principales a través de nombres de categorías vinculados. Mostrar el rastro completo proporciona contexto para los elementos en el nivel más bajo, o los nodos finales.
+
+Por lo tanto, por lo general son complementarios de algún otro mecanismo y, a menudo, no son la única forma de navegar. Se cree popularmente que los rastros de ruta de navegación aumentan la comprensión del usuario del contenido y la estructura del sitio al proporcionar un mayor contexto.
+Por ejemplo: ![ejemplo](ejemplocatributor.png)
 
 ### Navegación ramificada o en árbol (Leire)
 
