@@ -27,12 +27,31 @@ Existen dos tipos de diagramas:
 Conocidos como BluePrint, Architecture Map ó Diagramas de contenido o flujo, tienen como objetivo mostrar una idea tanto de la estructura y organización del sitio como de cuales serán los flujos de navegación del mismo, aquí se muestran dos ejemplos, uno mas simple y otro con un grado mayor de detalles:
 
 ![Plano sencillo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Plano_1.png)
+
 ![Plano 2 con mas detalle](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/plano_2.png)
 
 
 El lenguaje para hacer estos planos lo aprendimos en el apartado de diagramación dentro de estructura, para repasarlo, pincha [aquí](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/master/3-estructura/diagramacion.md).
 
-Una herramienta sencilla y gratuita, para realizar mapas web sencillos, es [XMind](https://www.xmind.net/).
+Una herramienta muy buena y gratuita para realizar mapas web sencillos es [XMind](https://www.xmind.net/).
+
+### Maquetas
+
+Si bien son utilizadas como un medio de presentación, las maquetas no incluyen diseño grafico, el nivel de las maquetas es un paso anterior, y la ventaja de esto es que nos da la posibilidad de a un bajo coste de tiempo y recursos analizar y cambiar los elementos que se plantearon en la instancia anterior de plano y ubicar ciertamente en donde deberían ir los mismos dentro del sitio. Es importante marcar esta diferencia para no confundirnos, ya que la idea de esta herramienta es mas bien, parar un poco, mirar y pensar con perspectiva como será el sitió web antes de abocarnos al diseño visual y montaje definitivo del sitio, ya que ahí sí a modo metafórico como cuando conducimos un coche con el GPS, que seguimos las instrucciones que nos dicta, en este caso, será lo que definimos en las etapas anteiores las instrucciones.
+
+Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
+
+ * Baja fidelidad:
+ Son estáticos y muestran a través de dibujos como estarán organizados los elementos de la pagina, se presentan aspectos generales sin entrar a fondo en los detalles:
+  - Sketching: "Un sketch es un boceto rápido e informal que se realiza en papel para transmitir una idea o concepto con rapidez y claridad. Suele realizarse durante las entrevista iniciales como técnica eficaz para comunicar al cliente conceptos o proponer alternativas a un problema; también es muy útil durante un brainstorming o en las reuniones con el equipo de trabajo. Es una forma eficaz de comenzar el prototipado de un sitio web, pues permite trabajar ágilmente con varias ideas y esquematizar las páginas".
+  
+ ![Sketching 1](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Sketching_1.png)
+
+ ![Sketching 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Sketching_2.png)
+
+  Para ver como partimos del primer boceto hasta algo con un nivel de detalle mayor podemos ver en esta pagina creada por Yan Schober como describe paso a paso 
+  ![Diseño de bocetos](https://dux.typepad.com/dux/2009/08/sketching-design.html)
+ 
 
 ## Cómo es un wireframe 
 
