@@ -19,6 +19,10 @@ Existen dos tipos de diagramas:
  - Los PLANOS: se utilizan para organización y funcionamiento.
  - Las MAQUETAS: utilizados para la presentación.
  
+ ![Planos y Maquetas](4-esqueleto/Planos_Maquetas.png)
+
+ Veamos a continuación algunos detalles de estos diagramas:
+
 ## Cómo es un wireframe 
 
 Un wireframe es la representación esquemática de una página web sin aquellos elementos gráficos que pueden mostrar contenido y comportamiento de las páginas. Son herramientas que sirven de comunicación y discusión para los arquitectos de la información, programadores, clientes, diseñadores... 
