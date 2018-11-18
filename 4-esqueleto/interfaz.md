@@ -18,8 +18,7 @@ La estabilidad funcional depende específicamente de que todo en la plataforma s
 ### 4. Principios básicos 
 Para poder diseñar interfaces de usuario, cualquiera es capaz de hacerlo siempre y cuando tenga en cuenta los 6 principios básicos sobre el diseño de interfaces de usuario. 
 
-1.	Interfaces claras y precisas:
-
+**1.	Interfaces claras y precisas:**
 Hay que evitar que el usuario tenga problemas para usar el sitio web, para ello es imprescindible que el usuario pueda reconocer bien lo que está viendo, saber para qué se usa, y entender cómo la interfaz le ayudará a interactuar con la aplicación. Para ello, se deben diseñar interfaces claras y precisas recordando qué es la interacción la función principal de la interfaz 
 De nada sirve tener una interfaz que parezca obra de arte, si esta no cumple con lo mínimo de su objetivo. 
 
