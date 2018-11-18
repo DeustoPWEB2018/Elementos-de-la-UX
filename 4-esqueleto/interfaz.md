@@ -92,3 +92,4 @@ A continuación, se van a mostrar algunos ejemplos de errores que se suelen hace
 - Es demasiado diferente: es muy común que los diseñadores quieran que su página web sea innovadora o diferente al resto, pero muchas veces, estas diferencias son tan grandes, que en realidad, en vez de ayudar al usuario, terminan haciendo más difícil la navegación en la página web. 
 
 ### 8. Referencias
+- Andrés Fernández, *El diseño de la interfaz*
