@@ -41,7 +41,7 @@ Si bien son utilizadas como un medio de presentación, las maquetas no incluyen 
 
 Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
 
- * Baja fidelidad:
+ * **Baja fidelidad**:
  Son estáticos y muestran a través de dibujos como estarán organizados los elementos de la pagina, se presentan aspectos generales sin entrar a fondo en los detalles:
   - Sketching: "Un sketch es un boceto rápido e informal que se realiza en papel para transmitir una idea o concepto con rapidez y claridad. Suele realizarse durante las entrevista iniciales como técnica eficaz para comunicar al cliente conceptos o proponer alternativas a un problema; también es muy útil durante un brainstorming o en las reuniones con el equipo de trabajo. Es una forma eficaz de comenzar el prototipado de un sitio web, pues permite trabajar ágilmente con varias ideas y esquematizar las páginas".
   
@@ -68,6 +68,11 @@ Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
    ![Thumbnail Sketches 1](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Thumbnail_Sketches_1.png)
 
    ![Thumbnail Sketches 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Thumbnail_Sketches_2.png)
+
+
+ * **Alta fidelidad** (tambien conocidos como mockUp o prototipo funcional):
+
+ Utilizados representar con mas precisión los elementos. "Sirven, por ejemplo, para detallar el proceso interactivo global de una o varias tareas concretas. Son prototipos o maquetas dinámicas, normalmente en (X)HTML, que simulan o tienen implementadas partes del sistema final a desarrollar." 
 
 ## Cómo es un wireframe 
 
