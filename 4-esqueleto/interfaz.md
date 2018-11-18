@@ -16,7 +16,38 @@ La interfaz tiene como objetivo principal generar la interacción entre el indiv
 La estabilidad funcional depende específicamente de que todo en la plataforma se encuentre ordenado y que al momento de clicar los enlaces se dirijan al contenido esperado. Por ejemplo, si quiero realizar la compra de un producto online y clico en la imagen del producto, pero a la hora de clicar, el producto es otro, el usuario se sentirá engañado o si el enlace arroja un error una y otra vez la persona abandonará el sitio. Por esta razón la primera impresión que tenga el usuario frente al sitio web será crucial ya que de ello depende si se queda o no. La plataforma debe tener un orden y ese orden debe ser visible y fácil de comprender.
 
 ### 4. Principios básicos 
+
+
 ### 5. Técnicas para mejorar el diseño 
+
+En este apartado se definen los elementos de interfaz adecuados que permiten mejorar la experiencia que tenga el usuario al navegar por un sitio web. Las siguientes técnicas son algunas sugerencias para que el usuario navegue fácilmente por el sitio web, pero en cada momento se debe elegir y seleccionar la técnica más apropiada. 
+
+####COLOR
+**El color atrae la atención:** la selección del color hace que el usuario preste más atención o menos al contenido. Por ello, se debe tener en cuenta el color que se elige. Por ejemplo los colores cálidos como el rojo, amarillo y naranja son llamativos, por lo que tienen a atraer la atención y el ojo del usuario tiende a buscarlos. 
+
+**Contraste para administrar la atención:** está técnica permite ordenar los elementos jerárquicamente, por ejemplo resaltando con colores oscuros elementos del sitio web más importantes e ir utilizando colores más claros para los elementos que siguen en relevancia.
+
+####ESPACIADO
+**El espacio en blanco para relacionar:** agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
+
+**Espacio entre letras:** está técnica es útil si se quiere elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
+
+####SELECCIONAR OPCIONES
+**Casillas de verificación:** permiten a los usuarios seleccionar opciones, independientemente unas de otras.
+
+**Botones de radio:** permiten a los usuarios seleccionar una opción entre una serie de opciones mutuamente excluyentes.
+
+**Listas desplegables:** ofrecen la misma funcionalidad que los botones de radio, pero en un espacio más compacto, permitiendo presentar un mayor número de opciones de manera eficiente.
+
+**Cajas de lista:** ofrecen la misma funcionalidad que las casillas de verificación, pero en un espacio mas compacto, permitiendo presentar un mayor numero de opciones de manera eficiente. 
+
+**Campos de texto:** permiten a los usuarios introducir texto.
+
+**Botones de acción:** ordenan al sistema que recoja la información que el usuario ha introducido a través de otros elementos de interfaz y que haga algo con ello. 
+
+Las técnicas que se han presentado son sugerencias para mejorar la experiencia al usuario, hay muchas técnicas más y es el creador del sitio web el que debe seleccionar qué técnica es más adecuada en cada momento. 
+
+
 ### 6. Interfaces de usuario más simples 
 En un principio, el objetivo del diseñador siempre es diseñar una interfaz fácil de usar, simple e intuitiva. Pero cuando se empieza a diseñar la página, la simplicidad se pierde y la página pasa a ser más compleja.
 
