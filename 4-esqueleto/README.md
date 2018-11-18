@@ -74,7 +74,8 @@ Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
 
  Utilizados representar con mas precisión los elementos. "Sirven, por ejemplo, para detallar el proceso interactivo global de una o varias tareas concretas. Son prototipos o maquetas dinámicas, normalmente en (X)HTML, que simulan o tienen implementadas partes del sistema final a desarrollar." 
 
-**El objetivo de hacer los prototipos es darnos la posibilidad de evaluar algunos aspectos del diseño de forma temprana, hacer prototipos de forma rapida, incluso como vimos, directamente con lapiz y papel, ademas de poder evaluar facilmente con el cliente y el equipo el entendimiento común sobre cada aspecto del proyecto, refinar y hacer ajustes que sean necesarios, detectar inconsistencias y tambien oportunidades para lograr mejores soluciones que cumplan los objetivos de todas las partes antes de tener el producto final. Una vez que estemos en la siguiente etapa, se podrán hacer cambios, pero los costos y el tiempo serán mucho mayores**
+**El objetivo de hacer los prototipos es darnos la posibilidad de evaluar algunos aspectos del diseño de forma temprana, hacer prototipos de forma rapida, incluso como vimos, directamente con lapiz y papel, ademas de poder evaluar facilmente con el cliente y el equipo el entendimiento común sobre cada aspecto del proyecto, refinar y hacer ajustes que sean necesarios, detectar inconsistencias y tambien oportunidades para lograr mejores soluciones que cumplan los objetivos de todas las partes antes de tener el producto final. Una vez que estemos en la siguiente etapa, se podrán hacer cambios, pero los costos y el tiempo serán mucho mayores.**
+
 **Entonces, si somos capaces de reconocer el valor de estas herramientas y sacarles el maximo provecho, la siguiente etapa producira mejores resultados en todos los sentidos.**
 
 ## Cómo es un wireframe 
