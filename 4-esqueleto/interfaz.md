@@ -22,17 +22,17 @@ La estabilidad funcional depende específicamente de que todo en la plataforma s
 
 En este apartado se definen los elementos de interfaz adecuados que permiten mejorar la experiencia que tenga el usuario al navegar por un sitio web. Las siguientes técnicas son algunas sugerencias para que el usuario navegue fácilmente por el sitio web, pero en cada momento se debe elegir y seleccionar la técnica más apropiada. 
 
-####COLOR
+#### COLOR
 **El color atrae la atención:** la selección del color hace que el usuario preste más atención o menos al contenido. Por ello, se debe tener en cuenta el color que se elige. Por ejemplo los colores cálidos como el rojo, amarillo y naranja son llamativos, por lo que tienen a atraer la atención y el ojo del usuario tiende a buscarlos. 
 
 **Contraste para administrar la atención:** está técnica permite ordenar los elementos jerárquicamente, por ejemplo resaltando con colores oscuros elementos del sitio web más importantes e ir utilizando colores más claros para los elementos que siguen en relevancia.
 
-####ESPACIADO
+#### ESPACIADO
 **El espacio en blanco para relacionar:** agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
 
 **Espacio entre letras:** está técnica es útil si se quiere elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
 
-####SELECCIONAR OPCIONES
+#### SELECCIONAR OPCIONES
 **Casillas de verificación:** permiten a los usuarios seleccionar opciones, independientemente unas de otras.
 
 **Botones de radio:** permiten a los usuarios seleccionar una opción entre una serie de opciones mutuamente excluyentes.
