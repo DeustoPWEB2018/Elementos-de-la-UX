@@ -16,21 +16,43 @@ La interfaz tiene como objetivo principal generar la interacción entre el indiv
 La estabilidad funcional depende específicamente de que todo en la plataforma se encuentre ordenado y que al momento de clicar los enlaces se dirijan al contenido esperado. Por ejemplo, si quiero realizar la compra de un producto online y clico en la imagen del producto, pero a la hora de clicar, el producto es otro, el usuario se sentirá engañado o si el enlace arroja un error una y otra vez la persona abandonará el sitio. Por esta razón la primera impresión que tenga el usuario frente al sitio web será crucial ya que de ello depende si se queda o no. La plataforma debe tener un orden y ese orden debe ser visible y fácil de comprender.
 
 ### 4. Principios básicos 
+Para poder diseñar interfaces de usuario, cualquiera es capaz de hacerlo siempre y cuando tenga en cuenta los 6 principios básicos sobre el diseño de interfaces de usuario. 
+
+1.	Interfaces claras y precisas
+Hay que evitar que el usuario tenga problemas para usar el sitio web, para ello es imprescindible que el usuario pueda reconocer bien lo que está viendo, saber para qué se usa, y entender cómo la interfaz le ayudará a interactuar con la aplicación. Para ello, se deben diseñar interfaces claras y precisas recordando qué es la interacción la función principal de la interfaz 
+De nada sirve tener una interfaz que parezca obra de arte, si esta no cumple con lo mínimo de su objetivo. 
+
+2.	Dar el control a los usuarios
+Hay que garantizar que el usuario sienta el control de la situación, para ello se puede añadir en varias partes de la interfaz los estatus y pasos que conlleva el proceso que el usuario esté llevando. Se debe informar en todo momento al usuario de su estado. 
+
+3.	Define bien tus acciones primarias y secundarias
+Se debe mantener un proceso secuencial, tratando de mantener una acción primaria por pantalla permitiendo al usuario que aprenda de manera más fácil el proceso.
+ 
+4.	Da importancia a la consistencia 
+Hay que tratar de utilizar siempre diseños genéricos para que a partir de ahí se pueda ir especificando lo necesario para cada parte. 
+
+5.	Utiliza la jerarquía visual 
+Al establecer una correcta jerarquía entre los elementos que componen la interfaz, se establecerán los niveles de importancia que ayudarán a determinar los estilos a aplicar. 
+
+6.	Organiza tus elementos de manera adecuada
+Se debe aprender  a agrupar elementos, relacionarlos, para que de esta manera se pueda identificar la orientación y colocación adecuada. En consecuencia, el usuario no tendrá que ponerse a averiguar cuál es la relación que existe entre un elemento y otro, porque la misma interfaz le estará proporcionando esa información.
+ 
+Teniendo en cuenta estos 6 principios básicos, a continuación en el siguiente apartado se encuentran algunas sugerencias para mejorar el diseño de la interfaz. 
 
 
-### 5. Técnicas para mejorar el diseño 
+### 5. Técnicas para mejorar el diseño de la interfaz
 
-En este apartado se definen los elementos de interfaz adecuados que permiten mejorar la experiencia que tenga el usuario al navegar por un sitio web. Las siguientes técnicas son algunas sugerencias para que el usuario navegue fácilmente por el sitio web, pero en cada momento se debe elegir y seleccionar la técnica más apropiada. 
+En este apartado se definen los elementos de interfaz adecuados que permiten mejorar la experiencia que tenga el usuario al navegar por un sitio web. Las siguientes técnicas son algunas sugerencias para que el usuario navegue fácilmente por el sitio web.
 
 #### COLOR
-* El color atrae la atención: la selección del color hace que el usuario preste más atención o menos al contenido. Por ello, se debe tener en cuenta el color que se elige. Por ejemplo los colores cálidos como el rojo, amarillo y naranja son llamativos, por lo que tienen a atraer la atención y el ojo del usuario tiende a buscarlos. 
+* El color atrae la atención: la selección del color hace que el usuario preste más atención o menos al contenido. Por ello, se debe tener en cuenta el color que se elige. Por ejemplo, los colores cálidos como el rojo, amarillo y naranja son llamativos, por lo que tienden a atraer la atención y el ojo del usuario tiende a buscarlos. 
 
 * Contraste para administrar la atención: está técnica permite ordenar los elementos jerárquicamente, por ejemplo resaltando con colores oscuros elementos del sitio web más importantes e ir utilizando colores más claros para los elementos que siguen en relevancia.
 
 #### ESPACIADO
 * El espacio en blanco para relacionar: agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
 
-* Espacio entre letras: está técnica es útil si se quiere elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
+* Espacio entre letras: está técnica es útil si se quieren elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
 
 #### SELECCIÓN DE OPCIONES
 * Casillas de verificación: permiten a los usuarios seleccionar opciones, independientemente unas de otras.
@@ -45,7 +67,7 @@ En este apartado se definen los elementos de interfaz adecuados que permiten mej
 
 * Botones de acción: ordenan al sistema que recoja la información que el usuario ha introducido a través de otros elementos de interfaz y que haga algo con ello. 
 
-Las técnicas que se han presentado son sugerencias para mejorar la experiencia al usuario, hay muchas técnicas más y es el creador del sitio web el que debe seleccionar qué técnica es más adecuada en cada momento. 
+Las técnicas que se han presentado son sugerencias para mejorar la experiencia al usuario, hay muchas técnicas más y es el creador del sitio web el que debe seleccionar qué técnica es la más adecuada en cada momento. 
 
 
 ### 6. Interfaces de usuario más simples 
