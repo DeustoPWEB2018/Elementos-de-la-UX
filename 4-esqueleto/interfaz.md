@@ -28,22 +28,22 @@ En este apartado se definen los elementos de interfaz adecuados que permiten mej
 **- Contraste para administrar la atención:** está técnica permite ordenar los elementos jerárquicamente, por ejemplo resaltando con colores oscuros elementos del sitio web más importantes e ir utilizando colores más claros para los elementos que siguen en relevancia.
 
 #### ESPACIADO
-** El espacio en blanco para relacionar:** agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
+* El espacio en blanco para relacionar: agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
 
-**- Espacio entre letras:** está técnica es útil si se quiere elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
+* Espacio entre letras: está técnica es útil si se quiere elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
 
 #### SELECCIONAR OPCIONES
-**- Casillas de verificación:** permiten a los usuarios seleccionar opciones, independientemente unas de otras.
+* Casillas de verificación: permiten a los usuarios seleccionar opciones, independientemente unas de otras.
 
-**- Botones de radio:** permiten a los usuarios seleccionar una opción entre una serie de opciones mutuamente excluyentes.
+* Botones de radio: permiten a los usuarios seleccionar una opción entre una serie de opciones mutuamente excluyentes.
 
-**- Listas desplegables:** ofrecen la misma funcionalidad que los botones de radio, pero en un espacio más compacto, permitiendo presentar un mayor número de opciones de manera eficiente.
+* Listas desplegables: ofrecen la misma funcionalidad que los botones de radio, pero en un espacio más compacto, permitiendo presentar un mayor número de opciones de manera eficiente.
 
-**- Cajas de lista:** ofrecen la misma funcionalidad que las casillas de verificación, pero en un espacio mas compacto, permitiendo presentar un mayor numero de opciones de manera eficiente. 
+* Cajas de lista: ofrecen la misma funcionalidad que las casillas de verificación, pero en un espacio mas compacto, permitiendo presentar un mayor numero de opciones de manera eficiente. 
 
-**- Campos de texto:** permiten a los usuarios introducir texto.
+* Campos de texto: permiten a los usuarios introducir texto.
 
-**- Botones de acción:** ordenan al sistema que recoja la información que el usuario ha introducido a través de otros elementos de interfaz y que haga algo con ello. 
+* Botones de acción: ordenan al sistema que recoja la información que el usuario ha introducido a través de otros elementos de interfaz y que haga algo con ello. 
 
 Las técnicas que se han presentado son sugerencias para mejorar la experiencia al usuario, hay muchas técnicas más y es el creador del sitio web el que debe seleccionar qué técnica es más adecuada en cada momento. 
 
