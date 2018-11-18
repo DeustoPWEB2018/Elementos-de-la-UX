@@ -28,7 +28,7 @@ En este apartado se definen los elementos de interfaz adecuados que permiten mej
 **- Contraste para administrar la atención:** está técnica permite ordenar los elementos jerárquicamente, por ejemplo resaltando con colores oscuros elementos del sitio web más importantes e ir utilizando colores más claros para los elementos que siguen en relevancia.
 
 #### ESPACIADO
-**- El espacio en blanco para relacionar:** agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
+** El espacio en blanco para relacionar:** agregar un espacio en blanco considerado entre cada sección es importante para que el contenido del sitio web sea más legible. 
 
 **- Espacio entre letras:** está técnica es útil si se quiere elaborar títulos con estética agradable u original. Un par de píxeles de espacio entre las letras hacen una gran diferencia en el estilo de la fuente. 
 
