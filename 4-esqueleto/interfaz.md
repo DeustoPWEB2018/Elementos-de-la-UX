@@ -18,23 +18,29 @@ La estabilidad funcional depende específicamente de que todo en la plataforma s
 ### 4. Principios básicos 
 Para poder diseñar interfaces de usuario, cualquiera es capaz de hacerlo siempre y cuando tenga en cuenta los 6 principios básicos sobre el diseño de interfaces de usuario. 
 
-1.	Interfaces claras y precisas
+1.	Interfaces claras y precisas:
+
 Hay que evitar que el usuario tenga problemas para usar el sitio web, para ello es imprescindible que el usuario pueda reconocer bien lo que está viendo, saber para qué se usa, y entender cómo la interfaz le ayudará a interactuar con la aplicación. Para ello, se deben diseñar interfaces claras y precisas recordando qué es la interacción la función principal de la interfaz 
 De nada sirve tener una interfaz que parezca obra de arte, si esta no cumple con lo mínimo de su objetivo. 
 
-2.	Dar el control a los usuarios
+2.	Dar el control a los usuarios:
+
 Hay que garantizar que el usuario sienta el control de la situación, para ello se puede añadir en varias partes de la interfaz los estatus y pasos que conlleva el proceso que el usuario esté llevando. Se debe informar en todo momento al usuario de su estado. 
 
-3.	Define bien tus acciones primarias y secundarias
+3.	Define bien tus acciones primarias y secundarias:
+
 Se debe mantener un proceso secuencial, tratando de mantener una acción primaria por pantalla permitiendo al usuario que aprenda de manera más fácil el proceso.
  
-4.	Da importancia a la consistencia 
+4.	Da importancia a la consistencia:
+
 Hay que tratar de utilizar siempre diseños genéricos para que a partir de ahí se pueda ir especificando lo necesario para cada parte. 
 
-5.	Utiliza la jerarquía visual 
+5.	Utiliza la jerarquía visual:
+
 Al establecer una correcta jerarquía entre los elementos que componen la interfaz, se establecerán los niveles de importancia que ayudarán a determinar los estilos a aplicar. 
 
-6.	Organiza tus elementos de manera adecuada
+6.	Organiza tus elementos de manera adecuada:
+
 Se debe aprender  a agrupar elementos, relacionarlos, para que de esta manera se pueda identificar la orientación y colocación adecuada. En consecuencia, el usuario no tendrá que ponerse a averiguar cuál es la relación que existe entre un elemento y otro, porque la misma interfaz le estará proporcionando esa información.
  
 Teniendo en cuenta estos 6 principios básicos, a continuación en el siguiente apartado se encuentran algunas sugerencias para mejorar el diseño de la interfaz. 
