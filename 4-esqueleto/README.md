@@ -2,12 +2,72 @@
 
 ## Introducción 
 
+El etiquetado es una forma de representación. Al igual que usamos palabras habladas para representar conceptos y pensamientos, usamos etiquetas para representar grandes porciones de información en nuestros sitios web. Por ejemplo, "Contáctenos" es una etiqueta que representa una parte del contenido, que a menudo incluye un nombre de contacto, una dirección e información de teléfono, fax y correo electrónico. No puede presentar toda esta información de forma rápida y eficaz en una página web ya llena de usuarios sin abrumar a los usuarios impacientes que realmente no necesitan esa información. En cambio, una etiqueta cómo "Contáctenos" funciona como un atajo que activa la asociación correcta en la mente del usuario sin presentar todo eso de manera prominente.
+
 ## ¿Por qué debemos preocuparnos por el sistema de etiquetado? 
+
+Desafortunadamente, cuando "conversamos" con los usuarios a través de los sitios web que diseñamos, los comentarios no son tan inmediatos, si es que existen. Ciertamente hay excepciones, por ejemplo, los blogs, pero en la mayoría de los casos, un sitio sirve como intermediario que traduce lentamente los mensajes de los propietarios y autores del sitio a los usuarios, y viceversa. Este "juego telefónico" confunde el mensaje. Por lo tanto, en un medio desintermediado con pocas señales visuales, la comunicación es más difícil y, por lo tanto, el etiquetado es más importante.
+
+Para minimizar esta desconexión, los arquitectos de información deben esforzarse al máximo para diseñar etiquetas que hablen el mismo idioma que los usuarios de un sitio al tiempo que reflejan su contenido. Y, al igual que en un diálogo, cuando hay una pregunta o confusión sobre una etiqueta, debe haber aclaración y explicación. Las etiquetas deben educar a los usuarios sobre nuevos conceptos y ayudarles a identificar rápidamente los que les son familiares. 
+
+La conversación entre el usuario y el propietario del sitio generalmente comienza en la página principal de un sitio. Para tener una idea de lo exitosa que puede ser esta conversación, consulte la página principal de un sitio, haga su mejor esfuerzo para ignorar los otros aspectos de su diseño y hágase algunas preguntas: ¿Se destacan las etiquetas destacadas de esta página? Si lo hacen, ¿por qué? (A menudo, las etiquetas exitosas son invisibles; no se interponen en su camino). Si una etiqueta es nueva, no está anticipada o es confusa, ¿hay alguna explicación? ¿O es necesario que hagas clic para obtener más información? Aunque no es científico, este ejercicio de prueba de etiquetas le ayudará a tener una idea de cómo podría ir la conversación con los usuarios reales.
+
+Al igual que la escritura o cualquier otra forma de comunicación profesional, las etiquetas son importantes. Es justo decir que son tan integrales para una presencia web efectiva como cualquier otro aspecto de su sitio web, ya sea marca, diseño visual, funcionalidad, contenido o navegabilidad.
 
 ## Variedades de Etiquetas
 
+En la Web, nos encontramos regularmente con etiquetas en dos formatos: textual e icónico. Trataremos de las etiquetas de texto ya que siguen siendo las más comunes a pesar de la naturaleza altamente visual de la Web. Incluyen:
+
+#### Enlaces contextuales
+
+Hipervínculos a fragmentos de información en otras páginas o en otra ubicación en la misma página. Las etiquetas describen los enlaces de hipertexto dentro del cuerpo de un documento o parte de la información, y naturalmente ocurren dentro del contexto descriptivo de su texto circundante. Los enlaces contextuales son fáciles de crear y son la base de la emocionante interconexión que impulsa gran parte del éxito de la Web. Para ser más representativos del contenido al que se conectan, los enlaces contextuales dependen, en cambio, del contexto, naturalmente. Si el autor del contenido logra establecer ese contexto en su escritura, entonces la etiqueta obtiene un significado del texto que lo rodea. Si no lo hace, la etiqueta pierde su valor representativo, y los usuarios tienen más probabilidades de experimentar sorpresas a veces groseras. 
+
+Por ejemplo el sitio Fidelity está dedicado a brindar información a los inversionistas, los enlaces contextuales deben ser directos y significativos. Las etiquetas de enlaces contextuales de Fidelity, cómo "socks", "mutual funds" y "Learn how to invest", son representativas, y se basan en el texto y encabezados que lo rodean para aclarar qué tipo de ayuda recibirá si hace clic en.
+
+![Sitio Fidelity](enlaces.png)
+
+#### Encabezados 
+
+Etiquetas que simplemente describen el contenido que las sigue, tal como lo hacen los encabezados impresos. Los encabezados, como se muestra en el ejemplo siguiente, se usan a menudo para establecer una jerarquía dentro de un texto. Al igual que en un libro, donde los encabezados nos ayudan a distinguir capítulos de secciones, también nos ayudan a determinar los subsitios de un sitio, o a diferenciar categorías de subcategorías.
+
+![Headings](headings.png)
+
+La numeración, las viñetas, los espacios en blanco y los espacios en blanco verticales ayudan al lector a distinguir las etiquetas de encabezado.
+
+#### Opciones de sistema de navegación 
+
+Etiquetas que representan las opciones en los sistemas de navegación. Los usuarios confían en que un sistema de navegación se comporte "racionalmente" a través de la ubicación y apariencia de la página; Las etiquetas no deben ser diferentes. Las etiquetas aplicadas de manera efectiva son parte integral de la construcción de una sensación de familiaridad, por lo que es mejor que no cambien de una página a otra. Es por eso que usar la etiqueta "Principal" en una página, "Página principal" en otra y "Hogar" en otra parte podría destruir la familiaridad que el usuario necesita cuando navega por un sitio. En el ejemplo siguiente, las cuatro etiquetas del sistema de navegación horizontal: "Getting started", "Our funds", "Planning" y "My account" se aplican de manera uniforme en todo el sitio, y serían aún más efectivos si los colores y las ubicaciones También fueron consistentes.
+
+![Navegacion](navegacion.png)
+
+Debería considerar seleccionar una de cada una de estas categorías y aplicarla de manera consistente, ya que estas etiquetas ya son familiares para la mayoría de los usuarios de la web. Aquí hay una lista no exhaustiva:
+
+* Principal, Página principal, Inicio
+* Buscar, buscar, navegar, buscar / navegar
+* Mapa del sitio, contenidos, tabla de contenidos, índice
+* Contacto, Contáctenos
+* Ayuda, FAQ, Preguntas frecuentes
+* Noticias, Noticias y Eventos, Noticias y Anuncios, Anuncios.
+* Acerca de, Acerca de nosotros, Acerca de < nombre de la empresa >, Quiénes somos
+
+#### Términos del índice
+
+Palabras clave, etiquetas y encabezados de materia que representan el contenido para la búsqueda o navegación. 
+Los conjuntos de etiquetas de índice de índice, a menudo denominadas palabras clave, etiquetas, metadatos descriptivos, taxonomías, vocabularios controlados y tesauros, se pueden usar para describir cualquier tipo de contenido: sitios, subsitios, páginas, fragmentos de contenido, etc. Al representar el significado de un fragmento de contenido, los términos de índice permiten una búsqueda más precisa que simplemente buscar el texto completo del contenido: alguien ha evaluado el significado del contenido y lo ha descrito utilizando términos de índice, y buscar esos términos debería ser más efectivo que tener un El motor de búsqueda hace coincidir una consulta con el texto completo del contenido.
+
+En la imagen siguiente, este índice del sitio de la BBC se genera a partir de etiquetas de términos de índice, que, a su vez, se utilizan para identificar el contenido de muchas unidades de negocios de Sun diferentes. Gran parte del contenido al que ya se puede acceder a través del sistema de organización principal del sitio de la BBC también es accesible mediante la navegación de estos términos de índice (por ejemplo, palabras clave)
+
+![Indice](index.png)
+
+#### Etiquetas icónicas 
+
+Los iconos pueden representar información de la misma manera que el texto. Los vemos más utilizados como etiquetas de sistema de navegación. Además, los íconos ocasionalmente sirven como etiquetas de encabezado e incluso se sabe que aparecen como etiquetas de enlace, aunque esto es raro. El problema con las etiquetas icónicas es que constituyen un lenguaje mucho más limitado que el texto. Es por eso que se usan más comúnmente para etiquetas de sistema de navegación o de sistemas de pequeñas organizaciones, donde la lista de opciones es pequeña, que para conjuntos más grandes de etiquetas como los términos de índice, donde los "vocabularios" icónicos se superan rápidamente. Aun así, las etiquetas icónicas siguen siendo una propuesta arriesgada en términos de si pueden o no representar un significado. Por ejemplo, la imagen siguiente es una ayuda de navegación del sitio web de jetBlue. Pero, ¿qué significan los iconos para ti?
+
+![Iconos](iconos.png)
+
 ## Diseño de Etiquetas
 El diseño de las etiquetas es un arte complejo, y no una ciencia exacta. Establecer las etiquetas más adecuadas nunca resulta fáci. Y es que el lenguaje es ambiguo y siempre existen distintas interpretaciones de las palabras. Como existen sinónimos de casi todos los conceptos, y su interpretación es subjetiva, una etiqueta nunca tendrá el mismo sentido en el 100% de los usuarios. Sin embargo, existen unas pautas a seguir para facilitar un buen diseño de etiquetas.
+
 ### Consejos generales
 Ya que describir un tipo de contenido con un solo concepto resulta complicado, conviene seguir estos dos pasos:
 - Limitar el alcance de la página web a una audiencia limitada. Al reducir y especificar el público objetivo, las prespectivas sobre el significado de las distintas etiquetas también se reducirá. Además, conviene dividir los contenido en subtemas, para que la etiqueta sea más específica, y se relacione con un campo reducido. 
