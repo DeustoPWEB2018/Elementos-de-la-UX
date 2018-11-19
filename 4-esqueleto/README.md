@@ -7,10 +7,27 @@
 ## Variedades de Etiquetas
 
 ## Diseño de Etiquetas
+El diseño de las etiquetas es un arte complejo, y no una ciencia exacta. Establecer las etiquetas más adecuadas nunca resulta fáci. Y es que el lenguaje es ambiguo y siempre existen distintas interpretaciones de las palabras. Como existen sinónimos de casi todos los conceptos, y su interpretación es subjetiva, una etiqueta nunca tendrá el mismo sentido en el 100% de los usuarios. Sin embargo, existen unas pautas a seguir para facilitar un buen diseño de etiquetas.
+### Consejos generales
+Ya que describir un tipo de contenido con un solo concepto resulta complicado, conviene seguir estos dos pasos:
+- Limitar el alcance de la página web a una audiencia limitada. Al reducir y especificar el público objetivo, las prespectivas sobre el significado de las distintas etiquetas también se reducirá. Además, conviene dividir los contenido en subtemas, para que la etiqueta sea más específica, y se relacione con un campo reducido. 
+- No crear etiquetas sueltas, sino que un sistema de etiquetas. Las etiquetas de la web no deben ser conceptos sueltos sin relación entre sí. Todas tienen que tener un sentido en su totalidad. Esto se consigue mediante las siguientes pautas:
+	- Estilo: es uso de signos de puntuación en las etiquetas es un problema común. Este problema puede abordarse mediante el uso de guías de estilo.
+	- Presentación: sirve de ayuda que todas las etiquetas de la web tengan el mismo color, tamaño, la misma fuente... 
+	- Sintaxis: se debe seguir una pauta para nombrar todas las etiquetas. Puede que tengan verbos como base: limpiando tu perro; sustantivos: Dieta para tu perro, o preguntas: ¿cómo tienes que entrenar a tu perro? 
+	- Granularidad: puede ser útol presentar etiquetas que sean aproximadamente iguales, pero específicos.
+	- Comprensividad: si por ejemplo en una tienda de ropa se ennumeran solamente las etiquetas zapatos, corbatas y pantalones, el usuario puede pensar que la tienda no ofrece camisetas. Sin embargo, si el alcance de la web está bien limitado estas dudas podrían desaparecer.
+	- Audiencia: se debe de tener en cuenta el lenguaje del público potencial.
 
 ## Creación de nuevos sistemas de etiquetado
 
 ## Creación de nuevos sistemas de etiquetado
+
+### Fuentes para crear sistemas de etiquetado
+Esta puede resultas una de las partes más sencillas del proyecto. La creación de sistemas de etiquetas nunca parte de cero, ya que las etiquetas ya existen. Conviene aprender de los sistemas ya existentes, y poder mantener algunas etiquetas. Investigando en las tres fuentes mencionadas a continuación llegarás a tu objetivo con relativa facilidad:
+- Tu propia web: seguramente, durante las partes previas del proyecto habrás pensado en algunas etiquetas. Hay que mantenerlas, y se recomienda realiar una tabla con ellas. 
+- Páginas web parecidad, y la competencia como fuente. es muy reomendable tomar nota y nuevas ideas de los competidores. Hay que tener en cuenta que el competidor debe tener el mismo público objetivo. Además de recopilar nuevas ideas, podrás identificar etiquetas que se repiten en la mayoría, po lo que el éxito de su uso está casi aseurado.
+- Vocabularios controlados: estos vocabularos están creados por profesionales y expertod, acerca de un tema específico y especializado. Faciltarán tu trabajo, ya que el trabajo de respresentación de los contenidos, y la consistencia de las etiquetas está previamente realizada.
 
 ### Content analysis 
 Una de las opciones para crear nuevos sistemas de etiquetado puede partir de la búsqueda de palabras clave dentro de los contenidos publicados en el sitio web, realizando una amplia selección de palabras que consiste en una búsqueda manual a lo largo del texto. Para ello, debería seleccionarse un determinado número de contenidos y realizar la búsqueda de palabras clave en el titular, sumario o entradilla del texto, puesto que suelen ser formatos o estilos cuyo fin es resumir lo más destacado del cuerpo que viene a continuación. 
