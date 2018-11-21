@@ -24,13 +24,13 @@ Hipervínculos a fragmentos de información en otras páginas o en otra ubicaci�
 
 Por ejemplo el sitio Fidelity está dedicado a brindar información a los inversionistas, los enlaces contextuales deben ser directos y significativos. Las etiquetas de enlaces contextuales de Fidelity, cómo "socks", "mutual funds" y "Learn how to invest", son representativas, y se basan en el texto y encabezados que lo rodean para aclarar qué tipo de ayuda recibirá si hace clic en.
 
-![Sitio Fidelity](enlaces.png)
+![Sitio Fidelity](img/enlaces.png)
 
 #### Encabezados 
 
 Etiquetas que simplemente describen el contenido que las sigue, tal como lo hacen los encabezados impresos. Los encabezados, como se muestra en el ejemplo siguiente, se usan a menudo para establecer una jerarquía dentro de un texto. Al igual que en un libro, donde los encabezados nos ayudan a distinguir capítulos de secciones, también nos ayudan a determinar los subsitios de un sitio, o a diferenciar categorías de subcategorías.
 
-![Headings](headings.png)
+![Headings](img/headings.png)
 
 La numeración, las viñetas, los espacios en blanco y los espacios en blanco verticales ayudan al lector a distinguir las etiquetas de encabezado.
 
@@ -38,7 +38,7 @@ La numeración, las viñetas, los espacios en blanco y los espacios en blanco ve
 
 Etiquetas que representan las opciones en los sistemas de navegación. Los usuarios confían en que un sistema de navegación se comporte "racionalmente" a través de la ubicación y apariencia de la página; Las etiquetas no deben ser diferentes. Las etiquetas aplicadas de manera efectiva son parte integral de la construcción de una sensación de familiaridad, por lo que es mejor que no cambien de una página a otra. Es por eso que usar la etiqueta "Principal" en una página, "Página principal" en otra y "Hogar" en otra parte podría destruir la familiaridad que el usuario necesita cuando navega por un sitio. En el ejemplo siguiente, las cuatro etiquetas del sistema de navegación horizontal: "Getting started", "Our funds", "Planning" y "My account" se aplican de manera uniforme en todo el sitio, y serían aún más efectivos si los colores y las ubicaciones También fueron consistentes.
 
-![Navegacion](navegacion.png)
+![Navegacion](img/navegacion.png)
 
 Debería considerar seleccionar una de cada una de estas categorías y aplicarla de manera consistente, ya que estas etiquetas ya son familiares para la mayoría de los usuarios de la web. Aquí hay una lista no exhaustiva:
 
@@ -57,13 +57,13 @@ Los conjuntos de etiquetas de índice de índice, a menudo denominadas palabras 
 
 En la imagen siguiente, este índice del sitio de la BBC se genera a partir de etiquetas de términos de índice, que, a su vez, se utilizan para identificar el contenido de muchas unidades de negocios de Sun diferentes. Gran parte del contenido al que ya se puede acceder a través del sistema de organización principal del sitio de la BBC también es accesible mediante la navegación de estos términos de índice (por ejemplo, palabras clave)
 
-![Indice](index.png)
+![Indice](img/index.png)
 
 #### Etiquetas icónicas 
 
 Los iconos pueden representar información de la misma manera que el texto. Los vemos más utilizados como etiquetas de sistema de navegación. Además, los íconos ocasionalmente sirven como etiquetas de encabezado e incluso se sabe que aparecen como etiquetas de enlace, aunque esto es raro. El problema con las etiquetas icónicas es que constituyen un lenguaje mucho más limitado que el texto. Es por eso que se usan más comúnmente para etiquetas de sistema de navegación o de sistemas de pequeñas organizaciones, donde la lista de opciones es pequeña, que para conjuntos más grandes de etiquetas como los términos de índice, donde los "vocabularios" icónicos se superan rápidamente. Aun así, las etiquetas icónicas siguen siendo una propuesta arriesgada en términos de si pueden o no representar un significado. Por ejemplo, la imagen siguiente es una ayuda de navegación del sitio web de jetBlue. Pero, ¿qué significan los iconos para ti?
 
-![Iconos](iconos.png)
+![Iconos](img/iconos.png)
 
 ## Diseño de Etiquetas
 El diseño de las etiquetas es un arte complejo, y no una ciencia exacta. Establecer las etiquetas más adecuadas nunca resulta fáci. Y es que el lenguaje es ambiguo y siempre existen distintas interpretaciones de las palabras. Como existen sinónimos de casi todos los conceptos, y su interpretación es subjetiva, una etiqueta nunca tendrá el mismo sentido en el 100% de los usuarios. Sin embargo, existen unas pautas a seguir para facilitar un buen diseño de etiquetas.

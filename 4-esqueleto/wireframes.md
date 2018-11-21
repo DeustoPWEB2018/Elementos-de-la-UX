@@ -19,19 +19,19 @@ Existen dos tipos de diagramas:
  - Los PLANOS: se utilizan para organización y funcionamiento.
  - Las MAQUETAS: utilizados para la presentación.
  
- ![Planos y Maquetas](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Planos_Maquetas.png)
+ ![Planos y Maquetas](img/Planos_Maquetas.png)
 
  Veamos a continuación algunos detalles de estos diagramas:
 
 ### Planos
 Conocidos como BluePrint, Architecture Map ó Diagramas de contenido o flujo, tienen como objetivo mostrar una idea tanto de la estructura y organización del sitio como de cuales serán los flujos de navegación del mismo, aquí se muestran dos ejemplos, uno mas simple y otro con un grado mayor de detalles:
 
-![Plano sencillo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Plano_1.png)
+![Plano sencillo](img/Plano_1.png)
 
-![Plano 2 con mas detalle](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/plano_2.png)
+![Plano 2 con mas detalle](img/plano_2.png)
 
 
-El lenguaje para hacer estos planos lo aprendimos en el apartado de diagramación dentro de estructura, para repasarlo, pincha [aquí](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/master/3-estructura/diagramacion.md).
+El lenguaje para hacer estos planos lo aprendimos en el apartado de diagramación dentro de estructura, para repasarlo, pincha [aquí](img/diagramacion.md).
 
 Una herramienta muy buena y gratuita para realizar mapas web sencillos es [XMind](https://www.xmind.net/).
 
@@ -45,9 +45,9 @@ Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
  Son estáticos y muestran a través de dibujos como estarán organizados los elementos de la pagina, se presentan aspectos generales sin entrar a fondo en los detalles:
   - Sketching: "Un sketch es un boceto rápido e informal que se realiza en papel para transmitir una idea o concepto con rapidez y claridad. Suele realizarse durante las entrevista iniciales como técnica eficaz para comunicar al cliente conceptos o proponer alternativas a un problema; también es muy útil durante un brainstorming o en las reuniones con el equipo de trabajo. Es una forma eficaz de comenzar el prototipado de un sitio web, pues permite trabajar ágilmente con varias ideas y esquematizar las páginas".
   
- ![Sketching 1](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Sketching_1.png)
+ ![Sketching 1](img/Sketching_1.png)
 
- ![Sketching 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Sketching_2.png)
+ ![Sketching 2](img/Sketching_2.png)
 
   Para ver como partimos del primer boceto hasta algo con un nivel de detalle mayor podemos ver en esta pagina creada por Yan Schober como describe paso a paso diseñar un sketching pincha [aquí](https://dux.typepad.com/dux/2009/08/sketching-design.html)
  
@@ -55,19 +55,19 @@ Hay distintos tipos, los cuales vamos a agrupar de la siguiente manera:
 
   - StoryBoard: "Secuencia de wireframes que muestran cómo se realiza una tarea".
   
-  ![StoryBoard](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/StoryBoard.png)
+  ![StoryBoard](img/StoryBoard.png)
 
 
    - StoryBoard Navegacional: Es una herramienta de prototipado que propone Granollers que uno dos tipos.
    Algunos lo denominan Wireflows por que es la suma de Wireframes + Flowcharts:
-   ![Wireflows](https://olgacarreras.blogspot.com/2007/02/wireframes.html)
+   ![Wireflows](img/wireflows.png)
 
 
    - Thumbnail Sketches: Es un storyboard pero muchos scketches. Algunos ejemplos:
    
-   ![Thumbnail Sketches 1](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Thumbnail_Sketches_1.png)
+   ![Thumbnail Sketches 1](img/Thumbnail_Sketches_1.png)
 
-   ![Thumbnail Sketches 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/7330d13a9415e31f0b6c70041c17856271b7f302/4-esqueleto/Thumbnail_Sketches_2.png)
+   ![Thumbnail Sketches 2](img/Thumbnail_Sketches_2.png)
 
 
  * **Alta fidelidad** (tambien conocidos como mockUp o prototipo funcional):

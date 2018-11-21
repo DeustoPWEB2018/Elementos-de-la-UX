@@ -1,4 +1,4 @@
-# Plano de Esqueleto
+# Diseño de la navegación
 
 ## Introducion (Mégane)
 
@@ -26,20 +26,20 @@ A veces, los visitantes deben "rebobinar" a la primera página o "adelantar" a l
 
 Por ejemplo: 
 
-![ejemplo](ejemploa.png)
+![ejemplo](img/ejemploa.png)
 
 ### Aceso directo en pagina
 
 Hay varias técnicas para acceder a una página directamente:
 
 - Por lo general, se muestra un recuento lineal de fragmentos de página (por ejemplo, página 1, 2, 3, 4, etc.) junto con los controles de navegación por pasos.
-Por ejemplo : ![ejemplo](ejemplob1.png)
+Por ejemplo : ![ejemplo](img/ejemplob1.png)
 
-- También podemos mostrar el número de elementos en cada página. Por ejemplo: ![ejemplo](ejemplob2.png)
+- También podemos mostrar el número de elementos en cada página. Por ejemplo: ![ejemplo](img/ejemplob2.png)
 
-- Podemos permitir a los usuarios ingresar directamente al segmento al que desean saltar. Esto se puede hacer incrustando un cuadro de texto dentro de las flechas de paginación. Por ejemplo: ![ejemplo](ejemplob3.png)
+- Podemos permitir a los usuarios ingresar directamente al segmento al que desean saltar. Esto se puede hacer incrustando un cuadro de texto dentro de las flechas de paginación. Por ejemplo: ![ejemplo](img/ejemplob3.png)
 
-La combinación de elementos de los ejemplos anteriores también es posible. Generalmente, lo mejor es mostrar las flechas oscurceren, porque proporciona información potencialmente valiosa para orientar al visitante. Por ejemplo: ![ejemplo](ejemplob4.png)
+La combinación de elementos de los ejemplos anteriores también es posible. Generalmente, lo mejor es mostrar las flechas oscurceren, porque proporciona información potencialmente valiosa para orientar al visitante. Por ejemplo: ![ejemplo](img/ejemplob4.png)
 
 ### Organizacion de ruta
 
@@ -55,13 +55,13 @@ Son una representación lineal de la estructura de un sitio. Como vemos, muestra
 Ejemplo: Inicio> Ropa para hombres> Camisas> Camisas de vestir.
 
 #### Sendero 
-La tecnica de sendero es dinámicos. Cualquier página dada mostrará un rastro de ruta de navegación diferente en función de cómo el usuario llegó a la página. Cada ruta da como resultado exactamente el mismo contenido, pero se tomaron diferentes rutas para llegar allí. A diferencia de los senderos de ubicación, que son bastante estáticos, la implementación de este tipo de senderos es más difícil. Por ejemplo : ![ejemplo](ejemplocsandero.PNG)
+La tecnica de sendero es dinámicos. Cualquier página dada mostrará un rastro de ruta de navegación diferente en función de cómo el usuario llegó a la página. Cada ruta da como resultado exactamente el mismo contenido, pero se tomaron diferentes rutas para llegar allí. A diferencia de los senderos de ubicación, que son bastante estáticos, la implementación de este tipo de senderos es más difícil. Por ejemplo : ![ejemplo](img/ejemplocsandero.PNG)
 
 #### Atributor
 Los rutas de navegación de atributos describen una página de alguna manera, en lugar de mostrar su ubicación dentro de un sitio o ruta para llegar allí. Muestran su posición dentro de algún esquema de metadatos, a menudo una jerarquía de temas. Permiten el acceso directo a las categorías principales a través de nombres de categorías vinculados. Mostrar el rastro completo proporciona contexto para los elementos en el nivel más bajo, o los nodos finales.
 
 Por lo tanto, por lo general son complementarios de algún otro mecanismo y, a menudo, no son la única forma de navegar. Se cree popularmente que los rastros de ruta de navegación aumentan la comprensión del usuario del contenido y la estructura del sitio al proporcionar un mayor contexto.
-Por ejemplo: ![ejemplo](ejemplocatributor.png)
+Por ejemplo: ![ejemplo](img/ejemplocatributor.png)
 
 ### Navegación ramificada o en árbol (Leire)
 
