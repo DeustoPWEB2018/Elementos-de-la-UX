@@ -1,7 +1,7 @@
 
 # Tipografía
 
-## 1. Introducción (Mikel)
+## 1. Introducción
 
 La tipografía es fundamental para una página web. Podemos encontrar miles de estilos de tipos tipográficos que nos pueden ser útiles para este último apartado de nuestra página web, y que nos servirán para que nuestros usuarios puedan tener una visita agradable y que puedan entender sin ningún problema nuestros contenidos. 
 
@@ -41,7 +41,7 @@ El texto al estar totalmente justificado elimina el margen variable...
 
 En el mundo de la maquetación fluida (fluid layouts), donde la anchura del cuerpo del texto puede ser dificil de concretar, los textos justificados debemos de usarlos con mucha cautela. 
 
-## 4. Seleccionar una tipografía (Mikel)
+## 4. Seleccionar una tipografía
 
 Como hemos comentado anteriormente, el tipo de tipografía que utilizaremos en nuestra página web es esencial. Bien para la comodidad del usuario, o la legibilidad que tienen a la hora de leer el contenido que haya en ella. 
 
