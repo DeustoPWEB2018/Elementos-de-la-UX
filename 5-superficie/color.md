@@ -52,7 +52,7 @@ Por lo tanto, teniendo en cuenta que el fondo del diseño web es blanco y que el
 Según Mark Fairchild, la tonalidad es el grado en el cual un estímulo puede ser descrito como similar o diferente de los estímulos como rojo, amarillo y azul. La tonalidad se describe mediante una H (*Hue*) y un número, el cuál muestra el grado de tonalidad.  
 
 ## 5. Si dudas usa el azul 
-Si no sabes qué color usar para el diseño de tu página web, usa el azul. El azul es un color muy flexible para trabajar con el mayor número de tipos de sitio. Da igual que tonalidades elijas, puedes variar desde el azul marino hasta el aqua, seguramente aciertes con el tono porque el color azul siempre queda bien.
+Si no sabes qué color usar para destacar ciertos elementos en el diseño de tu página web, usa el azul. El azul es un color muy flexible para trabajar con el mayor número de tipos de sitio. Da igual que tonalidades elijas, puedes variar desde el azul marino hasta el aqua, seguramente aciertes con el tono porque el color azul siempre queda bien.
 
 Aparte del azul, también se puede optar por otros colores como el amarillo o el morado. Estos colores también pueden servir, aunque no quedan bien si se usan tonos demasiado chillones. Estas tonalidades pueden dañar la vista de los usuarios.
 
@@ -62,24 +62,35 @@ Una vez que se haya elegido el color principal que va a ir en el diseño de la p
 ![Variaciones de color](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Variaciones%20del%20color.png)
 
 Podemos utilizar estas variaciones para los siguientes apartados de la página:
- - Efectos de Hover
- ![Efectos de Hover](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Efectos%20de%20Hover.png)
- - Bordes de los marcos
- |[Bordes de los marcos](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Bordes%20de%20los%20marcos.png)
- - Obtener un texto más sutil al del color de resaltado
- ![Texto sutil](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Texto%20sutil.png)
- - Gradientes
- ![Gradientes](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Gradientes.png)
- - Efectos de luz y sombra
- ![Luz y sombra](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/tree/color/5-superficie/imagenes)
+
+- Efectos de Hover
+
+![Efectos de Hover](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Efectos%20de%20Hover.png)
+
+- Bordes de los marcos
+
+|[Bordes de los marcos](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Bordes%20de%20los%20marcos.png)
+
+- Obtener un texto más sutil al del color de resaltado
+
+![Texto sutil](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Texto%20sutil.png)
+
+- Gradientes
+
+![Gradientes](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Gradientes.png)
+
+- Efectos de luz y sombra
+![Luz y sombra](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/tree/color/5-superficie/imagenes)
 
 ## 7. Alejarse de la esquina superior derecha
 Es conveniente alejarse de las tonalidades de la esquina superior derecha. En esta parte suele haber colores muy atractivos, pero conviene usarlos bien si no se quiere estropear el diseño de la página web. Por esta razón, mejor no arriesgarse y descartar estas tonalidades.
 
 A continuación, os enseñaremos un ejemplo de la misma página web con una tonalidad neutra y una tonalidad de la esquina superior derecha.
+
 ![Imagen 1](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Imagen%201.png)
 
 Esta sería una tonalidad neutra. Las zonas que tienen esta tonalidad resaltan en la página, pero no dañan la vista de los lectores, se adapta bien a la vista. Sin embargo, si lo probamos con una tonalidad de la esquina superior derecha ocurre lo siguiente: 
+
 ![Imagen 2](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Imagen%202.png)
 
 Puede que a la gente le resulte atractivo usar este tono, pero la verdad es que es bastante molesto para la vista. Por esta razón, no conviene usar tonalidades de la esquina superior derecha.
