@@ -69,7 +69,7 @@ Podemos utilizar estas variaciones para los siguientes apartados de la página:
 
 - **Bordes de los marcos**
 
-|[Bordes de los marcos](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Bordes%20de%20los%20marcos.png)
+![Bordes de los marcos](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Bordes%20de%20los%20marcos.png)
 
 - **Obtener un texto más sutil al del color de resaltado***
 
@@ -81,7 +81,7 @@ Podemos utilizar estas variaciones para los siguientes apartados de la página:
 
 - **Efectos de luz y sombra**
 
-![Luz y sombra](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/tree/color/5-superficie/imagenes)
+![Luz y sombra](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/tree/color/5-superficie/imagenes/luz.png)
 
 ## 7. Alejarse de la esquina superior derecha
 Es conveniente alejarse de las tonalidades de la esquina superior derecha. En esta parte suele haber colores muy atractivos, pero conviene usarlos bien si no se quiere estropear el diseño de la página web. Por esta razón, mejor no arriesgarse y descartar estas tonalidades.
