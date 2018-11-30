@@ -1,19 +1,21 @@
 # PLANO DE SUPERFICIE
 
 ## 1. Introducción
-Para el desarrollo del diseño web se consideran importantes factores como la estructura, el contenido y el diseño visual. Pero usualmente se deja de lado la importancia que tienen los colores, sin emargo los colores que se usan en la plataforma son de gran importancia ya que le brinda al usuario comodidad y permite que a largo plazo identifique la organización o plataforma de la misma o en otras palabras se crea un sello organizacional. Debido a ello hablaremos de la teoría del color y de qué manera implementarlos en un sitio web. 
+Para el desarrollo del diseño web se consideran importantes factores como la estructura, el contenido y el diseño visual, pero usualmente se deja de lado la importancia que tienen los colores. Sin embargo, los colores que se usan en la plataforma son de gran importancia, ya que le brinda al usuario comodidad y permite que a largo plazo identifique la organización o plataforma de la misma o en otras palabras se crea un sello organizacional. Debido a ello hablaremos de la teoría del color y de qué manera implementarlos en un sitio web. 
 
 Kuler y paletón son unos de los métodos teóricos que existen para aplicar color a un sitio web, pero en realidad no importa cual de ellos use, lo realmente importante es determinar que colores van a implementar y para ello existen 3 posibles opciones: 
 
-- **Esquema de color tridáctilo** que consiste en usar los colores que une a cada extremo del triángulo.
-![Color Gris](/5-superficie/Triadico.png)
+- **Esquema de color triádico** que consiste en usar los colores que une a cada extremo del triángulo.
+
+![Triadico](/5-superficie/tri.png)
 
 - **Esquema de color compuesto:** se deben usar los colores que señala cada extremo de la X. 
 
-![Color Gris](/5-superficie/Compuesto.png)
+![Compuesto](/5-superficie/compuesto.png)
 
-- **Análogos:** son aquellos que se unen por las tres puntas. 
-![Color Gris](/5-superficie/Analogos.png)
+- **Análogos:** son aquellos que se unen por las tres puntas.
+
+![Analogos](/5-superficie/ana.png)
 
 Teniendo en cuenta los tres esquemas el diseñador del sitio web, se puede usar cualquier método teórico para desarrollar e implementar los colores adecuados en la plataforma web. Sin embargo, los colores no solo se enfocan para que el sitio web se vea armónico, además deben llevar al usuario a leer lo que queramos que lean y que su energía visual no se gaste viendo colores muy brillantes. Por ende, el contenido de este trabajo se enfoca en algunos tips que los diseñadores o estudiantes de diseño puedan implementar en los sitios web que quieran crear. 
 
@@ -58,3 +60,6 @@ Según Mark Fairchild, *la tonalidad es el grado en el cual un estímulo puede s
 - Brillo y tonalidad
 
 ## 8. Referencias
+- Kezz Bracey, 6 Beginner "Safety First" Color Guidelines for the Web (en español) 
+- Mark Fairchild, "Color Appearance Models: CIECAM02 and Beyond."" Tutorial slides for IS&T/SID 12th Color Imaging Conference.
+- Thomas Cannon, "Una introducción a la teoría del color para diseñadores web"
