@@ -30,4 +30,8 @@
 
 ## Conclusión
 
-
+## Referencias
+- Como crear sus Propia Normas de Marca por Grace Fussell: https://design.tutsplus.com/es/articles/how-to-create-your-own-brand-guidelines--cms-24901
+- Guías de estilo de StudyPortals: https://styleguide.studyportals.com/student/principles
+- Guías de estilo de University of Edinburgh: https://www.ed.ac.uk/files/atoms/files/brand-essentials-chapter-8-digital-brand-version-1-sep-2017.pdf
+- Guías de estilo de Universidad Politécnica de Valencia: http://www.upv.es/entidades/ASIC/manuales/guia_estilos_upv.pdf
