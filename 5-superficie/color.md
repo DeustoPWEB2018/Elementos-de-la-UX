@@ -3,17 +3,17 @@
 ## 1. Introducción
 Para el desarrollo del diseño web se consideran importantes factores como la estructura, el contenido y el diseño visual, pero usualmente se deja de lado la importancia que tienen los colores. Sin embargo, los colores que se usan en la plataforma son de gran importancia, ya que le brinda al usuario comodidad y permite que a largo plazo identifique la organización o plataforma de la misma o en otras palabras se crea un sello organizacional. Debido a ello hablaremos de la teoría del color y de qué manera implementarlos en un sitio web. 
 
-Kuler y paletón son unos de los métodos teóricos que existen para aplicar color a un sitio web, pero en realidad no importa cual de ellos use, lo realmente importante es determinar que colores van a implementar y para ello existen 3 posibles opciones: 
+Kuler y paletón son unos de los métodos teóricos que existen para aplicar color a un sitio web, pero en realidad no importa cual de ellos use, lo realmente importante es determinar que colores van a implementar y para ello existen tres posibles opciones: 
 
-- **Esquema de color triádico** que consiste en usar los colores que une a cada extremo del triángulo.
+1.1. **Esquema de color triádico** que consiste en usar los colores que une a cada extremo del triángulo.
 
 ![Triadico](/5-superficie/tri.png)
 
-- **Esquema de color compuesto:** se deben usar los colores que señala cada extremo de la X. 
+1.2. **Esquema de color compuesto:** se deben usar los colores que señala cada extremo de la X. 
 
 ![Compuesto](/5-superficie/compuesto.png)
 
-- **Análogos:** son aquellos que se unen por las tres puntas.
+1.3. **Análogos:** son aquellos que se unen por las tres puntas.
 
 ![Analogos](/5-superficie/ana.png)
 
@@ -42,14 +42,14 @@ Recomendaciones:
 ## 4. Elige un color para los destacados
 Antes de empezar a utilizar los colores para el diseño web, hay que tener en cuenta que cuantos más colores se utilicen, más complicado será mantenerlos bajo control.
 
-Por lo tanto, teniendo en cuenta que el fondo del diseño web es blanco y que el texto es gris oscuro, se debe elegir un color para destacar elementos; que podrían ser azul, verde, rosa o **el color que se desees**. 
+Por lo tanto, teniendo en cuenta que el fondo del diseño web es blanco y que el texto es gris oscuro, se debe elegir un color para destacar elementos; que podrían ser azul, verde, rosa o **el color que desees**. 
 
 ¿Cómo se elige el color destacado?
 1.	Crea una caja sobre el color base, es decir en el sitio web.
 2.	Mueve la barra deslizante hacia arriba y hacia abajo y escoge el color que funcione bien con el diseño. 
 3.	Finalmente elige una “tonalidad” (en inglés *Hue*) de color para los elementos destacado del sitio web. 
 
-Según Mark Fairchild, *la tonalidad es el grado en el cual un estímulo puede ser descrito como similar o diferente de los estímulos como rojo, amarillo y azul*. La tonalidad se describe mediante una H (*Hue*) y un número, el cuál muestra el grado de tonalidad.  
+Según Mark Fairchild, la tonalidad es el grado en el cual un estímulo puede ser descrito como similar o diferente de los estímulos como rojo, amarillo y azul. La tonalidad se describe mediante una H (*Hue*) y un número, el cuál muestra el grado de tonalidad.  
 
 ## 5. Si dudas usa el azul (ANE)
 ## 6. Añadir variaciones al color (ANE)
@@ -61,5 +61,5 @@ Según Mark Fairchild, *la tonalidad es el grado en el cual un estímulo puede s
 
 ## 8. Referencias
 - Kezz Bracey, 6 Beginner "Safety First" Color Guidelines for the Web (en español) 
-- Mark Fairchild, "Color Appearance Models: CIECAM02 and Beyond."" Tutorial slides for IS&T/SID 12th Color Imaging Conference.
-- Thomas Cannon, "Una introducción a la teoría del color para diseñadores web"
+- Mark Fairchild, "Color Appearance Models: CIECAM02 and Beyond". Tutorial slides for IS&T/SID 12th Color Imaging Conference.
+- Thomas Cannon, "Una introducción a la teoría del color para diseñadores web".
