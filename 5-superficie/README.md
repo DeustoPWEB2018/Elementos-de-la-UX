@@ -11,6 +11,25 @@
 
 > 1. La portada
 > 
+> Al ser la primera parte a la que tendrá acceso el lector, puede ser oportuno aprovechar para bajar una idea acerca de la identidad de marca.
+> Resumir visualmente a traves del logo, colores y fuente de letra, puede ser  un buen indicativo acerca del perfil detras de la marca.
+> 
+> Ejemplos: 
+> 
+     * Foursquare
+> Como se puede apreciar, el uso de los tres elementos recien mencionados permiten crear a partir de la trama una sensación hipnótica para llamar la atención del lector.
+> 
+> IMAGEN
+> 
+> Para conocer mas sobre la guía de estilo de Foursquare pinche [aquí](https://playfoursquare.s3.amazonaws.com/press/foursquare-brandguide.pdf)
+>    
+     * Universidad del Este de Anglia
+> Tal como se vemos en la imagen, aquí vemos algo mas sobrio, formal y sencillo.  
+>    
+>    IMAGEN
+>    
+> Para ver más sobre la identidad de marca de la Universidad del Este de Anglia pinche [aquí](https://www.uea.ac.uk/polopoly_fs/1.74424!uea_brand_identity_guidelines.pdf#gsc.tab=0&gsc.q=polopoly_fs%201.74424!uea_brand_identity_guidelines.pdf&gsc.sort=)
+> 
 > 2. Contenidos
 > 
 > 3. Los valores de sus marcas
