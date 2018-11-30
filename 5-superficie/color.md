@@ -63,23 +63,24 @@ Una vez que se haya elegido el color principal que va a ir en el diseño de la p
 
 Podemos utilizar estas variaciones para los siguientes apartados de la página:
 
-- Efectos de Hover
+- **Efectos de Hover**
 
 ![Efectos de Hover](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Efectos%20de%20Hover.png)
 
-- Bordes de los marcos
+- **Bordes de los marcos**
 
 |[Bordes de los marcos](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Bordes%20de%20los%20marcos.png)
 
-- Obtener un texto más sutil al del color de resaltado
+- **Obtener un texto más sutil al del color de resaltado***
 
 ![Texto sutil](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Texto%20sutil.png)
 
-- Gradientes
+- **Gradientes**
 
 ![Gradientes](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/color/5-superficie/imagenes/Gradientes.png)
 
-- Efectos de luz y sombra
+- **Efectos de luz y sombra**
+
 ![Luz y sombra](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/tree/color/5-superficie/imagenes)
 
 ## 7. Alejarse de la esquina superior derecha
