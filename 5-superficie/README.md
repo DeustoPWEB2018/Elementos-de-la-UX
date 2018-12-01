@@ -44,7 +44,7 @@
 > Esta sección es ideal para transmitir los valores de marca o slogan de modo que el lector entienda sin confusión que perfil de institución hay del otro lado.
 > Internamente en la institución puede ser importante validar la forma en que funciona la relación de la marca con la compañía a gran escala, y tambien que perspectiva a futuro pueden abrirse.
 > 
-> A continuación se deja traducido al español como primer ejemplo los valores de marca para la Universidad de Edimburgo:
+> Como primer ejemplo se traduce al español la descripción de los valores de marca para la Universidad de Edimburgo:
 *Es importante que el logotipo de la Universidad de Edimburgo se presente de manera sólida y coherente para lograr el máximo impacto.
 A través del uso constante, nuestros valores, investigación, estudiantes y personal estarán representados ante una audiencia global que nos permitirá continuar influyendo en el mundo.
 La importancia y el significado de la marca de la Universidad se encuentran en nuestro Libro de marcas, mientras que la guía diaria de su aplicación se describe a través de una serie de capítulos de esta guía que cubren todos los aspectos de nuestra identidad corporativa.*
@@ -57,6 +57,28 @@ Tambien vamos a ver como lo plantea Foursquare primero y a continuación easyGro
 
 > 4. Guía para los logotipos
 > 
+> Llegamos quizas a una de los puntos mas importantes o reconocidos cuando se habla de identidad de marca. Podría ser basada en un tipo (quizás una firma o en un componente de diseño), simbólico (un gráfico) o una combinación de los dos, pero, definitivamente usted querrá determinar las reglas de cómo debería de ser utilizado su logo.
+
+  La guía de estilo de Grace Fussell detalla muy bien las cosas que deben definirse aquí:
+
+   - ¿Tiene diferentes versiones del logotipo para diferentes usos (por ejemplo, una versión para los membretes, otra versión para la página de inicio de su sitio web)?
+   - ¿Su logotipo aparece en un versión de color o tiene varias versiones de colores diferentes? ¿Le permitirá a las personas usar una versión blanco-negro de su logotipo?
+   - ¿Deberá tener restricciones, por ejemplo, jamas debería ser colocado en un tamaño pequeño o más grande que x cosa?
+   - ¿El logotipo necesita adecuar márgenes alrededor de su perímetro, para establecerlo como parte de otro documento? 
+   - ¿Cómo no debería ser utilizado su logotipo? ¿Puede demostrar algunos ejemplos del uso incorrecto (vea los ejemplos del logotipo de la NASA)?
+
+Sobre el tamaño del logotipo, la marca Penguin define el tamaño mínimo de impresión del icónico logotipo, y sugiere orientaciones para los márgenes.
+![Penguin](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ejemplo.png)
+
+Por otra parte, el ejemplo de la NASA muestra las maneras en que **no** se puede usar su logotipo:
+![NASA](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ejemplo_2.png)
+
+Y a continuación vamos a compartir cuan meticuloso ha sido la Universidad de Edimburgo para especificar de que forma usar su logotipo según diferentes situaciones:
+[Vista general del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej1.png)
+[Uso del logo en plataformas digitales de terceros: avatares](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej2.png)
+[Usando el logo en aplicaciones y tiendas de aplicaciones](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej3.png)
+[Uso incorrecto del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej4.png)
+
 > 5. Orientaciónes del calor
 > 
 > 6. Domé esos Tipos de fuentes
