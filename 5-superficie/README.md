@@ -19,14 +19,14 @@
     Foursquare
 > Como se puede apreciar, el uso de los tres elementos recien mencionados permiten crear a partir de la trama una sensación hipnótica para llamar la atención del lector.
 > 
-> IMAGEN
+> ![Foursquare](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/1_Ejemplo.png)
 > 
 > Para conocer mas sobre la guía de estilo de Foursquare pinche [aquí](https://playfoursquare.s3.amazonaws.com/press/foursquare-brandguide.pdf)
 >    
     Universidad del Este de Anglia
 > Tal como se vemos en la imagen, aquí vemos algo mas sobrio, formal y sencillo.  
 >    
->    IMAGEN
+> ![Universidad del Este de Anglia](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/1_Ejemplo_2.png)
 >    
 > Para ver más sobre la identidad de marca de la Universidad del Este de Anglia pinche [aquí](https://www.uea.ac.uk/polopoly_fs/1.74424!uea_brand_identity_guidelines.pdf#gsc.tab=0&gsc.q=polopoly_fs%201.74424!uea_brand_identity_guidelines.pdf&gsc.sort=)
 > 
@@ -41,7 +41,20 @@
 >   - División del documento en secciones
 > 
 > 3. Los valores de sus marcas
+> Esta sección es ideal para transmitir los valores de marca o slogan de modo que el lector entienda sin confusión que perfil de institución hay del otro lado.
+> Internamente en la institución puede ser importante validar la forma en que funciona la relación de la marca con la compañía a gran escala, y tambien que perspectiva a futuro pueden abrirse.
 > 
+> A continuación se deja traducido al español como primer ejemplo los valores de marca para la Universidad de Edimburgo:
+*Es importante que el logotipo de la Universidad de Edimburgo se presente de manera sólida y coherente para lograr el máximo impacto.
+A través del uso constante, nuestros valores, investigación, estudiantes y personal estarán representados ante una audiencia global que nos permitirá continuar influyendo en el mundo.
+La importancia y el significado de la marca de la Universidad se encuentran en nuestro Libro de marcas, mientras que la guía diaria de su aplicación se describe a través de una serie de capítulos de esta guía que cubren todos los aspectos de nuestra identidad corporativa.*
+
+Tambien vamos a ver como lo plantea Foursquare primero y a continuación easyGroup:
+
+![Foursquare](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/3_Ejemplo.png)
+
+![easyGroup](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/3_Ejemplo2.png)
+
 > 4. Guía para los logotipos
 > 
 > 5. Orientaciónes del calor
