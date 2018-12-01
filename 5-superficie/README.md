@@ -16,14 +16,14 @@
 > 
 > Ejemplos: 
 > 
-     * Foursquare
+    Foursquare
 > Como se puede apreciar, el uso de los tres elementos recien mencionados permiten crear a partir de la trama una sensación hipnótica para llamar la atención del lector.
 > 
 > IMAGEN
 > 
 > Para conocer mas sobre la guía de estilo de Foursquare pinche [aquí](https://playfoursquare.s3.amazonaws.com/press/foursquare-brandguide.pdf)
 >    
-     * Universidad del Este de Anglia
+    Universidad del Este de Anglia
 > Tal como se vemos en la imagen, aquí vemos algo mas sobrio, formal y sencillo.  
 >    
 >    IMAGEN
@@ -31,6 +31,14 @@
 > Para ver más sobre la identidad de marca de la Universidad del Este de Anglia pinche [aquí](https://www.uea.ac.uk/polopoly_fs/1.74424!uea_brand_identity_guidelines.pdf#gsc.tab=0&gsc.q=polopoly_fs%201.74424!uea_brand_identity_guidelines.pdf&gsc.sort=)
 > 
 > 2. Contenidos
+> 
+>  Este apartado puede ser importante si servir de ayuda a los lectores cuando necesitan consultar o chequear una cosa relativo al estilo que debe llevar algo. Sería como un manual a donde podría recurrir por ejemplo a asegurar el tipo de fuente que puedo utilizar según cada caso.
+>  
+> Caracteristicas que debe reunir una pagina de contenidos para que sea buena:
+>   - Sencilla
+>   - Libre de desorden
+>   - Fácil de leer
+>   - División del documento en secciones
 > 
 > 3. Los valores de sus marcas
 > 
