@@ -41,6 +41,7 @@
 >   - División del documento en secciones
 > 
 > 3. Los valores de sus marcas
+> 
 > Esta sección es ideal para transmitir los valores de marca o slogan de modo que el lector entienda sin confusión que perfil de institución hay del otro lado.
 > Internamente en la institución puede ser importante validar la forma en que funciona la relación de la marca con la compañía a gran escala, y tambien que perspectiva a futuro pueden abrirse.
 > 
@@ -74,13 +75,25 @@ Por otra parte, el ejemplo de la NASA muestra las maneras en que **no** se puede
 ![NASA](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ejemplo_2.png)
 
 Y a continuación vamos a compartir cuan meticuloso ha sido la Universidad de Edimburgo para especificar de que forma usar su logotipo según diferentes situaciones:
-[Vista general del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej1.png)
-[Uso del logo en plataformas digitales de terceros: avatares](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej2.png)
-[Usando el logo en aplicaciones y tiendas de aplicaciones](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej3.png)
-[Uso incorrecto del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej4.png)
+![Vista general del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej1.png)
+![Uso del logo en plataformas digitales de terceros: avatares](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej2.png)
+![Usando el logo en aplicaciones y tiendas de aplicaciones](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej3.png)
+![Uso incorrecto del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej4.png)
 
 > 5. Orientaciónes del calor
 > 
+> El uso de colores puede ser un buen medio para transmitir emociones y sentimientos que definen parte de la identidad de marca. Los colores tienen el poder de transmitir vida, alegría, seriedad, lujo, accesibilidad, etc, ya sea con colores puntuales ó la combinación de varios colores.
+
+ Para evitar que el color termine agotando visualmente o que alguien tome el logotipo y cambie arbitrariamente los colores, es importante dedicar un momento y definir que color/es se utilizan y la manera emplearlos así se reducirá el margen de hacer una incorrecta aplicación del logotipo.
+
+La guía de estilo de Grace Fussell plantea estas preguntas:
+  **¿Tiene un color(es) principal(es) de la marca** que deberían ser usados en primera instancia? ¿Tiene algún soporte para los colores de su marca que pueden ser usados en un sitio web, en materiales de publicidad, etc.?
+
+ Ejemplo de la gama de colores utilizada por easyGroup:
+ ![easyGroup](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/5_Ejemplo.png)
+ Ejemplo de la gama de colores utilizada por MailChimp
+ ![MailChimp](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/5_Ejemplo_2.png)
+
 > 6. Domé esos Tipos de fuentes
 > 
 > 7. Cómo usar Gráficos y Fotografía
