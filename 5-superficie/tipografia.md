@@ -7,7 +7,27 @@ La tipografía es fundamental para una página web. Podemos encontrar miles de e
 
 ## 2. Tipografía con CSS (Megane)
 	a. Noción de la fuente
+
+La noción de fuente es muy importante en este caso, se refiere a “Font-family” en CSS. Podemos manipular la tipografía con esta noción. Para definir esta noción, una fuente es “la colección empacada de caracteres; tradicionalmente bloques físicos usados en imprenta, hoy en día también incluyendo archivos digitales.”
+
+Con el CSS podemos determinar las familias de fuentes que preferimos, en orden de preferencia. A esto le llamamos pila de fuentes o “font stack”.
+
+![Fuente1](/5-superficie/Fuente1.png)
+
+Podemos también manipular el grosor de la fuente (Font-weight) a través de las hojas de estilo. Es posible de ir de 100 a un máximo de 900, necesito de tener en cuento que 400 es lo que llama regular. En CSS, puede ser controlada con {font-weight: 300;}, {font-weight: bold;}. 
+
+Ejemplo : 
+![Fuente2](/5-superficie/Fuente2.png)
+
 	b. Opciones para mejorar la legibilidad
+
+Primero debemos hacer una diferencia entre la legibilidad lingüística y la legibilidad formal. Usamos el termino legibilidad formal cuando nos referimos a detalles tipográficos; la capacidad de reconocer letras y palabras individuales. La legibilidad lingüística tiene un rol más funcional, está relacionada con la facilidad que tendrá un lector para comprender o asimilar un bloque o fragmento texto.
+
+En este parte podemos hablar de los cajas, Caja alta (Uppercase) y caja baja (lowercase) hacen referencia a las letras en mayúscula y en minúscula espectivamente. El término caja tiene su origen en los cajetines usados en la impresión con letras de plomo, la caja alta es para las letras mayúsculas, la caja baja hace referencia a minuscula. Cuando uses la caja alta (especialmente con tamaños de letra pequeños) es aconsejable aumentar el espacio entre caracteres para mejorar la legibilidad (tracking). En CSS llamamos a esto "letter-spacing" y puede expresarse con valores positivos y negativos, normalmente medido en centésimas de un em mientras que el tracking afecta a la densidad del carácter en su conjunto dentro de un línea o bloque de texto dado.
+
+Con frecuencia se confunde tracking con kerning. El Kerning hace referencia al ajuste del espacio entre dos pares de letras concretas (no a todo un grupo de caracteres) y se utiliza para mejorar la legibilidad. Pero es dificil de usar el kerning en CSS. Sin embargo, podemos usar de las ligaduras que llevan el kerning al siguiente nivel, ofreciendo el reemplazo con glifos para ciertos pares de caracteres. Ejemplo: & para y.
+
+Ademas, podemos usar tambien de la funcion CSS word-spacing que puede ser util. Modificar el espacio entre las palabras, acrecentándolo o disminuyéndolo, puede tener un impacto significativo en la legibilidad del texto. El espacio de palabras ideal varía de una circunstancia a otra, dependiendo de factores tales como letterfit, tipo de color y tamaño. 
 
 ## 3. Decisiones de maquetación 
 
@@ -43,7 +63,7 @@ En el mundo de la maquetación fluida (fluid layouts), donde la anchura del cuer
 
 ## 4. Seleccionar una tipografía
 
-Como hemos comentado anteriormente, el tipo de tipografía que utilizaremos en nuestra página web es esencial. Bien para la comodidad del usuario, o la legibilidad que tienen a la hora de leer el contenido que haya en ella. 
+Como hemos comentado anteriormente, el "tipo de tipografía que utilizaremos en nuestra página web es esencial. Bien para la comodidad del usuario, o la legibilidad que tienen a la hora de leer el contenido que haya en ella. 
 
 En primer lugar, ¿se trata de una tipografía con serifas (serif) o sin serifas (sans-serif)? Las serifas son esos trazos adicionales que rematan los trazos principales de una tipografía. Fuentes como la Arial no tienen estos remates, son por tanto fuentes de “palo” o sans-serif.
 
