@@ -2,12 +2,50 @@
 
 ## Introducción
 
+En este apartado vamos a explicar qué son las pautas de marcas, también conocidas como "Guías de estilo"; un documento que no solamente establece las reglas a la hora de usar sus "recursos de marca", incluyendo logos, colores y fuentes, si no que también recoge las características más distintivas de la marca, su personalidad.  
+
 ## 1. Que es una guia de estilo
+
+Se trata de un documento que establece la reglas para aplicar los  "recursos de marca", las cuales incluyen los logotipos, colores de marca y fuentes de marca. Todo ello sirve para que la marca se distinga de la competencia. 
+
+El propósito principal del documento de Guías de Marca es el de dar una orientación a terceros a la hora de cómo pueden usar la marca de la compañía cuando creen algo nuevo, tal como unas tarjetas de negocios, anuncios, sitios web, embalaje…, básicamente cualquier cosa que visualmente represente el negocio. 
+
+Incluso si su compañía tiene solamente un empleado, una guía de estilo siempre le ayudará a unir las diferentes formas de presentar la marca visualmente, ayudándole a crear una "identidad de marca" en el proceso.
+
+Cualquiera que sea la escala del negocio, crear una guía de estilo es un recurso práctico y útil. 
 
 ## 2. Porque necesito una guía de estilo
 
+Los diseñadores encajan en dos grupos, aquellos que trabajan por su cuenta, como freelance, o quienes trabajan para una agencia o empresa en concreto. Éstos últimos están más acostumbrados a realizar varios trabajos dentro de las restricciones de las guías de estilo de la empresa, mientras que, los freelance, deben adaptarse a las exigencias de cada cliente, aunque en ocasiones también se les otorga mayor libertad. 
+
+Un cliente podría subcontratar a un diseñador independiente o una agencia para conseguir una perspectiva diferente de su marca, de sus anuncios o de su mercadeo, y como resultado podría estar dispuestos a dejar de lado las restricciones de su marca corporativa para obtener el beneficio que la creatividad trae consigo. 
+
+Podría parecer que las guías de estilo sofocan la creatividad de los diseñadores, ya que les exigen estar dentro de unas normas fijas, en cuanto a los colores, la tipografía, etc… pero realmente, las guías de estilo deberían permitir un mayor desarrollo de la creatividad, ayudando a los diseñadores en su labor. 
+
+"¡Una guía de estilo solamente debería de ser eso —una guía, pero jamás restringir, la creatividad!".
+
+Vamos a echar un vistazo a algunas de las guías de estilo las cuales se adhieren fielmente a este lema y da algunas orientaciones sobre los bloques de construcción esenciales de una guía de estilo eficaz.
+
 ## 3. Los bloques de construcción de una guía de estilo
 
+Crear una guía de estilo toma un poco de trabajo, ya que se compone de varios elementos que hay que pensar previamente. 
+
+Aquí se muestran dos ejemplos, la de la NASA y la de British rail: 
+
+- El exhaustivo manual de identidad corporativa (literalmente exhaustivo, el original Manual de Identidad Corporativa de British Rail (http://www.doublearrow.co.uk/manual.htm), es un clásico, pero solamente lo leen los fanáticos de las marcas.
+
+- La guía de la NASA (https://w3.cs.jmu.edu/bernstdh/web/common/policies/NASA_StyleGuide_Nov06.pdf)
+
+Cada guía de estilo tiene su valor y tendrán los siguientes elementos:
+
+- Una portada
+- Una página de contenidos lema/ética (opcional).
+- Un guía de logotipo
+- Una guía de color
+- Una guía de fuente
+- Una guía para gráficos y/o fotografías
+- Una guía de prácticas recomendadas, con ejemplos útiles
+- Una nota para agradecer a cualquiera que haya leído la guía hasta el final (¡se lo merecen!).
 
 > 1. La portada
 > 
