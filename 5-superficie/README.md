@@ -50,7 +50,7 @@
 A través del uso constante, nuestros valores, investigación, estudiantes y personal estarán representados ante una audiencia global que nos permitirá continuar influyendo en el mundo.
 La importancia y el significado de la marca de la Universidad se encuentran en nuestro Libro de marcas, mientras que la guía diaria de su aplicación se describe a través de una serie de capítulos de esta guía que cubren todos los aspectos de nuestra identidad corporativa.*
 
-Tambien vamos a ver como lo plantea Foursquare primero y a continuación easyGroup:
+ Tambien vamos a ver como lo plantea Foursquare primero y a continuación easyGroup:
 
 ![Foursquare](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/3_Ejemplo.png)
 
@@ -60,21 +60,21 @@ Tambien vamos a ver como lo plantea Foursquare primero y a continuación easyGro
 > 
 > Llegamos quizas a una de los puntos mas importantes o reconocidos cuando se habla de identidad de marca. Podría ser basada en un tipo (quizás una firma o en un componente de diseño), simbólico (un gráfico) o una combinación de los dos, pero, definitivamente usted querrá determinar las reglas de cómo debería de ser utilizado su logo.
 
-  La guía de estilo de Grace Fussell detalla muy bien las cosas que deben definirse aquí:
+> La guía de estilo de Grace Fussell detalla muy bien las cosas que deben definirse aquí:
+>
+>   - ¿Tiene diferentes versiones del logotipo para diferentes usos (por ejemplo, una versión para los membretes, otra versión para la página de inicio de su sitio web)?
+>   - ¿Su logotipo aparece en un versión de color o tiene varias versiones de colores diferentes? ¿Le permitirá a las personas usar una versión blanco-negro de su logotipo?
+>   - ¿Deberá tener restricciones, por ejemplo, jamas debería ser colocado en un tamaño pequeño o más grande que x cosa?
+>   - ¿El logotipo necesita adecuar márgenes alrededor de su perímetro, para establecerlo como parte de otro documento? 
+>   - ¿Cómo no debería ser utilizado su logotipo? ¿Puede demostrar algunos ejemplos del uso incorrecto (vea los ejemplos del logotipo de la NASA)?
 
-   - ¿Tiene diferentes versiones del logotipo para diferentes usos (por ejemplo, una versión para los membretes, otra versión para la página de inicio de su sitio web)?
-   - ¿Su logotipo aparece en un versión de color o tiene varias versiones de colores diferentes? ¿Le permitirá a las personas usar una versión blanco-negro de su logotipo?
-   - ¿Deberá tener restricciones, por ejemplo, jamas debería ser colocado en un tamaño pequeño o más grande que x cosa?
-   - ¿El logotipo necesita adecuar márgenes alrededor de su perímetro, para establecerlo como parte de otro documento? 
-   - ¿Cómo no debería ser utilizado su logotipo? ¿Puede demostrar algunos ejemplos del uso incorrecto (vea los ejemplos del logotipo de la NASA)?
-
-Sobre el tamaño del logotipo, la marca Penguin define el tamaño mínimo de impresión del icónico logotipo, y sugiere orientaciones para los márgenes.
+> Sobre el tamaño del logotipo, la marca Penguin define el tamaño mínimo de impresión del icónico logotipo, y sugiere orientaciones para los márgenes.
 ![Penguin](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ejemplo.png)
-
-Por otra parte, el ejemplo de la NASA muestra las maneras en que **no** se puede usar su logotipo:
+>
+> Por otra parte, el ejemplo de la NASA muestra las maneras en que **no** se puede usar su logotipo:
 ![NASA](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ejemplo_2.png)
 
-Y a continuación vamos a compartir cuan meticuloso ha sido la Universidad de Edimburgo para especificar de que forma usar su logotipo según diferentes situaciones:
+> Y a continuación vamos a compartir cuan meticuloso ha sido la Universidad de Edimburgo para especificar de que forma usar su logotipo según diferentes situaciones:
 ![Vista general del logo](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej1.png)
 ![Uso del logo en plataformas digitales de terceros: avatares](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej2.png)
 ![Usando el logo en aplicaciones y tiendas de aplicaciones](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/4_Ej3.png)
@@ -84,16 +84,16 @@ Y a continuación vamos a compartir cuan meticuloso ha sido la Universidad de Ed
 > 
 > El uso de colores puede ser un buen medio para transmitir emociones y sentimientos que definen parte de la identidad de marca. Los colores tienen el poder de transmitir vida, alegría, seriedad, lujo, accesibilidad, etc, ya sea con colores puntuales ó la combinación de varios colores.
 
- Para evitar que el color termine agotando visualmente o que alguien tome el logotipo y cambie arbitrariamente los colores, es importante dedicar un momento y definir que color/es se utilizan y la manera emplearlos así se reducirá el margen de hacer una incorrecta aplicación del logotipo.
-
-La guía de estilo de Grace Fussell plantea estas preguntas:
+> Para evitar que el color termine agotando visualmente o que alguien tome el logotipo y cambie arbitrariamente los colores, es importante dedicar un momento y definir que color/es se utilizan y la manera emplearlos así se reducirá el margen de hacer una incorrecta aplicación del logotipo.
+>
+> La guía de estilo de Grace Fussell plantea estas preguntas:
   **¿Tiene un color(es) principal(es) de la marca** que deberían ser usados en primera instancia? ¿Tiene algún soporte para los colores de su marca que pueden ser usados en un sitio web, en materiales de publicidad, etc.?
 
- Ejemplo de la gama de colores utilizada por easyGroup:
+> Ejemplo de la gama de colores utilizada por easyGroup:
  ![easyGroup](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/5_Ejemplo.png)
  Ejemplo de la gama de colores utilizada por MailChimp
  ![MailChimp](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/5_Ejemplo_2.png)
-
+>
 > 6. Domé esos Tipos de fuentes
 > 
 > 7. Cómo usar Gráficos y Fotografía
