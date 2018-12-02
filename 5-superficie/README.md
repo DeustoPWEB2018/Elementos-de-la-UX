@@ -136,16 +136,56 @@ La importancia y el significado de la marca de la Universidad se encuentran en n
  Ejemplo de la gama de colores utilizada por MailChimp
  ![MailChimp](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/64051858765c4e72acb207dc97f3aecdd24f5a9b/5-superficie/5_Ejemplo_2.png)
 >
-> 6. Domé esos Tipos de fuentes
-> 
-> 7. Cómo usar Gráficos y Fotografía
-> 
-> 8. Mejores Prácticas
-> 
-> 9. Diga ¡gracias!
->
+> 6. Domé esos tipos de fuentes
+
+Existen unos principios y unas leyes a la hora de utilizar las tipografías y fuentes existentes dentro de un negocio. Para empezar, resulta imprescindible definir estas reglas, por lo que las siguientes consideraciones deberían ser tomadas en cuenta:
+
+•	La importancia de cada tipo de fuente (por ejemplo, Regular, Bold, Light)  que componen su portafolio de su tipo de fuentes.
+•	¿Tiene una fuente para los títulos y otra para el cuerpo del texto? Si es así, ¡aclárelo!
+•	¿Tiene especificaciones de tamaño para su texto, por ejemplo, esta fuente jamás deberá ser más grande que x?
+•	¿Tiene preferencias para la tipografía (por ejemplo, mayúsculas, alineaciones de párrafos, espacio entre caracteres, etc.)? Recuerde, si no lo dice, entonces nadie sabrá cual es la tipografía ideal de la marca y como debería de lucir.
+•	Usted podría tener un tipo de fuente que use exclusivamente en su logotipo. Explíquelo si no quiere que sea utilizado en cualquier parte.
+
+Las normas más efectivas son, sin duda las de Barbican Theater.  Para ello, solo hace falta poner a volar la fuente “Futura”, dándole mucho contraste respecto al fondo.
+De esta manera, la marca se presentará en un estilo colorido que parezca que inspira, no irrita.
+
+7. Cómo usar gráficos y fotografía
+
+Cada marca debe especificar en su guía de estilo cómo deberán ser usadas las imágenes al lado de otros elementos de la marca. Para ello, hay que pensar en lo siguiente:
+
+•	¿Puede el logotipo o el tipo de marca ser puesto sobre la parte de arriba de los gráficos o fotografías? Aconseje a otros para que eviten ajustar su logotipo sobre fondos demasiado cargados, ya que, por lo general es un buen consejo estándar que aplicará a cualquier diseño de marca.
+•	¿Tiene elementos gráficos que pueden ser levantado desde su diseño de logotipo, y que puede ser utilizado en una manera flexible en todos los materiales (a continuación, vea el ejemplo de Las Fuerzas Armadas Suecas)?
+•	Las fotos y los gráficos que fueron seleccionados que deberán ser publicados junto al logotipo, tienen temas en particular o cualidades emotivas?
+•	¿Hay fotos y gráficos que debería evitar?
+ 
+8. Mejores prácticas
+
+Es importante que, a pesar de utilizar ejemplos de la marca en acción en algún lugar, la guía de estilos también incluya dos o tres páginas de ejemplo de las mejores prácticas.
+
+Estos pueden ser ejemplos de carteles en la vida real, exhibición de materiales, volantes, etc. O podría incluir algunas muestras de tarjetas de negocios y otros elementos, mostrando cómo sus recursos de marca (logotipos, tipos de texto, color, etc.) deberían de ser ubicados e impresos.
+
+
+9. Diga ¡Gracias!
+
+Aunque no sea una parte esencial dentro de la guía de estilo, siempre es conveniente dejar una breve nota de gratitud al final de la misma. ¿Por qué? Hay que tener en cuenta que si una persona llega hasta el final del documento es debido al interés generado por el mismo.
+
+Que alguien más dentro del negocio vaya cuidar tanto la marca como una mismo no se puede asumir. La mayoría de ellos ni siquiera paran a leer la guía de estilos. Muchas compañías simplemente permiten a sus trabajadores descargar en línea los logotipos las fuentes y los gráficos. Es por ello que es imprescindible considerar el alojamiento de la marca en línea.
 
 ## Conclusión
+
+Las guías de marca han de ayudar tanto a precursores como empleados a crear materiales de marca que se adecuen a los estándares marcados. La siguiente estructura simple debería ser seguida: 
+
+•	Una cubierta
+•	Una página de contenidos
+•	Valores/eslogan de su marca (opcional).
+•	Una guía para el logotipo
+•	Una guía para el color
+•	Una guía para el tipo de fuente
+•	Una guía para los gráficos y/o fotografías
+•	Una guía para las mejores prácticas de uso, con ejemplos útiles
+•	Una nota de agradecimiento
+
+>
 
 ## Referencias
 - Como crear sus Propia Normas de Marca por Grace Fussell: https://design.tutsplus.com/es/articles/how-to-create-your-own-brand-guidelines--cms-24901
