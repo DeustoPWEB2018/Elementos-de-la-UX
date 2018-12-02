@@ -141,9 +141,12 @@ A su vez, pueden encontrarse situaciones en las que, el ancho de los blancos res
 
 ## Referencias 
 
-Marketing Online Creativate. (2016, 26 enero). *La retícula en diseño web. Características y funciones.* Recuperado 2 diciembre, 2018, de https://www.creativate.es/diseno-web/la-reticula-en-diseno-web-caracteristicas-y-funciones
+Marketing Online Creativate. (2016, 26 enero). *La retícula en diseño web. Características y funciones.* 
+https://www.creativate.es/diseno-web/la-reticula-en-diseno-web-caracteristicas-y-funciones
 
-Aula Formativa. (2018, 15 noviembre). *La regla de los tercios en el diseño web.* Recuperado 2 diciembre, 2018, de https://blog.aulaformativa.com/la-regla-de-los-tercios-en-el-diseno-web/
+Aula Formativa. (2018, 15 noviembre). *La regla de los tercios en el diseño web.*
+https://blog.aulaformativa.com/la-regla-de-los-tercios-en-el-diseno-web/
 
-Gonzales Melquiades, E. (s.f.). *Unidades VH y VW de CSS3.* Recuperado 2 diciembre, 2018, de https://devcode.la/tutoriales/unidades-vh-vw-css/
+Gonzales Melquiades, E. (s.f.). *Unidades VH y VW de CSS3.*
+https://devcode.la/tutoriales/unidades-vh-vw-css/
 
