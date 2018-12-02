@@ -14,17 +14,25 @@ La maquetación de la página web es recomendable hacerla teniendo en cuenta el 
 
 La retícula de cuatro columnas es muy simple, y formal. Puede resultar un tanto aburrida, pero se puede adaptar a la perfección para tu idea de proyecto. Cada columna ocupa tres unidades. Ejemplo de este tipo de diseño es la página de Amazon donde se encuentran todas las categorías de la web:
 
+![Retícula de cuatro columnas](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/rejilla/5-superficie/Imagenes/Amazon.png?raw=true)
+
 ### Retícula de tres columnas
 
 En este tipo de retícula cada columna ocupa cuatro unidades. Este diseño resulta, en teoría, más activo que el de cuatro columnas. Sin embargo, requiere más trabajo, porque es un retícula asimétrica. El diseño de la página principal de Noticias de Gipuzkoa está basado en tres columnas:
+
+![Retícula de tres columnas](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/rejilla/5-superficie/Imagenes/Noticias%20de%20Gipuzkoa.png?raw=true)
 
 ### Retícula de seis columnas
 
 El uso de este diseño de retícula es recomendable cuando uno maneja muchos contenidos e información. Con esta maquetación cada columna ocupa dos unidades.
 
+![Retícula de seis columnas](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/rejilla/5-superficie/Imagenes/6%20columnas.png?raw=true)
+
 ### Combinaciones
 
 Sin embargo, es muy común en las páginas web que se combinen dos o tres tipos de retículas. La web de El Diario Vasco es ejemplo de ello:
+
+![Combinación](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/rejilla/5-superficie/Imagenes/Diario%20Vasco.png?raw=true)
 
 ## Conclusiones (Iñaki)
 
