@@ -2,9 +2,54 @@
 
 ## ¿Qué son las retículas? (Estelle)
 
+La retícula es una herramienta compositiva que tiene como finalidad ajustar la posición de los diferentes elementos que componen la página que estás diseñando. En otras palabras, consiste en líneas "invisibles" sobre las que ubicar los elementos de tu diseño y puede crear una estructura básica, un esqueleto para tu diseño. 
+
+![Reticulas](reticulas.jpg)
+
+Gracias a su uso, dotarás a tu diseño de una estructura interna armónica y visualmente agradable. También, si se emplean adecuadamente, tu diseño tendrá un aspecto cuidado, organizado, claro y estructuralmente sólido.
+Sin embargo, el uso de las retículas tiene otra propiedad aun más importante que mejorar la estética. Es un medio de comunicación con el desarrollador que tendrá que ocuparse de programar la web que estás diseñando. Gracias a ellas, el encargado de desarrollo web podrá plasmar una versión interactiva y navegable lo más fiel posible desde un punto de vista visual a la maqueta que has diseñado.
+
 ## Terminología (Estelle)
 
+#### Unidad 
+
+Las unidades son los bloques de construcción básicos de toda retícula. Múltiples unidades forman el conjunto de la retícula. En el ejemplo inferior de BBC puedes ver una retícula de 12 unidades. Cada barra púrpura representa una unidad.
+
+![Unidad](unidad.jpg)
+
+#### Medianil 
+
+Las barras amarillas de la ilustración representan los medianiles que separan cada par de unidades. Los medianiles son una forma de micro espacios en blanco que proporcionan a la retícula algo de espacio para respirar. Es también el espacio que dejamos entre las columnas.
+
+![Medianil](medianil.jpg)
+
+#### Columnas 
+
+Múltiples unidades y medianiles juntos forman columnas que son los contenedores reales en los que ubicar el contenido—estratégicamente. Podría no parecerlo inicialmente, pero trabajar con estas restricciones puede ser liberador. Las restricciones pueden hacer que las decisiones sobre dónde colocar el contenido sean mucho más fáciles.
+
+En el ejemplo de abajo, puedes ver tres columnas diferentes funcionamiento. Cada columna está dimensionada para un tipo de contenido o para crear énfasis.
+
+![Columnas](columnas.jpg)
+
+Lo que puedes observar es que estas columnas en conjunto forman una estructura sólida que transmite consistencia y orden a través de la alineación. 
+
+#### Sectores
+
+Las columnas de contenido forman sectores que son divisiones horizontales de las páginas. No es una mala idea esforzarse por conseguir sectores de igual altura desde la parte inferior de tus páginas. En la práctica esto no siempre se consigue con facilidad. Si tus sectores acaban con la misma altura y esto funciona en tus diseños, genial, si no, avanza y realiza cualquier otra tarea pendiente.
+
+![Sectores](sectores.jpg)
+
 ## La regla de los tercios (Estelle)
+
+La “regla de los tercios” es un principio con el que muchos fotógrafos y artistas ya están familiarizados. Sin embargo, un diseñador web también puede hacer uso de esta regla en sus proyectos. La "regla de los tercios" en web usa una mini retícula e implica que cuando colocas contenido sobre ciertas líneas que dividen el contenido en tercios, el resultado será más atractivo para el ojo humano. Este es un enfoque muy usado en tipografía, por ejemplo. Aunque se trata de un buen punto de inicio y suele dar los resultados deseados, te sugiero que te lo tomes como una aproximación, no es necesario ser demasiado exactos. 
+
+![Tercios](tercios.jpg)
+
+Según esta regla, los puntos de mayor interés en la composición se deberían encontrar en las intersecciones o cercanas a ésta. Es decir en puntos estratégicos.
+
+Se conoce que la mayoría de personas ven un sitio web siguiendo un patrón en forma de Z o F. Según esta información, los usuarios ven las páginas de arriba hacia abajo, de esta manera, la esquina superior izquierda es el área que tiene mayor atención y este suele ser justamente el lugar donde se coloca el logo de la empresa en una página web. 
+
+Una forma de familiarizarte con la regla de los tercios es realizar capturas de pantalla de sitios web que te parezcan buenos y ver en qué medida cumplen con la regla de los tercios. 
 
 ## La retícula de doce columnas (Iñaki)
 
@@ -95,3 +140,10 @@ Puede resultar que el estado mínimo y el máximo no contemplen situaciones de c
 A su vez, pueden encontrarse situaciones en las que, el ancho de los blancos resulta demasiado corto, y produce espacios en blanco que producen una resolución del texto muy inferior, mientras que por la parte superior, el espacio entre el cuerpo del texto y los encabezados, así como el pie de página, resulta mínimo, y ofrece una sensación de acoplamiento en el que apenas existe margen en la parte superior e inferior. 
 
 ## Referencias 
+
+Marketing Online Creativate. (2016, 26 enero). *La retícula en diseño web. Características y funciones.* Recuperado 2 diciembre, 2018, de https://www.creativate.es/diseno-web/la-reticula-en-diseno-web-caracteristicas-y-funciones
+
+Aula Formativa. (2018, 15 noviembre). *La regla de los tercios en el diseño web.* Recuperado 2 diciembre, 2018, de https://blog.aulaformativa.com/la-regla-de-los-tercios-en-el-diseno-web/
+
+Gonzales Melquiades, E. (s.f.). *Unidades VH y VW de CSS3.* Recuperado 2 diciembre, 2018, de https://devcode.la/tutoriales/unidades-vh-vw-css/
+
