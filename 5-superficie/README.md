@@ -176,13 +176,21 @@ Que alguien más dentro del negocio vaya cuidar tanto la marca como una mismo no
 Las guías de marca han de ayudar tanto a precursores como empleados a crear materiales de marca que se adecuen a los estándares marcados. La siguiente estructura simple debería ser seguida: 
 
 •	Una cubierta
+
 •	Una página de contenidos
+
 •	Valores/eslogan de su marca (opcional).
+
 •	Una guía para el logotipo
+
 •	Una guía para el color
+
 •	Una guía para el tipo de fuente
+
 •	Una guía para los gráficos y/o fotografías
+
 •	Una guía para las mejores prácticas de uso, con ejemplos útiles
+
 •	Una nota de agradecimiento
 
 >
