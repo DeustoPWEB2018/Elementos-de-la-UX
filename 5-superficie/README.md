@@ -8,7 +8,31 @@
 
 ## La retícula de doce columnas (Iñaki)
 
+La maquetación de la página web es recomendable hacerla teniendo en cuenta el sistema de retícula de doce unidades. Es un buen sistema para principiantes, ya que ofrece la posibilidad de dividir la web en cuatro, tres y seis columnas. 
+
+### Retícula de cuatro columnas
+
+La retícula de cuatro columnas es muy simple, y formal. Puede resultar un tanto aburrida, pero se puede adaptar a la perfección para tu idea de proyecto. Cada columna ocupa tres unidades. Ejemplo de este tipo de diseño es la página de Amazon donde se encuentran todas las categorías de la web:
+
+### Retícula de tres columnas
+
+En este tipo de retícula cada columna ocupa cuatro unidades. Este diseño resulta, en teoría, más activo que el de cuatro columnas. Sin embargo, requiere más trabajo, porque es un retícula asimétrica. El diseño de la página principal de Noticias de Gipuzkoa está basado en tres columnas:
+
+### Retícula de seis columnas
+
+El uso de este diseño de retícula es recomendable cuando uno maneja muchos contenidos e información. Con esta maquetación cada columna ocupa dos unidades.
+
+### Combinaciones
+
+Sin embargo, es muy común en las páginas web que se combinen dos o tres tipos de retículas. La web de El Diario Vasco es ejemplo de ello:
+
 ## Conclusiones (Iñaki)
+
+- Énfasis: en general, es habitual que las maquetaciones simples sean más agradables para el usuario. Aún así, hay que tener en cuenta el perfil del público objetivo, porque puede que les resulte demasiado aburrido. Para romper la monotonía, es posible dar énfasis a algún contenido de la web rompiendo la retícula. Esto significa resaltar algunos contenido, por ejemplo, cambiando el tamaño de las columnas.
+
+- Limitaciones: antes de empezar a diseñar la página web, hay que tener en cuenta las limitaciones que puedan establecer los anunciantes. La maquetación debe partir sabiendo el tamaño que tendrán los anuncios. Con la publicidad fijada, será más fácil hacer el diseño del resto.
+
+- Mapa mental: el diseño de la página web tiene que tener un sentido, para que el usuario pueda hacerse un mapa mental de la navegación. Las distintas páginas no deben ser totalmente distintas, y tienen que seguir un diseño básico previamente establecido.
 
 ## Sistema de Retícula Infinita
 
