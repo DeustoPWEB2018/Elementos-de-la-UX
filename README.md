@@ -26,7 +26,7 @@ Contenido sobre elaboración de proyectos web centrados en el diseño de la expe
     2. [Diseño de la navegación](4-esqueleto/navegacion.md)
     3. [Diseño de la información](diseno-4-esqueleto/informacion.md)
     4. [Wireframes](4-esqueleto/wireframes.md)
-5. Plano de Superficie [:page_facing_up:](5-estrategia/UX5-superficie.pdf)
+5. [Superficie](5-superficie) [:page_facing_up:](5-estrategia/UX5-superficie.pdf)
     1. [Color](5-estrategia/color.md)
     2. [Tipografía](5-estrategia/tipografia.md)
     3. [Rejillas](5-estrategia/rejillas.md)
