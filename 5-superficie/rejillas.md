@@ -41,7 +41,7 @@ Las columnas de contenido forman sectores que son divisiones horizontales de las
 
 ## La regla de los tercios 
 
-La “regla de los tercios” es un principio con el que muchos fotógrafos y artistas ya están familiarizados. Sin embargo, un diseñador web también puede hacer uso de esta regla en sus proyectos. La "regla de los tercios" en web usa una mini retícula e implica que cuando se coloca contenido sobre ciertas líneas que dividen el contenido en tercios, el resultado será más atractivo para el ojo humano. Este es un enfoque muy usado en tipografía, por ejemplo. Aunque se trata de un buen punto de inicio y suele dar los resultados deseados, es mejor entenderlo como una aproximación, no es necesario ser demasiado exactos. 
+La “regla de los tercios” es un principio con el que muchos fotógrafos y artistas ya están familiarizados. Sin embargo, un diseñador web también puede hacer uso de esta regla en sus proyectos. La "regla de los tercios" en web usa una mini retícula e implica que cuando se coloca contenido sobre ciertas líneas que dividen el contenido en tercios, el resultado será más atractivo para el ojo humano. Este es un enfoque muy usado en fotografía, por ejemplo. Aunque se trata de un buen punto de inicio y suele dar los resultados deseados, es mejor entenderlo como una aproximación, no es necesario ser demasiado exactos. 
 
 ![Tercios](https://github.com/DeustoPWEB2018/Elementos-de-la-UX/blob/df37b05ad4a547de388b4343bdd1789b6d214276/5-superficie/Imagenes/tercios.jpg?raw=true)
 
