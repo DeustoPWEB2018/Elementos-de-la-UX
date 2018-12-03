@@ -84,3 +84,6 @@ Por tanto, algunos trazos, especialmente los curvilíneos, tendrán un grosor qu
 ![modulacion](imagenes/modulacion.png)
 
 Una mala modulación del trazo dará como resultado un carácter tosco y pesado en comparación con el resto del conjunto. David Kadavy llama a esto 'equilibrio de mancha', y normalmente se toma como criterio para definir la calidad de una tipografía bien diseñada. Echa un vistazo a un bloque de texto, después cierra un poco los ojos para captar la impresión de la mancha general que produce.
+
+## Referencias
+
