@@ -37,7 +37,7 @@ Es importante tener en cuenta dos aspectos:
 - Si el espacio en vertical es mínimo provocará que el texto tenga un aspecto abarrotado esto dificultará saber cuando comienza la siguiente línea. 
 - Si el espacio es excesivo la lectura será incómoda y poco legible.
 
-En el diseño web es aconsejable usar unidades de medida relativas, especialmente en lo concrniente a la tipografía. El interlineado se debe de escoger en función al tamaño de la fuente. Si usamos valores em para definir el interlineado, siempre estará relacionado con el tamaño de la fuente. En el siguiente ejemplo, vemos como afecta a la legibilidad el cambio de los valores de la altura de línea o interlineado. 
+En el diseño web es aconsejable usar unidades de medida relativas, especialmente en lo concerniente a la tipografía. El interlineado se debe de escoger en función al tamaño de la fuente. Si usamos valores em para definir el interlineado, siempre estará relacionado con el tamaño de la fuente. En el siguiente ejemplo, vemos como afecta a la legibilidad el cambio de los valores de la altura de línea o interlineado. 
 
 ![IMG1](imagenes/img1.png)
 
@@ -87,3 +87,6 @@ Una mala modulación del trazo dará como resultado un carácter tosco y pesado 
 
 ## Referencias
 
+Yates, Ian: La anatomía de la tipografía web. Disponible aquí: https://webdesign.tutsplus.com/es/articles/the-anatomy-of-web-typography--webdesign-10533
+
+The Elements of Typographic Style Applied to the Web. Disponible aquí: http://webtypography.net/toc/ 
