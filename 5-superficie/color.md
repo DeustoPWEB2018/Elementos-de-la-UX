@@ -7,15 +7,15 @@ Kuler y paletón son unos de los métodos teóricos que existen para aplicar col
 
 1.1. **Esquema de color triádico** que consiste en usar los colores que une a cada extremo del triángulo.
 
-![Triadico](/5-superficie/tri.png)
+![Triadico](imagenes/tri.png)
 
 1.2. **Esquema de color compuesto:** se deben usar los colores que señala cada extremo de la X. 
 
-![Compuesto](/5-superficie/compuesto.png)
+![Compuesto](imagenes/compuesto.png)
 
 1.3. **Análogos:** son aquellos que se unen por las tres puntas.
 
-![Analogos](/5-superficie/ana.png)
+![Analogos](imagenes/ana.png)
 
 Teniendo en cuenta los tres esquemas el diseñador del sitio web, se puede usar cualquier método teórico para desarrollar e implementar los colores adecuados en la plataforma web. Sin embargo, los colores no solo se enfocan para que el sitio web se vea armónico, además deben llevar al usuario a leer lo que queramos que lean y que su energía visual no se gaste viendo colores muy brillantes. Por ende, el contenido de este trabajo se enfoca en algunos tips que los diseñadores o estudiantes de diseño puedan implementar en los sitios web que quieran crear. 
 
@@ -32,7 +32,7 @@ Por ejemplo, un esquema de colores sutil permite que el punto de atención sea e
 ## 3. Comienza con una sencilla base 
 Si no sabes por donde empezar en la selección de colores del diseño web, lo recomendable es optar por el color blanco o gris claro de fondo, con un texto gris oscuro. Y ¿esto por qué? **La combinación del blanco y el gris garantiza una buena legibilidad** a los usuarios y permite que el contenido basado en texto e imagen ocupen un primer plano. Ver ejemplo.
 
-![Color Gris](/5-superficie/gris.png)
+![Color Gris](imagenes/gris.png)
 
 Recomendaciones:
 -	Evitar el uso del negro puro para el texto, el gris oscuro es más cómodo para leer
