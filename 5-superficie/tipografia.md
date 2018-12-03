@@ -5,7 +5,7 @@
 
 La tipografía es fundamental para una página web. Podemos encontrar miles de estilos de tipos tipográficos que nos pueden ser útiles para este último apartado de nuestra página web, y que nos servirán para que nuestros usuarios puedan tener una visita agradable y que puedan entender sin ningún problema nuestros contenidos. 
 
-## 2. Tipografía con CSS (Megane)
+## 2. Tipografía con CSS 
 	a. Noción de la fuente
 
 La noción de fuente es muy importante en este caso, se refiere a “Font-family” en CSS. Podemos manipular la tipografía con esta noción. Para definir esta noción, una fuente es “la colección empacada de caracteres; tradicionalmente bloques físicos usados en imprenta, hoy en día también incluyendo archivos digitales.”
@@ -21,13 +21,13 @@ Ejemplo :
 
 	b. Opciones para mejorar la legibilidad
 
-Primero debemos hacer una diferencia entre la legibilidad lingüística y la legibilidad formal. Usamos el termino legibilidad formal cuando nos referimos a detalles tipográficos; la capacidad de reconocer letras y palabras individuales. La legibilidad lingüística tiene un rol más funcional, está relacionada con la facilidad que tendrá un lector para comprender o asimilar un bloque o fragmento texto.
+Primero debemos hacer una diferencia entre la legibilidad lingüística y la legibilidad formal. Usamos el término legibilidad formal cuando nos referimos a detalles tipográficos; la capacidad de reconocer letras y palabras individuales. La legibilidad lingüística tiene un rol más funcional, está relacionada con la facilidad que tendrá un lector para comprender o asimilar un bloque o fragmento texto.
 
-En este parte podemos hablar de los cajas, Caja alta (Uppercase) y caja baja (lowercase) hacen referencia a las letras en mayúscula y en minúscula espectivamente. El término caja tiene su origen en los cajetines usados en la impresión con letras de plomo, la caja alta es para las letras mayúsculas, la caja baja hace referencia a minuscula. Cuando uses la caja alta (especialmente con tamaños de letra pequeños) es aconsejable aumentar el espacio entre caracteres para mejorar la legibilidad (tracking). En CSS llamamos a esto "letter-spacing" y puede expresarse con valores positivos y negativos, normalmente medido en centésimas de un em mientras que el tracking afecta a la densidad del carácter en su conjunto dentro de un línea o bloque de texto dado.
+En este parte podemos hablar de los cajas, caja alta (Uppercase) y caja baja (lowercase) hacen referencia a las letras en mayúscula y en minúscula respectivamente. El término caja tiene su origen en los cajetines usados en la impresión con letras de plomo, la caja alta es para las letras mayúsculas, la caja baja hace referencia a minúscula. Cuando uses la caja alta (especialmente con tamaños de letra pequeños) es aconsejable aumentar el espacio entre caracteres para mejorar la legibilidad (tracking). En CSS llamamos a esto "letter-spacing" y puede expresarse con valores positivos y negativos, normalmente medido en centésimas de un em mientras que el tracking afecta a la densidad del carácter en su conjunto dentro de un línea o bloque de texto dado.
 
-Con frecuencia se confunde tracking con kerning. El Kerning hace referencia al ajuste del espacio entre dos pares de letras concretas (no a todo un grupo de caracteres) y se utiliza para mejorar la legibilidad. Pero es dificil de usar el kerning en CSS. Sin embargo, podemos usar de las ligaduras que llevan el kerning al siguiente nivel, ofreciendo el reemplazo con glifos para ciertos pares de caracteres. Ejemplo: & para y.
+Con frecuencia se confunde tracking con kerning. El kerning hace referencia al ajuste del espacio entre dos pares de letras concretas (no a todo un grupo de caracteres) y se utiliza para mejorar la legibilidad. Pero es difícil de usar el kerning en CSS. Sin embargo, podemos usar de las ligaduras que llevan el kerning al siguiente nivel, ofreciendo el reemplazo con glifos para ciertos pares de caracteres. Ejemplo: & para y.
 
-Ademas, podemos usar tambien de la funcion CSS word-spacing que puede ser util. Modificar el espacio entre las palabras, acrecentándolo o disminuyéndolo, puede tener un impacto significativo en la legibilidad del texto. El espacio de palabras ideal varía de una circunstancia a otra, dependiendo de factores tales como letterfit, tipo de color y tamaño. 
+Además, podemos usar tambien de la funcion CSS word-spacing que puede ser útil. Modificar el espacio entre las palabras, acrecentándolo o disminuyéndolo, puede tener un impacto significativo en la legibilidad del texto. El espacio de palabras ideal varía de una circunstancia a otra, dependiendo de factores tales como letterfit, tipo de color y tamaño. 
 
 ## 3. Decisiones de maquetación 
 
